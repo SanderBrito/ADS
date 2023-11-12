@@ -1,0 +1,5345 @@
+<?xml version="1.0"?>
+<RelatorioCidades>
+  <Cidades>
+    <Cidade>Afonso Cláudio</Cidade>
+    <Cidade>Água Doce do Norte</Cidade>
+    <Cidade>Águia Branca</Cidade>
+    <Cidade>Alegre</Cidade>
+    <Cidade>Alfredo Chaves</Cidade>
+    <Cidade>Alto Rio Novo</Cidade>
+    <Cidade>Anchieta</Cidade>
+    <Cidade>Apiacá</Cidade>
+    <Cidade>Aracruz</Cidade>
+    <Cidade>Atilio Vivacqua</Cidade>
+    <Cidade>Baixo Guandu</Cidade>
+    <Cidade>Barra de São Francisco</Cidade>
+    <Cidade>Boa Esperança</Cidade>
+    <Cidade>Bom Jesus do Norte</Cidade>
+    <Cidade>Brejetuba</Cidade>
+    <Cidade>Cachoeiro de Itapemirim</Cidade>
+    <Cidade>Cariacica</Cidade>
+    <Cidade>Castelo</Cidade>
+    <Cidade>Colatina</Cidade>
+    <Cidade>Conceição da Barra</Cidade>
+    <Cidade>Conceição do Castelo</Cidade>
+    <Cidade>Divino de São Lourenço</Cidade>
+    <Cidade>Domingos Martins</Cidade>
+    <Cidade>Dores do Rio Preto</Cidade>
+    <Cidade>Ecoporanga</Cidade>
+    <Cidade>Fundão</Cidade>
+    <Cidade>Governador Lindenberg</Cidade>
+    <Cidade>Guaçuí</Cidade>
+    <Cidade>Guarapari</Cidade>
+    <Cidade>Ibatiba</Cidade>
+    <Cidade>Ibiraçu</Cidade>
+    <Cidade>Ibitirama</Cidade>
+    <Cidade>Iconha</Cidade>
+    <Cidade>Irupi</Cidade>
+    <Cidade>Itaguaçu</Cidade>
+    <Cidade>Itapemirim</Cidade>
+    <Cidade>Itarana</Cidade>
+    <Cidade>Iúna</Cidade>
+    <Cidade>Jaguaré</Cidade>
+    <Cidade>Jerônimo Monteiro</Cidade>
+    <Cidade>João Neiva</Cidade>
+    <Cidade>Laranja da Terra</Cidade>
+    <Cidade>Linhares</Cidade>
+    <Cidade>Mantenópolis</Cidade>
+    <Cidade>Marataízes</Cidade>
+    <Cidade>Marechal Floriano</Cidade>
+    <Cidade>Marilândia</Cidade>
+    <Cidade>Mimoso do Sul</Cidade>
+    <Cidade>Montanha</Cidade>
+    <Cidade>Mucurici</Cidade>
+    <Cidade>Muniz Freire</Cidade>
+    <Cidade>Muqui</Cidade>
+    <Cidade>Nova Venécia</Cidade>
+    <Cidade>Pancas</Cidade>
+    <Cidade>Pedro Canário</Cidade>
+    <Cidade>Pinheiros</Cidade>
+    <Cidade>Piúma</Cidade>
+    <Cidade>Ponto Belo</Cidade>
+    <Cidade>Presidente Kennedy</Cidade>
+    <Cidade>Rio Bananal</Cidade>
+    <Cidade>Rio Novo do Sul</Cidade>
+    <Cidade>Santa Leopoldina</Cidade>
+    <Cidade>Santa Maria de Jetibá</Cidade>
+    <Cidade>Santa Teresa</Cidade>
+    <Cidade>São Domingos do Norte</Cidade>
+    <Cidade>São Gabriel da Palha</Cidade>
+    <Cidade>São José do Calçado</Cidade>
+    <Cidade>São Mateus</Cidade>
+    <Cidade>São Roque do Canaã</Cidade>
+    <Cidade>Serra</Cidade>
+    <Cidade>Sooretama</Cidade>
+    <Cidade>Vargem Alta</Cidade>
+    <Cidade>Venda Nova do Imigrante</Cidade>
+    <Cidade>Viana</Cidade>
+    <Cidade>Vila Pavão</Cidade>
+    <Cidade>Vila Valério</Cidade>
+    <Cidade>Vila Velha</Cidade>
+    <Cidade>Vitória</Cidade>
+    <Cidade>Acrelândia</Cidade>
+    <Cidade>Assis Brasil</Cidade>
+    <Cidade>Brasiléia</Cidade>
+    <Cidade>Bujari</Cidade>
+    <Cidade>Capixaba</Cidade>
+    <Cidade>Cruzeiro do Sul</Cidade>
+    <Cidade>Epitaciolândia</Cidade>
+    <Cidade>Feijó</Cidade>
+    <Cidade>Jordão</Cidade>
+    <Cidade>Mâncio Lima</Cidade>
+    <Cidade>Manoel Urbano</Cidade>
+    <Cidade>Marechal Thaumaturgo</Cidade>
+    <Cidade>Plácido de Castro</Cidade>
+    <Cidade>Porto Acre</Cidade>
+    <Cidade>Porto Walter</Cidade>
+    <Cidade>Rio Branco</Cidade>
+    <Cidade>Rodrigues Alves</Cidade>
+    <Cidade>Santa Rosa do Purus</Cidade>
+    <Cidade>Sena Madureira</Cidade>
+    <Cidade>Senador Guiomard</Cidade>
+    <Cidade>Tarauacá</Cidade>
+    <Cidade>Xapuri</Cidade>
+    <Cidade>Água Branca</Cidade>
+    <Cidade>Anadia</Cidade>
+    <Cidade>Arapiraca</Cidade>
+    <Cidade>Atalaia</Cidade>
+    <Cidade>Barra de Santo Antônio</Cidade>
+    <Cidade>Barra de São Miguel</Cidade>
+    <Cidade>Batalha</Cidade>
+    <Cidade>Belém</Cidade>
+    <Cidade>Belo Monte</Cidade>
+    <Cidade>Boca da Mata</Cidade>
+    <Cidade>Branquinha</Cidade>
+    <Cidade>Cacimbinhas</Cidade>
+    <Cidade>Cajueiro</Cidade>
+    <Cidade>Campestre</Cidade>
+    <Cidade>Campo Alegre</Cidade>
+    <Cidade>Campo Grande</Cidade>
+    <Cidade>Canapi</Cidade>
+    <Cidade>Capela</Cidade>
+    <Cidade>Carneiros</Cidade>
+    <Cidade>Chã Preta</Cidade>
+    <Cidade>Coité do Nóia</Cidade>
+    <Cidade>Colônia Leopoldina</Cidade>
+    <Cidade>Coqueiro Seco</Cidade>
+    <Cidade>Coruripe</Cidade>
+    <Cidade>Craíbas</Cidade>
+    <Cidade>Delmiro Gouveia</Cidade>
+    <Cidade>Dois Riachos</Cidade>
+    <Cidade>Estrela de Alagoas</Cidade>
+    <Cidade>Feira Grande</Cidade>
+    <Cidade>Feliz Deserto</Cidade>
+    <Cidade>Flexeiras</Cidade>
+    <Cidade>Girau do Ponciano</Cidade>
+    <Cidade>Ibateguara</Cidade>
+    <Cidade>Igaci</Cidade>
+    <Cidade>Igreja Nova</Cidade>
+    <Cidade>Inhapi</Cidade>
+    <Cidade>Jacaré dos Homens</Cidade>
+    <Cidade>Jacuípe</Cidade>
+    <Cidade>Japaratinga</Cidade>
+    <Cidade>Jaramataia</Cidade>
+    <Cidade>Jequiá da Praia</Cidade>
+    <Cidade>Joaquim Gomes</Cidade>
+    <Cidade>Jundiá</Cidade>
+    <Cidade>Junqueiro</Cidade>
+    <Cidade>Lagoa da Canoa</Cidade>
+    <Cidade>Limoeiro de Anadia</Cidade>
+    <Cidade>Maceió</Cidade>
+    <Cidade>Major Isidoro</Cidade>
+    <Cidade>Mar Vermelho</Cidade>
+    <Cidade>Maragogi</Cidade>
+    <Cidade>Maravilha</Cidade>
+    <Cidade>Marechal Deodoro</Cidade>
+    <Cidade>Maribondo</Cidade>
+    <Cidade>Mata Grande</Cidade>
+    <Cidade>Matriz de Camaragibe</Cidade>
+    <Cidade>Messias</Cidade>
+    <Cidade>Minador do Negrão</Cidade>
+    <Cidade>Monteirópolis</Cidade>
+    <Cidade>Murici</Cidade>
+    <Cidade>Novo Lino</Cidade>
+    <Cidade>Olho d`Água das Flores</Cidade>
+    <Cidade>Olho d`Água do Casado</Cidade>
+    <Cidade>Olho d`Água Grande</Cidade>
+    <Cidade>Olivença</Cidade>
+    <Cidade>Ouro Branco</Cidade>
+    <Cidade>Palestina</Cidade>
+    <Cidade>Palmeira dos Índios</Cidade>
+    <Cidade>Pão de Açúcar</Cidade>
+    <Cidade>Pariconha</Cidade>
+    <Cidade>Paripueira</Cidade>
+    <Cidade>Passo de Camaragibe</Cidade>
+    <Cidade>Paulo Jacinto</Cidade>
+    <Cidade>Penedo</Cidade>
+    <Cidade>Piaçabuçu</Cidade>
+    <Cidade>Pilar</Cidade>
+    <Cidade>Pindoba</Cidade>
+    <Cidade>Piranhas</Cidade>
+    <Cidade>Poço das Trincheiras</Cidade>
+    <Cidade>Porto Calvo</Cidade>
+    <Cidade>Porto de Pedras</Cidade>
+    <Cidade>Porto Real do Colégio</Cidade>
+    <Cidade>Quebrangulo</Cidade>
+    <Cidade>Rio Largo</Cidade>
+    <Cidade>Roteiro</Cidade>
+    <Cidade>Santa Luzia do Norte</Cidade>
+    <Cidade>Santana do Ipanema</Cidade>
+    <Cidade>Santana do Mundaú</Cidade>
+    <Cidade>São Brás</Cidade>
+    <Cidade>São José da Laje</Cidade>
+    <Cidade>São José da Tapera</Cidade>
+    <Cidade>São Luís do Quitunde</Cidade>
+    <Cidade>São Miguel dos Campos</Cidade>
+    <Cidade>São Miguel dos Milagres</Cidade>
+    <Cidade>São Sebastião</Cidade>
+    <Cidade>Satuba</Cidade>
+    <Cidade>Senador Rui Palmeira</Cidade>
+    <Cidade>Tanque d`Arca</Cidade>
+    <Cidade>Taquarana</Cidade>
+    <Cidade>Teotônio Vilela</Cidade>
+    <Cidade>Traipu</Cidade>
+    <Cidade>União dos Palmares</Cidade>
+    <Cidade>Viçosa</Cidade>
+    <Cidade>Amapá</Cidade>
+    <Cidade>Calçoene</Cidade>
+    <Cidade>Cutias</Cidade>
+    <Cidade>Ferreira Gomes</Cidade>
+    <Cidade>Itaubal</Cidade>
+    <Cidade>Laranjal do Jari</Cidade>
+    <Cidade>Macapá</Cidade>
+    <Cidade>Mazagão</Cidade>
+    <Cidade>Oiapoque</Cidade>
+    <Cidade>Pedra Branca do Amaparí</Cidade>
+    <Cidade>Porto Grande</Cidade>
+    <Cidade>Pracuúba</Cidade>
+    <Cidade>Santana</Cidade>
+    <Cidade>Serra do Navio</Cidade>
+    <Cidade>Tartarugalzinho</Cidade>
+    <Cidade>Vitória do Jari</Cidade>
+    <Cidade>Alvarães</Cidade>
+    <Cidade>Amaturá</Cidade>
+    <Cidade>Anamã</Cidade>
+    <Cidade>Anori</Cidade>
+    <Cidade>Apuí</Cidade>
+    <Cidade>Atalaia do Norte</Cidade>
+    <Cidade>Autazes</Cidade>
+    <Cidade>Barcelos</Cidade>
+    <Cidade>Barreirinha</Cidade>
+    <Cidade>Benjamin Constant</Cidade>
+    <Cidade>Beruri</Cidade>
+    <Cidade>Boa Vista do Ramos</Cidade>
+    <Cidade>Boca do Acre</Cidade>
+    <Cidade>Borba</Cidade>
+    <Cidade>Caapiranga</Cidade>
+    <Cidade>Canutama</Cidade>
+    <Cidade>Carauari</Cidade>
+    <Cidade>Careiro</Cidade>
+    <Cidade>Careiro da Várzea</Cidade>
+    <Cidade>Coari</Cidade>
+    <Cidade>Codajás</Cidade>
+    <Cidade>Eirunepé</Cidade>
+    <Cidade>Envira</Cidade>
+    <Cidade>Fonte Boa</Cidade>
+    <Cidade>Guajará</Cidade>
+    <Cidade>Humaitá</Cidade>
+    <Cidade>Ipixuna</Cidade>
+    <Cidade>Iranduba</Cidade>
+    <Cidade>Itacoatiara</Cidade>
+    <Cidade>Itamarati</Cidade>
+    <Cidade>Itapiranga</Cidade>
+    <Cidade>Japurá</Cidade>
+    <Cidade>Juruá</Cidade>
+    <Cidade>Jutaí</Cidade>
+    <Cidade>Lábrea</Cidade>
+    <Cidade>Manacapuru</Cidade>
+    <Cidade>Manaquiri</Cidade>
+    <Cidade>Manaus</Cidade>
+    <Cidade>Manicoré</Cidade>
+    <Cidade>Maraã</Cidade>
+    <Cidade>Maués</Cidade>
+    <Cidade>Nhamundá</Cidade>
+    <Cidade>Nova Olinda do Norte</Cidade>
+    <Cidade>Novo Airão</Cidade>
+    <Cidade>Novo Aripuanã</Cidade>
+    <Cidade>Parintins</Cidade>
+    <Cidade>Pauini</Cidade>
+    <Cidade>Presidente Figueiredo</Cidade>
+    <Cidade>Rio Preto da Eva</Cidade>
+    <Cidade>Santa Isabel do Rio Negro</Cidade>
+    <Cidade>Santo Antônio do Içá</Cidade>
+    <Cidade>São Gabriel da Cachoeira</Cidade>
+    <Cidade>São Paulo de Olivença</Cidade>
+    <Cidade>São Sebastião do Uatumã</Cidade>
+    <Cidade>Silves</Cidade>
+    <Cidade>Tabatinga</Cidade>
+    <Cidade>Tapauá</Cidade>
+    <Cidade>Tefé</Cidade>
+    <Cidade>Tonantins</Cidade>
+    <Cidade>Uarini</Cidade>
+    <Cidade>Urucará</Cidade>
+    <Cidade>Urucurituba</Cidade>
+    <Cidade>Abaíra</Cidade>
+    <Cidade>Abaré</Cidade>
+    <Cidade>Acajutiba</Cidade>
+    <Cidade>Adustina</Cidade>
+    <Cidade>Água Fria</Cidade>
+    <Cidade>Aiquara</Cidade>
+    <Cidade>Alagoinhas</Cidade>
+    <Cidade>Alcobaça</Cidade>
+    <Cidade>Almadina</Cidade>
+    <Cidade>Amargosa</Cidade>
+    <Cidade>Amélia Rodrigues</Cidade>
+    <Cidade>América Dourada</Cidade>
+    <Cidade>Anagé</Cidade>
+    <Cidade>Andaraí</Cidade>
+    <Cidade>Andorinha</Cidade>
+    <Cidade>Angical</Cidade>
+    <Cidade>Anguera</Cidade>
+    <Cidade>Antas</Cidade>
+    <Cidade>Antônio Cardoso</Cidade>
+    <Cidade>Antônio Gonçalves</Cidade>
+    <Cidade>Aporá</Cidade>
+    <Cidade>Apuarema</Cidade>
+    <Cidade>Araças</Cidade>
+    <Cidade>Aracatu</Cidade>
+    <Cidade>Araci</Cidade>
+    <Cidade>Aramari</Cidade>
+    <Cidade>Arataca</Cidade>
+    <Cidade>Aratuípe</Cidade>
+    <Cidade>Aurelino Leal</Cidade>
+    <Cidade>Baianópolis</Cidade>
+    <Cidade>Baixa Grande</Cidade>
+    <Cidade>Banzaê</Cidade>
+    <Cidade>Barra</Cidade>
+    <Cidade>Barra da Estiva</Cidade>
+    <Cidade>Barra do Choça</Cidade>
+    <Cidade>Barra do Mendes</Cidade>
+    <Cidade>Barra do Rocha</Cidade>
+    <Cidade>Barreiras</Cidade>
+    <Cidade>Barro Alto</Cidade>
+    <Cidade>Barro Preto (antigo Gov. Lomanto Jr.)</Cidade>
+    <Cidade>Barrocas</Cidade>
+    <Cidade>Belmonte</Cidade>
+    <Cidade>Belo Campo</Cidade>
+    <Cidade>Biritinga</Cidade>
+    <Cidade>Boa Nova</Cidade>
+    <Cidade>Boa Vista do Tupim</Cidade>
+    <Cidade>Bom Jesus da Lapa</Cidade>
+    <Cidade>Bom Jesus da Serra</Cidade>
+    <Cidade>Boninal</Cidade>
+    <Cidade>Bonito</Cidade>
+    <Cidade>Boquira</Cidade>
+    <Cidade>Botuporã</Cidade>
+    <Cidade>Brejões</Cidade>
+    <Cidade>Brejolândia</Cidade>
+    <Cidade>Brotas de Macaúbas</Cidade>
+    <Cidade>Brumado</Cidade>
+    <Cidade>Buerarema</Cidade>
+    <Cidade>Buritirama</Cidade>
+    <Cidade>Caatiba</Cidade>
+    <Cidade>Cabaceiras do Paraguaçu</Cidade>
+    <Cidade>Cachoeira</Cidade>
+    <Cidade>Caculé</Cidade>
+    <Cidade>Caém</Cidade>
+    <Cidade>Caetanos</Cidade>
+    <Cidade>Caetité</Cidade>
+    <Cidade>Cafarnaum</Cidade>
+    <Cidade>Cairu</Cidade>
+    <Cidade>Caldeirão Grande</Cidade>
+    <Cidade>Camacan</Cidade>
+    <Cidade>Camaçari</Cidade>
+    <Cidade>Camamu</Cidade>
+    <Cidade>Campo Alegre de Lourdes</Cidade>
+    <Cidade>Campo Formoso</Cidade>
+    <Cidade>Canápolis</Cidade>
+    <Cidade>Canarana</Cidade>
+    <Cidade>Canavieiras</Cidade>
+    <Cidade>Candeal</Cidade>
+    <Cidade>Candeias</Cidade>
+    <Cidade>Candiba</Cidade>
+    <Cidade>Cândido Sales</Cidade>
+    <Cidade>Cansanção</Cidade>
+    <Cidade>Canudos</Cidade>
+    <Cidade>Capela do Alto Alegre</Cidade>
+    <Cidade>Capim Grosso</Cidade>
+    <Cidade>Caraíbas</Cidade>
+    <Cidade>Caravelas</Cidade>
+    <Cidade>Cardeal da Silva</Cidade>
+    <Cidade>Carinhanha</Cidade>
+    <Cidade>Casa Nova</Cidade>
+    <Cidade>Castro Alves</Cidade>
+    <Cidade>Catolândia</Cidade>
+    <Cidade>Catu</Cidade>
+    <Cidade>Caturama</Cidade>
+    <Cidade>Central</Cidade>
+    <Cidade>Chorrochó</Cidade>
+    <Cidade>Cícero Dantas</Cidade>
+    <Cidade>Cipó</Cidade>
+    <Cidade>Coaraci</Cidade>
+    <Cidade>Cocos</Cidade>
+    <Cidade>Conceição da Feira</Cidade>
+    <Cidade>Conceição do Almeida</Cidade>
+    <Cidade>Conceição do Coité</Cidade>
+    <Cidade>Conceição do Jacuípe</Cidade>
+    <Cidade>Conde</Cidade>
+    <Cidade>Condeúba</Cidade>
+    <Cidade>Contendas do Sincorá</Cidade>
+    <Cidade>Coração de Maria</Cidade>
+    <Cidade>Cordeiros</Cidade>
+    <Cidade>Coribe</Cidade>
+    <Cidade>Coronel João Sá</Cidade>
+    <Cidade>Correntina</Cidade>
+    <Cidade>Cotegipe</Cidade>
+    <Cidade>Cravolândia</Cidade>
+    <Cidade>Crisópolis</Cidade>
+    <Cidade>Cristópolis</Cidade>
+    <Cidade>Cruz das Almas</Cidade>
+    <Cidade>Curaçá</Cidade>
+    <Cidade>Dário Meira</Cidade>
+    <Cidade>Dias d`Ávila</Cidade>
+    <Cidade>Dom Basílio</Cidade>
+    <Cidade>Dom Macedo Costa</Cidade>
+    <Cidade>Elísio Medrado</Cidade>
+    <Cidade>Encruzilhada</Cidade>
+    <Cidade>Entre Rios</Cidade>
+    <Cidade>Érico Cardoso</Cidade>
+    <Cidade>Esplanada</Cidade>
+    <Cidade>Euclides da Cunha</Cidade>
+    <Cidade>Eunápolis</Cidade>
+    <Cidade>Fátima</Cidade>
+    <Cidade>Feira da Mata</Cidade>
+    <Cidade>Feira de Santana</Cidade>
+    <Cidade>Filadélfia</Cidade>
+    <Cidade>Firmino Alves</Cidade>
+    <Cidade>Floresta Azul</Cidade>
+    <Cidade>Formosa do Rio Preto</Cidade>
+    <Cidade>Gandu</Cidade>
+    <Cidade>Gavião</Cidade>
+    <Cidade>Gentio do Ouro</Cidade>
+    <Cidade>Glória</Cidade>
+    <Cidade>Gongogi</Cidade>
+    <Cidade>Governador Mangabeira</Cidade>
+    <Cidade>Guajeru</Cidade>
+    <Cidade>Guanambi</Cidade>
+    <Cidade>Guaratinga</Cidade>
+    <Cidade>Heliópolis</Cidade>
+    <Cidade>Iaçu</Cidade>
+    <Cidade>Ibiassucê</Cidade>
+    <Cidade>Ibicaraí</Cidade>
+    <Cidade>Ibicoara</Cidade>
+    <Cidade>Ibicuí</Cidade>
+    <Cidade>Ibipeba</Cidade>
+    <Cidade>Ibipitanga</Cidade>
+    <Cidade>Ibiquera</Cidade>
+    <Cidade>Ibirapitanga</Cidade>
+    <Cidade>Ibirapuã</Cidade>
+    <Cidade>Ibirataia</Cidade>
+    <Cidade>Ibitiara</Cidade>
+    <Cidade>Ibititá</Cidade>
+    <Cidade>Ibotirama</Cidade>
+    <Cidade>Ichu</Cidade>
+    <Cidade>Igaporã</Cidade>
+    <Cidade>Igrapiúna</Cidade>
+    <Cidade>Iguaí</Cidade>
+    <Cidade>Ilhéus</Cidade>
+    <Cidade>Inhambupe</Cidade>
+    <Cidade>Ipecaetá</Cidade>
+    <Cidade>Ipiaú</Cidade>
+    <Cidade>Ipirá</Cidade>
+    <Cidade>Ipupiara</Cidade>
+    <Cidade>Irajuba</Cidade>
+    <Cidade>Iramaia</Cidade>
+    <Cidade>Iraquara</Cidade>
+    <Cidade>Irará</Cidade>
+    <Cidade>Irecê</Cidade>
+    <Cidade>Itabela</Cidade>
+    <Cidade>Itaberaba</Cidade>
+    <Cidade>Itabuna</Cidade>
+    <Cidade>Itacaré</Cidade>
+    <Cidade>Itaeté</Cidade>
+    <Cidade>Itagi</Cidade>
+    <Cidade>Itagibá</Cidade>
+    <Cidade>Itagimirim</Cidade>
+    <Cidade>Itaguaçu da Bahia</Cidade>
+    <Cidade>Itaju do Colônia</Cidade>
+    <Cidade>Itajuípe</Cidade>
+    <Cidade>Itamaraju</Cidade>
+    <Cidade>Itamari</Cidade>
+    <Cidade>Itambé</Cidade>
+    <Cidade>Itanagra</Cidade>
+    <Cidade>Itanhém</Cidade>
+    <Cidade>Itaparica</Cidade>
+    <Cidade>Itapé</Cidade>
+    <Cidade>Itapebi</Cidade>
+    <Cidade>Itapetinga</Cidade>
+    <Cidade>Itapicuru</Cidade>
+    <Cidade>Itapitanga</Cidade>
+    <Cidade>Itaquara</Cidade>
+    <Cidade>Itarantim</Cidade>
+    <Cidade>Itatim</Cidade>
+    <Cidade>Itiruçu</Cidade>
+    <Cidade>Itiúba</Cidade>
+    <Cidade>Itororó</Cidade>
+    <Cidade>Ituaçu</Cidade>
+    <Cidade>Ituberá</Cidade>
+    <Cidade>Iuiú</Cidade>
+    <Cidade>Jaborandi</Cidade>
+    <Cidade>Jacaraci</Cidade>
+    <Cidade>Jacobina</Cidade>
+    <Cidade>Jaguaquara</Cidade>
+    <Cidade>Jaguarari</Cidade>
+    <Cidade>Jaguaripe</Cidade>
+    <Cidade>Jandaíra</Cidade>
+    <Cidade>Jequié</Cidade>
+    <Cidade>Jeremoabo</Cidade>
+    <Cidade>Jiquiriçá</Cidade>
+    <Cidade>Jitaúna</Cidade>
+    <Cidade>João Dourado</Cidade>
+    <Cidade>Juazeiro</Cidade>
+    <Cidade>Jucuruçu</Cidade>
+    <Cidade>Jussara</Cidade>
+    <Cidade>Jussari</Cidade>
+    <Cidade>Jussiape</Cidade>
+    <Cidade>Lafaiete Coutinho</Cidade>
+    <Cidade>Lagoa Real</Cidade>
+    <Cidade>Laje</Cidade>
+    <Cidade>Lajedão</Cidade>
+    <Cidade>Lajedinho</Cidade>
+    <Cidade>Lajedo do Tabocal</Cidade>
+    <Cidade>Lamarão</Cidade>
+    <Cidade>Lapão</Cidade>
+    <Cidade>Lauro de Freitas</Cidade>
+    <Cidade>Lençóis</Cidade>
+    <Cidade>Licínio de Almeida</Cidade>
+    <Cidade>Livramento de Nossa Senhora</Cidade>
+    <Cidade>Luís Eduardo Magalhães</Cidade>
+    <Cidade>Macajuba</Cidade>
+    <Cidade>Macarani</Cidade>
+    <Cidade>Macaúbas</Cidade>
+    <Cidade>Macururé</Cidade>
+    <Cidade>Madre de Deus</Cidade>
+    <Cidade>Maetinga</Cidade>
+    <Cidade>Maiquinique</Cidade>
+    <Cidade>Mairi</Cidade>
+    <Cidade>Malhada</Cidade>
+    <Cidade>Malhada de Pedras</Cidade>
+    <Cidade>Manoel Vitorino</Cidade>
+    <Cidade>Mansidão</Cidade>
+    <Cidade>Maracás</Cidade>
+    <Cidade>Maragogipe</Cidade>
+    <Cidade>Maraú</Cidade>
+    <Cidade>Marcionílio Souza</Cidade>
+    <Cidade>Mascote</Cidade>
+    <Cidade>Mata de São João</Cidade>
+    <Cidade>Matina</Cidade>
+    <Cidade>Medeiros Neto</Cidade>
+    <Cidade>Miguel Calmon</Cidade>
+    <Cidade>Milagres</Cidade>
+    <Cidade>Mirangaba</Cidade>
+    <Cidade>Mirante</Cidade>
+    <Cidade>Monte Santo</Cidade>
+    <Cidade>Morpará</Cidade>
+    <Cidade>Morro do Chapéu</Cidade>
+    <Cidade>Mortugaba</Cidade>
+    <Cidade>Mucugê</Cidade>
+    <Cidade>Mucuri</Cidade>
+    <Cidade>Mulungu do Morro</Cidade>
+    <Cidade>Mundo Novo</Cidade>
+    <Cidade>Muniz Ferreira</Cidade>
+    <Cidade>Muquém de São Francisco</Cidade>
+    <Cidade>Muritiba</Cidade>
+    <Cidade>Mutuípe</Cidade>
+    <Cidade>Nazaré</Cidade>
+    <Cidade>Nilo Peçanha</Cidade>
+    <Cidade>Nordestina</Cidade>
+    <Cidade>Nova Canaã</Cidade>
+    <Cidade>Nova Fátima</Cidade>
+    <Cidade>Nova Ibiá</Cidade>
+    <Cidade>Nova Itarana</Cidade>
+    <Cidade>Nova Redenção</Cidade>
+    <Cidade>Nova Soure</Cidade>
+    <Cidade>Nova Viçosa</Cidade>
+    <Cidade>Novo Horizonte</Cidade>
+    <Cidade>Novo Triunfo</Cidade>
+    <Cidade>Olindina</Cidade>
+    <Cidade>Oliveira dos Brejinhos</Cidade>
+    <Cidade>Ouriçangas</Cidade>
+    <Cidade>Ourolândia</Cidade>
+    <Cidade>Palmas de Monte Alto</Cidade>
+    <Cidade>Palmeiras</Cidade>
+    <Cidade>Paramirim</Cidade>
+    <Cidade>Paratinga</Cidade>
+    <Cidade>Paripiranga</Cidade>
+    <Cidade>Pau Brasil</Cidade>
+    <Cidade>Paulo Afonso</Cidade>
+    <Cidade>Pé de Serra</Cidade>
+    <Cidade>Pedrão</Cidade>
+    <Cidade>Pedro Alexandre</Cidade>
+    <Cidade>Piatã</Cidade>
+    <Cidade>Pilão Arcado</Cidade>
+    <Cidade>Pindaí</Cidade>
+    <Cidade>Pindobaçu</Cidade>
+    <Cidade>Pintadas</Cidade>
+    <Cidade>Piraí do Norte</Cidade>
+    <Cidade>Piripá</Cidade>
+    <Cidade>Piritiba</Cidade>
+    <Cidade>Planaltino</Cidade>
+    <Cidade>Planalto</Cidade>
+    <Cidade>Poções</Cidade>
+    <Cidade>Pojuca</Cidade>
+    <Cidade>Ponto Novo</Cidade>
+    <Cidade>Porto Seguro</Cidade>
+    <Cidade>Potiraguá</Cidade>
+    <Cidade>Prado</Cidade>
+    <Cidade>Presidente Dutra</Cidade>
+    <Cidade>Presidente Jânio Quadros</Cidade>
+    <Cidade>Presidente Tancredo Neves</Cidade>
+    <Cidade>Queimadas</Cidade>
+    <Cidade>Quijingue</Cidade>
+    <Cidade>Quixabeira</Cidade>
+    <Cidade>Rafael Jambeiro</Cidade>
+    <Cidade>Remanso</Cidade>
+    <Cidade>Retirolândia</Cidade>
+    <Cidade>Riachão das Neves</Cidade>
+    <Cidade>Riachão do Jacuípe</Cidade>
+    <Cidade>Riacho de Santana</Cidade>
+    <Cidade>Ribeira do Amparo</Cidade>
+    <Cidade>Ribeira do Pombal</Cidade>
+    <Cidade>Ribeirão do Largo</Cidade>
+    <Cidade>Rio de Contas</Cidade>
+    <Cidade>Rio do Antônio</Cidade>
+    <Cidade>Rio do Pires</Cidade>
+    <Cidade>Rio Real</Cidade>
+    <Cidade>Rodelas</Cidade>
+    <Cidade>Ruy Barbosa</Cidade>
+    <Cidade>Salinas da Margarida</Cidade>
+    <Cidade>Salvador</Cidade>
+    <Cidade>Santa Bárbara</Cidade>
+    <Cidade>Santa Brígida</Cidade>
+    <Cidade>Santa Cruz Cabrália</Cidade>
+    <Cidade>Santa Cruz da Vitória</Cidade>
+    <Cidade>Santa Inês</Cidade>
+    <Cidade>Santa Luzia</Cidade>
+    <Cidade>Santa Maria da Vitória</Cidade>
+    <Cidade>Santa Rita de Cássia</Cidade>
+    <Cidade>Santa Teresinha</Cidade>
+    <Cidade>Santaluz</Cidade>
+    <Cidade>Santana</Cidade>
+    <Cidade>Santanópolis</Cidade>
+    <Cidade>Santo Amaro</Cidade>
+    <Cidade>Santo Antônio de Jesus</Cidade>
+    <Cidade>Santo Estêvão</Cidade>
+    <Cidade>São Desidério</Cidade>
+    <Cidade>São Domingos</Cidade>
+    <Cidade>São Felipe</Cidade>
+    <Cidade>São Félix</Cidade>
+    <Cidade>São Félix do Coribe</Cidade>
+    <Cidade>São Francisco do Conde</Cidade>
+    <Cidade>São Gabriel</Cidade>
+    <Cidade>São Gonçalo dos Campos</Cidade>
+    <Cidade>São José da Vitória</Cidade>
+    <Cidade>São José do Jacuípe</Cidade>
+    <Cidade>São Miguel das Matas</Cidade>
+    <Cidade>São Sebastião do Passé</Cidade>
+    <Cidade>Sapeaçu</Cidade>
+    <Cidade>Sátiro Dias</Cidade>
+    <Cidade>Saubara</Cidade>
+    <Cidade>Saúde</Cidade>
+    <Cidade>Seabra</Cidade>
+    <Cidade>Sebastião Laranjeiras</Cidade>
+    <Cidade>Senhor do Bonfim</Cidade>
+    <Cidade>Sento Sé</Cidade>
+    <Cidade>Serra do Ramalho</Cidade>
+    <Cidade>Serra Dourada</Cidade>
+    <Cidade>Serra Preta</Cidade>
+    <Cidade>Serrinha</Cidade>
+    <Cidade>Serrolândia</Cidade>
+    <Cidade>Simões Filho</Cidade>
+    <Cidade>Sítio do Mato</Cidade>
+    <Cidade>Sítio do Quinto</Cidade>
+    <Cidade>Sobradinho</Cidade>
+    <Cidade>Souto Soares</Cidade>
+    <Cidade>Tabocas do Brejo Velho</Cidade>
+    <Cidade>Tanhaçu</Cidade>
+    <Cidade>Tanque Novo</Cidade>
+    <Cidade>Tanquinho</Cidade>
+    <Cidade>Taperoá</Cidade>
+    <Cidade>Tapiramutá</Cidade>
+    <Cidade>Teixeira de Freitas</Cidade>
+    <Cidade>Teodoro Sampaio</Cidade>
+    <Cidade>Teofilândia</Cidade>
+    <Cidade>Teolândia</Cidade>
+    <Cidade>Terra Nova</Cidade>
+    <Cidade>Tremedal</Cidade>
+    <Cidade>Tucano</Cidade>
+    <Cidade>Uauá</Cidade>
+    <Cidade>Ubaíra</Cidade>
+    <Cidade>Ubaitaba</Cidade>
+    <Cidade>Ubatã</Cidade>
+    <Cidade>Uibaí</Cidade>
+    <Cidade>Umburanas</Cidade>
+    <Cidade>Una</Cidade>
+    <Cidade>Urandi</Cidade>
+    <Cidade>Uruçuca</Cidade>
+    <Cidade>Utinga</Cidade>
+    <Cidade>Valença</Cidade>
+    <Cidade>Valente</Cidade>
+    <Cidade>Várzea da Roça</Cidade>
+    <Cidade>Várzea do Poço</Cidade>
+    <Cidade>Várzea Nova</Cidade>
+    <Cidade>Varzedo</Cidade>
+    <Cidade>Vera Cruz</Cidade>
+    <Cidade>Vereda</Cidade>
+    <Cidade>Vitória da Conquista</Cidade>
+    <Cidade>Wagner</Cidade>
+    <Cidade>Wanderley</Cidade>
+    <Cidade>Wenceslau Guimarães</Cidade>
+    <Cidade>Xique-Xique</Cidade>
+    <Cidade>Abaiara</Cidade>
+    <Cidade>Acarape</Cidade>
+    <Cidade>Acaraú</Cidade>
+    <Cidade>Acopiara</Cidade>
+    <Cidade>Aiuaba</Cidade>
+    <Cidade>Alcântaras</Cidade>
+    <Cidade>Altaneira</Cidade>
+    <Cidade>Alto Santo</Cidade>
+    <Cidade>Amontada</Cidade>
+    <Cidade>Antonina do Norte</Cidade>
+    <Cidade>Apuiarés</Cidade>
+    <Cidade>Aquiraz</Cidade>
+    <Cidade>Aracati</Cidade>
+    <Cidade>Aracoiaba</Cidade>
+    <Cidade>Ararendá</Cidade>
+    <Cidade>Araripe</Cidade>
+    <Cidade>Aratuba</Cidade>
+    <Cidade>Arneiroz</Cidade>
+    <Cidade>Assaré</Cidade>
+    <Cidade>Aurora</Cidade>
+    <Cidade>Baixio</Cidade>
+    <Cidade>Banabuiú</Cidade>
+    <Cidade>Barbalha</Cidade>
+    <Cidade>Barreira</Cidade>
+    <Cidade>Barro</Cidade>
+    <Cidade>Barroquinha</Cidade>
+    <Cidade>Baturité</Cidade>
+    <Cidade>Beberibe</Cidade>
+    <Cidade>Bela Cruz</Cidade>
+    <Cidade>Boa Viagem</Cidade>
+    <Cidade>Brejo Santo</Cidade>
+    <Cidade>Camocim</Cidade>
+    <Cidade>Campos Sales</Cidade>
+    <Cidade>Canindé</Cidade>
+    <Cidade>Capistrano</Cidade>
+    <Cidade>Caridade</Cidade>
+    <Cidade>Cariré</Cidade>
+    <Cidade>Caririaçu</Cidade>
+    <Cidade>Cariús</Cidade>
+    <Cidade>Carnaubal</Cidade>
+    <Cidade>Cascavel</Cidade>
+    <Cidade>Catarina</Cidade>
+    <Cidade>Catunda</Cidade>
+    <Cidade>Caucaia</Cidade>
+    <Cidade>Cedro</Cidade>
+    <Cidade>Chaval</Cidade>
+    <Cidade>Choró</Cidade>
+    <Cidade>Chorozinho</Cidade>
+    <Cidade>Coreaú</Cidade>
+    <Cidade>Crateús</Cidade>
+    <Cidade>Crato</Cidade>
+    <Cidade>Croatá</Cidade>
+    <Cidade>Cruz</Cidade>
+    <Cidade>Deputado Irapuan Pinheiro</Cidade>
+    <Cidade>Ererê</Cidade>
+    <Cidade>Eusébio</Cidade>
+    <Cidade>Farias Brito</Cidade>
+    <Cidade>Forquilha</Cidade>
+    <Cidade>Fortaleza</Cidade>
+    <Cidade>Fortim</Cidade>
+    <Cidade>Frecheirinha</Cidade>
+    <Cidade>General Sampaio</Cidade>
+    <Cidade>Graça</Cidade>
+    <Cidade>Granja</Cidade>
+    <Cidade>Granjeiro</Cidade>
+    <Cidade>Groaíras</Cidade>
+    <Cidade>Guaiúba</Cidade>
+    <Cidade>Guaraciaba do Norte</Cidade>
+    <Cidade>Guaramiranga</Cidade>
+    <Cidade>Hidrolândia</Cidade>
+    <Cidade>Horizonte</Cidade>
+    <Cidade>Ibaretama</Cidade>
+    <Cidade>Ibiapina</Cidade>
+    <Cidade>Ibicuitinga</Cidade>
+    <Cidade>Icapuí</Cidade>
+    <Cidade>Icó</Cidade>
+    <Cidade>Iguatu</Cidade>
+    <Cidade>Independência</Cidade>
+    <Cidade>Ipaporanga</Cidade>
+    <Cidade>Ipaumirim</Cidade>
+    <Cidade>Ipu</Cidade>
+    <Cidade>Ipueiras</Cidade>
+    <Cidade>Iracema</Cidade>
+    <Cidade>Irauçuba</Cidade>
+    <Cidade>Itaiçaba</Cidade>
+    <Cidade>Itaitinga</Cidade>
+    <Cidade>Itapagé</Cidade>
+    <Cidade>Itapipoca</Cidade>
+    <Cidade>Itapiúna</Cidade>
+    <Cidade>Itarema</Cidade>
+    <Cidade>Itatira</Cidade>
+    <Cidade>Jaguaretama</Cidade>
+    <Cidade>Jaguaribara</Cidade>
+    <Cidade>Jaguaribe</Cidade>
+    <Cidade>Jaguaruana</Cidade>
+    <Cidade>Jardim</Cidade>
+    <Cidade>Jati</Cidade>
+    <Cidade>Jijoca de Jericoacoara</Cidade>
+    <Cidade>Juazeiro do Norte</Cidade>
+    <Cidade>Jucás</Cidade>
+    <Cidade>Lavras da Mangabeira</Cidade>
+    <Cidade>Limoeiro do Norte</Cidade>
+    <Cidade>Madalena</Cidade>
+    <Cidade>Maracanaú</Cidade>
+    <Cidade>Maranguape</Cidade>
+    <Cidade>Marco</Cidade>
+    <Cidade>Martinópole</Cidade>
+    <Cidade>Massapê</Cidade>
+    <Cidade>Mauriti</Cidade>
+    <Cidade>Meruoca</Cidade>
+    <Cidade>Milagres</Cidade>
+    <Cidade>Milhã</Cidade>
+    <Cidade>Miraíma</Cidade>
+    <Cidade>Missão Velha</Cidade>
+    <Cidade>Mombaça</Cidade>
+    <Cidade>Monsenhor Tabosa</Cidade>
+    <Cidade>Morada Nova</Cidade>
+    <Cidade>Moraújo</Cidade>
+    <Cidade>Morrinhos</Cidade>
+    <Cidade>Mucambo</Cidade>
+    <Cidade>Mulungu</Cidade>
+    <Cidade>Nova Olinda</Cidade>
+    <Cidade>Nova Russas</Cidade>
+    <Cidade>Novo Oriente</Cidade>
+    <Cidade>Ocara</Cidade>
+    <Cidade>Orós</Cidade>
+    <Cidade>Pacajus</Cidade>
+    <Cidade>Pacatuba</Cidade>
+    <Cidade>Pacoti</Cidade>
+    <Cidade>Pacujá</Cidade>
+    <Cidade>Palhano</Cidade>
+    <Cidade>Palmácia</Cidade>
+    <Cidade>Paracuru</Cidade>
+    <Cidade>Paraipaba</Cidade>
+    <Cidade>Parambu</Cidade>
+    <Cidade>Paramoti</Cidade>
+    <Cidade>Pedra Branca</Cidade>
+    <Cidade>Penaforte</Cidade>
+    <Cidade>Pentecoste</Cidade>
+    <Cidade>Pereiro</Cidade>
+    <Cidade>Pindoretama</Cidade>
+    <Cidade>Piquet Carneiro</Cidade>
+    <Cidade>Pires Ferreira</Cidade>
+    <Cidade>Poranga</Cidade>
+    <Cidade>Porteiras</Cidade>
+    <Cidade>Potengi</Cidade>
+    <Cidade>Potiretama</Cidade>
+    <Cidade>Quiterianópolis</Cidade>
+    <Cidade>Quixadá</Cidade>
+    <Cidade>Quixelô</Cidade>
+    <Cidade>Quixeramobim</Cidade>
+    <Cidade>Quixeré</Cidade>
+    <Cidade>Redenção</Cidade>
+    <Cidade>Reriutaba</Cidade>
+    <Cidade>Russas</Cidade>
+    <Cidade>Saboeiro</Cidade>
+    <Cidade>Salitre</Cidade>
+    <Cidade>Santa Quitéria</Cidade>
+    <Cidade>Santana do Acaraú</Cidade>
+    <Cidade>Santana do Cariri</Cidade>
+    <Cidade>São Benedito</Cidade>
+    <Cidade>São Gonçalo do Amarante</Cidade>
+    <Cidade>São João do Jaguaribe</Cidade>
+    <Cidade>São Luís do Curu</Cidade>
+    <Cidade>Senador Pompeu</Cidade>
+    <Cidade>Senador Sá</Cidade>
+    <Cidade>Sobral</Cidade>
+    <Cidade>Solonópole</Cidade>
+    <Cidade>Tabuleiro do Norte</Cidade>
+    <Cidade>Tamboril</Cidade>
+    <Cidade>Tarrafas</Cidade>
+    <Cidade>Tauá</Cidade>
+    <Cidade>Tejuçuoca</Cidade>
+    <Cidade>Tianguá</Cidade>
+    <Cidade>Trairi</Cidade>
+    <Cidade>Tururu</Cidade>
+    <Cidade>Ubajara</Cidade>
+    <Cidade>Umari</Cidade>
+    <Cidade>Umirim</Cidade>
+    <Cidade>Uruburetama</Cidade>
+    <Cidade>Uruoca</Cidade>
+    <Cidade>Varjota</Cidade>
+    <Cidade>Várzea Alegre</Cidade>
+    <Cidade>Viçosa do Ceará</Cidade>
+    <Cidade>Brasília</Cidade>
+    <Cidade>Abadia de Goiás</Cidade>
+    <Cidade>Abadiânia</Cidade>
+    <Cidade>Acreúna</Cidade>
+    <Cidade>Adelândia</Cidade>
+    <Cidade>Água Fria de Goiás</Cidade>
+    <Cidade>Água Limpa</Cidade>
+    <Cidade>Águas Lindas de Goiás</Cidade>
+    <Cidade>Alexânia</Cidade>
+    <Cidade>Aloândia</Cidade>
+    <Cidade>Alto Horizonte</Cidade>
+    <Cidade>Alto Paraíso de Goiás</Cidade>
+    <Cidade>Alvorada do Norte</Cidade>
+    <Cidade>Amaralina</Cidade>
+    <Cidade>Americano do Brasil</Cidade>
+    <Cidade>Amorinópolis</Cidade>
+    <Cidade>Anápolis</Cidade>
+    <Cidade>Anhanguera</Cidade>
+    <Cidade>Anicuns</Cidade>
+    <Cidade>Aparecida de Goiânia</Cidade>
+    <Cidade>Aparecida do Rio Doce</Cidade>
+    <Cidade>Aporé</Cidade>
+    <Cidade>Araçu</Cidade>
+    <Cidade>Aragarças</Cidade>
+    <Cidade>Aragoiânia</Cidade>
+    <Cidade>Araguapaz</Cidade>
+    <Cidade>Arenópolis</Cidade>
+    <Cidade>Aruanã</Cidade>
+    <Cidade>Aurilândia</Cidade>
+    <Cidade>Avelinópolis</Cidade>
+    <Cidade>Baliza</Cidade>
+    <Cidade>Barro Alto</Cidade>
+    <Cidade>Bela Vista de Goiás</Cidade>
+    <Cidade>Bom Jardim de Goiás</Cidade>
+    <Cidade>Bom Jesus de Goiás</Cidade>
+    <Cidade>Bonfinópolis</Cidade>
+    <Cidade>Bonópolis</Cidade>
+    <Cidade>Brazabrantes</Cidade>
+    <Cidade>Britânia</Cidade>
+    <Cidade>Buriti Alegre</Cidade>
+    <Cidade>Buriti de Goiás</Cidade>
+    <Cidade>Buritinópolis</Cidade>
+    <Cidade>Cabeceiras</Cidade>
+    <Cidade>Cachoeira Alta</Cidade>
+    <Cidade>Cachoeira de Goiás</Cidade>
+    <Cidade>Cachoeira Dourada</Cidade>
+    <Cidade>Caçu</Cidade>
+    <Cidade>Caiapônia</Cidade>
+    <Cidade>Caldas Novas</Cidade>
+    <Cidade>Caldazinha</Cidade>
+    <Cidade>Campestre de Goiás</Cidade>
+    <Cidade>Campinaçu</Cidade>
+    <Cidade>Campinorte</Cidade>
+    <Cidade>Campo Alegre de Goiás</Cidade>
+    <Cidade>Campo Limpo de Goiás</Cidade>
+    <Cidade>Campos Belos</Cidade>
+    <Cidade>Campos Verdes</Cidade>
+    <Cidade>Carmo do Rio Verde</Cidade>
+    <Cidade>Castelândia</Cidade>
+    <Cidade>Catalão</Cidade>
+    <Cidade>Caturaí</Cidade>
+    <Cidade>Cavalcante</Cidade>
+    <Cidade>Ceres</Cidade>
+    <Cidade>Cezarina</Cidade>
+    <Cidade>Chapadão do Céu</Cidade>
+    <Cidade>Cidade Ocidental</Cidade>
+    <Cidade>Cocalzinho de Goiás</Cidade>
+    <Cidade>Colinas do Sul</Cidade>
+    <Cidade>Córrego do Ouro</Cidade>
+    <Cidade>Corumbá de Goiás</Cidade>
+    <Cidade>Corumbaíba</Cidade>
+    <Cidade>Cristalina</Cidade>
+    <Cidade>Cristianópolis</Cidade>
+    <Cidade>Crixás</Cidade>
+    <Cidade>Cromínia</Cidade>
+    <Cidade>Cumari</Cidade>
+    <Cidade>Damianópolis</Cidade>
+    <Cidade>Damolândia</Cidade>
+    <Cidade>Davinópolis</Cidade>
+    <Cidade>Diorama</Cidade>
+    <Cidade>Divinópolis de Goiás</Cidade>
+    <Cidade>Doverlândia</Cidade>
+    <Cidade>Edealina</Cidade>
+    <Cidade>Edéia</Cidade>
+    <Cidade>Estrela do Norte</Cidade>
+    <Cidade>Faina</Cidade>
+    <Cidade>Fazenda Nova</Cidade>
+    <Cidade>Firminópolis</Cidade>
+    <Cidade>Flores de Goiás</Cidade>
+    <Cidade>Formosa</Cidade>
+    <Cidade>Formoso</Cidade>
+    <Cidade>Gameleira de Goiás</Cidade>
+    <Cidade>Goianápolis</Cidade>
+    <Cidade>Goiandira</Cidade>
+    <Cidade>Goianésia</Cidade>
+    <Cidade>Goiânia</Cidade>
+    <Cidade>Goianira</Cidade>
+    <Cidade>Goiás</Cidade>
+    <Cidade>Goiatuba</Cidade>
+    <Cidade>Gouvelândia</Cidade>
+    <Cidade>Guapó</Cidade>
+    <Cidade>Guaraíta</Cidade>
+    <Cidade>Guarani de Goiás</Cidade>
+    <Cidade>Guarinos</Cidade>
+    <Cidade>Heitoraí</Cidade>
+    <Cidade>Hidrolândia</Cidade>
+    <Cidade>Hidrolina</Cidade>
+    <Cidade>Iaciara</Cidade>
+    <Cidade>Inaciolândia</Cidade>
+    <Cidade>Indiara</Cidade>
+    <Cidade>Inhumas</Cidade>
+    <Cidade>Ipameri</Cidade>
+    <Cidade>Ipiranga de Goiás</Cidade>
+    <Cidade>Iporá</Cidade>
+    <Cidade>Israelândia</Cidade>
+    <Cidade>Itaberaí</Cidade>
+    <Cidade>Itaguari</Cidade>
+    <Cidade>Itaguaru</Cidade>
+    <Cidade>Itajá</Cidade>
+    <Cidade>Itapaci</Cidade>
+    <Cidade>Itapirapuã</Cidade>
+    <Cidade>Itapuranga</Cidade>
+    <Cidade>Itarumã</Cidade>
+    <Cidade>Itauçu</Cidade>
+    <Cidade>Itumbiara</Cidade>
+    <Cidade>Ivolândia</Cidade>
+    <Cidade>Jandaia</Cidade>
+    <Cidade>Jaraguá</Cidade>
+    <Cidade>Jataí</Cidade>
+    <Cidade>Jaupaci</Cidade>
+    <Cidade>Jesúpolis</Cidade>
+    <Cidade>Joviânia</Cidade>
+    <Cidade>Jussara</Cidade>
+    <Cidade>Lagoa Santa</Cidade>
+    <Cidade>Leopoldo de Bulhões</Cidade>
+    <Cidade>Luziânia</Cidade>
+    <Cidade>Mairipotaba</Cidade>
+    <Cidade>Mambaí</Cidade>
+    <Cidade>Mara Rosa</Cidade>
+    <Cidade>Marzagão</Cidade>
+    <Cidade>Matrinchã</Cidade>
+    <Cidade>Maurilândia</Cidade>
+    <Cidade>Mimoso de Goiás</Cidade>
+    <Cidade>Minaçu</Cidade>
+    <Cidade>Mineiros</Cidade>
+    <Cidade>Moiporá</Cidade>
+    <Cidade>Monte Alegre de Goiás</Cidade>
+    <Cidade>Montes Claros de Goiás</Cidade>
+    <Cidade>Montividiu</Cidade>
+    <Cidade>Montividiu do Norte</Cidade>
+    <Cidade>Morrinhos</Cidade>
+    <Cidade>Morro Agudo de Goiás</Cidade>
+    <Cidade>Mossâmedes</Cidade>
+    <Cidade>Mozarlândia</Cidade>
+    <Cidade>Mundo Novo</Cidade>
+    <Cidade>Mutunópolis</Cidade>
+    <Cidade>Nazário</Cidade>
+    <Cidade>Nerópolis</Cidade>
+    <Cidade>Niquelândia</Cidade>
+    <Cidade>Nova América</Cidade>
+    <Cidade>Nova Aurora</Cidade>
+    <Cidade>Nova Crixás</Cidade>
+    <Cidade>Nova Glória</Cidade>
+    <Cidade>Nova Iguaçu de Goiás</Cidade>
+    <Cidade>Nova Roma</Cidade>
+    <Cidade>Nova Veneza</Cidade>
+    <Cidade>Novo Brasil</Cidade>
+    <Cidade>Novo Gama</Cidade>
+    <Cidade>Novo Planalto</Cidade>
+    <Cidade>Orizona</Cidade>
+    <Cidade>Ouro Verde de Goiás</Cidade>
+    <Cidade>Ouvidor</Cidade>
+    <Cidade>Padre Bernardo</Cidade>
+    <Cidade>Palestina de Goiás</Cidade>
+    <Cidade>Palmeiras de Goiás</Cidade>
+    <Cidade>Palmelo</Cidade>
+    <Cidade>Palminópolis</Cidade>
+    <Cidade>Panamá</Cidade>
+    <Cidade>Paranaiguara</Cidade>
+    <Cidade>Paraúna</Cidade>
+    <Cidade>Perolândia</Cidade>
+    <Cidade>Petrolina de Goiás</Cidade>
+    <Cidade>Pilar de Goiás</Cidade>
+    <Cidade>Piracanjuba</Cidade>
+    <Cidade>Piranhas</Cidade>
+    <Cidade>Pirenópolis</Cidade>
+    <Cidade>Pires do Rio</Cidade>
+    <Cidade>Planaltina</Cidade>
+    <Cidade>Pontalina</Cidade>
+    <Cidade>Porangatu</Cidade>
+    <Cidade>Porteirão</Cidade>
+    <Cidade>Portelândia</Cidade>
+    <Cidade>Posse</Cidade>
+    <Cidade>Professor Jamil</Cidade>
+    <Cidade>Quirinópolis</Cidade>
+    <Cidade>Rialma</Cidade>
+    <Cidade>Rianápolis</Cidade>
+    <Cidade>Rio Quente</Cidade>
+    <Cidade>Rio Verde</Cidade>
+    <Cidade>Rubiataba</Cidade>
+    <Cidade>Sanclerlândia</Cidade>
+    <Cidade>Santa Bárbara de Goiás</Cidade>
+    <Cidade>Santa Cruz de Goiás</Cidade>
+    <Cidade>Santa Fé de Goiás</Cidade>
+    <Cidade>Santa Helena de Goiás</Cidade>
+    <Cidade>Santa Isabel</Cidade>
+    <Cidade>Santa Rita do Araguaia</Cidade>
+    <Cidade>Santa Rita do Novo Destino</Cidade>
+    <Cidade>Santa Rosa de Goiás</Cidade>
+    <Cidade>Santa Tereza de Goiás</Cidade>
+    <Cidade>Santa Terezinha de Goiás</Cidade>
+    <Cidade>Santo Antônio da Barra</Cidade>
+    <Cidade>Santo Antônio de Goiás</Cidade>
+    <Cidade>Santo Antônio do Descoberto</Cidade>
+    <Cidade>São Domingos</Cidade>
+    <Cidade>São Francisco de Goiás</Cidade>
+    <Cidade>São João d`Aliança</Cidade>
+    <Cidade>São João da Paraúna</Cidade>
+    <Cidade>São Luís de Montes Belos</Cidade>
+    <Cidade>São Luíz do Norte</Cidade>
+    <Cidade>São Miguel do Araguaia</Cidade>
+    <Cidade>São Miguel do Passa Quatro</Cidade>
+    <Cidade>São Patrício</Cidade>
+    <Cidade>São Simão</Cidade>
+    <Cidade>Senador Canedo</Cidade>
+    <Cidade>Serranópolis</Cidade>
+    <Cidade>Silvânia</Cidade>
+    <Cidade>Simolândia</Cidade>
+    <Cidade>Sítio d`Abadia</Cidade>
+    <Cidade>Taquaral de Goiás</Cidade>
+    <Cidade>Teresina de Goiás</Cidade>
+    <Cidade>Terezópolis de Goiás</Cidade>
+    <Cidade>Três Ranchos</Cidade>
+    <Cidade>Trindade</Cidade>
+    <Cidade>Trombas</Cidade>
+    <Cidade>Turvânia</Cidade>
+    <Cidade>Turvelândia</Cidade>
+    <Cidade>Uirapuru</Cidade>
+    <Cidade>Uruaçu</Cidade>
+    <Cidade>Uruana</Cidade>
+    <Cidade>Urutaí</Cidade>
+    <Cidade>Valparaíso de Goiás</Cidade>
+    <Cidade>Varjão</Cidade>
+    <Cidade>Vianópolis</Cidade>
+    <Cidade>Vicentinópolis</Cidade>
+    <Cidade>Vila Boa</Cidade>
+    <Cidade>Vila Propício</Cidade>
+    <Cidade>Açailândia</Cidade>
+    <Cidade>Afonso Cunha</Cidade>
+    <Cidade>Água Doce do Maranhão</Cidade>
+    <Cidade>Alcântara</Cidade>
+    <Cidade>Aldeias Altas</Cidade>
+    <Cidade>Altamira do Maranhão</Cidade>
+    <Cidade>Alto Alegre do Maranhão</Cidade>
+    <Cidade>Alto Alegre do Pindaré</Cidade>
+    <Cidade>Alto Parnaíba</Cidade>
+    <Cidade>Amapá do Maranhão</Cidade>
+    <Cidade>Amarante do Maranhão</Cidade>
+    <Cidade>Anajatuba</Cidade>
+    <Cidade>Anapurus</Cidade>
+    <Cidade>Apicum-Açu</Cidade>
+    <Cidade>Araguanã</Cidade>
+    <Cidade>Araioses</Cidade>
+    <Cidade>Arame</Cidade>
+    <Cidade>Arari</Cidade>
+    <Cidade>Axixá</Cidade>
+    <Cidade>Bacabal</Cidade>
+    <Cidade>Bacabeira</Cidade>
+    <Cidade>Bacuri</Cidade>
+    <Cidade>Bacurituba</Cidade>
+    <Cidade>Balsas</Cidade>
+    <Cidade>Barão de Grajaú</Cidade>
+    <Cidade>Barra do Corda</Cidade>
+    <Cidade>Barreirinhas</Cidade>
+    <Cidade>Bela Vista do Maranhão</Cidade>
+    <Cidade>Belágua</Cidade>
+    <Cidade>Benedito Leite</Cidade>
+    <Cidade>Bequimão</Cidade>
+    <Cidade>Bernardo do Mearim</Cidade>
+    <Cidade>Boa Vista do Gurupi</Cidade>
+    <Cidade>Bom Jardim</Cidade>
+    <Cidade>Bom Jesus das Selvas</Cidade>
+    <Cidade>Bom Lugar</Cidade>
+    <Cidade>Brejo</Cidade>
+    <Cidade>Brejo de Areia</Cidade>
+    <Cidade>Buriti</Cidade>
+    <Cidade>Buriti Bravo</Cidade>
+    <Cidade>Buriticupu</Cidade>
+    <Cidade>Buritirana</Cidade>
+    <Cidade>Cachoeira Grande</Cidade>
+    <Cidade>Cajapió</Cidade>
+    <Cidade>Cajari</Cidade>
+    <Cidade>Campestre do Maranhão</Cidade>
+    <Cidade>Cândido Mendes</Cidade>
+    <Cidade>Cantanhede</Cidade>
+    <Cidade>Capinzal do Norte</Cidade>
+    <Cidade>Carolina</Cidade>
+    <Cidade>Carutapera</Cidade>
+    <Cidade>Caxias</Cidade>
+    <Cidade>Cedral</Cidade>
+    <Cidade>Central do Maranhão</Cidade>
+    <Cidade>Centro do Guilherme</Cidade>
+    <Cidade>Centro Novo do Maranhão</Cidade>
+    <Cidade>Chapadinha</Cidade>
+    <Cidade>Cidelândia</Cidade>
+    <Cidade>Codó</Cidade>
+    <Cidade>Coelho Neto</Cidade>
+    <Cidade>Colinas</Cidade>
+    <Cidade>Conceição do Lago-Açu</Cidade>
+    <Cidade>Coroatá</Cidade>
+    <Cidade>Cururupu</Cidade>
+    <Cidade>Davinópolis</Cidade>
+    <Cidade>Dom Pedro</Cidade>
+    <Cidade>Duque Bacelar</Cidade>
+    <Cidade>Esperantinópolis</Cidade>
+    <Cidade>Estreito</Cidade>
+    <Cidade>Feira Nova do Maranhão</Cidade>
+    <Cidade>Fernando Falcão</Cidade>
+    <Cidade>Formosa da Serra Negra</Cidade>
+    <Cidade>Fortaleza dos Nogueiras</Cidade>
+    <Cidade>Fortuna</Cidade>
+    <Cidade>Godofredo Viana</Cidade>
+    <Cidade>Gonçalves Dias</Cidade>
+    <Cidade>Governador Archer</Cidade>
+    <Cidade>Governador Edison Lobão</Cidade>
+    <Cidade>Governador Eugênio Barros</Cidade>
+    <Cidade>Governador Luiz Rocha</Cidade>
+    <Cidade>Governador Newton Bello</Cidade>
+    <Cidade>Governador Nunes Freire</Cidade>
+    <Cidade>Graça Aranha</Cidade>
+    <Cidade>Grajaú</Cidade>
+    <Cidade>Guimarães</Cidade>
+    <Cidade>Humberto de Campos</Cidade>
+    <Cidade>Icatu</Cidade>
+    <Cidade>Igarapé do Meio</Cidade>
+    <Cidade>Igarapé Grande</Cidade>
+    <Cidade>Imperatriz</Cidade>
+    <Cidade>Itaipava do Grajaú</Cidade>
+    <Cidade>Itapecuru Mirim</Cidade>
+    <Cidade>Itinga do Maranhão</Cidade>
+    <Cidade>Jatobá</Cidade>
+    <Cidade>Jenipapo dos Vieiras</Cidade>
+    <Cidade>João Lisboa</Cidade>
+    <Cidade>Joselândia</Cidade>
+    <Cidade>Junco do Maranhão</Cidade>
+    <Cidade>Lago da Pedra</Cidade>
+    <Cidade>Lago do Junco</Cidade>
+    <Cidade>Lago dos Rodrigues</Cidade>
+    <Cidade>Lago Verde</Cidade>
+    <Cidade>Lagoa do Mato</Cidade>
+    <Cidade>Lagoa Grande do Maranhão</Cidade>
+    <Cidade>Lajeado Novo</Cidade>
+    <Cidade>Lima Campos</Cidade>
+    <Cidade>Loreto</Cidade>
+    <Cidade>Luís Domingues</Cidade>
+    <Cidade>Magalhães de Almeida</Cidade>
+    <Cidade>Maracaçumé</Cidade>
+    <Cidade>Marajá do Sena</Cidade>
+    <Cidade>Maranhãozinho</Cidade>
+    <Cidade>Mata Roma</Cidade>
+    <Cidade>Matinha</Cidade>
+    <Cidade>Matões</Cidade>
+    <Cidade>Matões do Norte</Cidade>
+    <Cidade>Milagres do Maranhão</Cidade>
+    <Cidade>Mirador</Cidade>
+    <Cidade>Miranda do Norte</Cidade>
+    <Cidade>Mirinzal</Cidade>
+    <Cidade>Monção</Cidade>
+    <Cidade>Montes Altos</Cidade>
+    <Cidade>Morros</Cidade>
+    <Cidade>Nina Rodrigues</Cidade>
+    <Cidade>Nova Colinas</Cidade>
+    <Cidade>Nova Iorque</Cidade>
+    <Cidade>Nova Olinda do Maranhão</Cidade>
+    <Cidade>Olho d`Água das Cunhãs</Cidade>
+    <Cidade>Olinda Nova do Maranhão</Cidade>
+    <Cidade>Paço do Lumiar</Cidade>
+    <Cidade>Palmeirândia</Cidade>
+    <Cidade>Paraibano</Cidade>
+    <Cidade>Parnarama</Cidade>
+    <Cidade>Passagem Franca</Cidade>
+    <Cidade>Pastos Bons</Cidade>
+    <Cidade>Paulino Neves</Cidade>
+    <Cidade>Paulo Ramos</Cidade>
+    <Cidade>Pedreiras</Cidade>
+    <Cidade>Pedro do Rosário</Cidade>
+    <Cidade>Penalva</Cidade>
+    <Cidade>Peri Mirim</Cidade>
+    <Cidade>Peritoró</Cidade>
+    <Cidade>Pindaré-Mirim</Cidade>
+    <Cidade>Pinheiro</Cidade>
+    <Cidade>Pio XII</Cidade>
+    <Cidade>Pirapemas</Cidade>
+    <Cidade>Poção de Pedras</Cidade>
+    <Cidade>Porto Franco</Cidade>
+    <Cidade>Porto Rico do Maranhão</Cidade>
+    <Cidade>Presidente Dutra</Cidade>
+    <Cidade>Presidente Juscelino</Cidade>
+    <Cidade>Presidente Médici</Cidade>
+    <Cidade>Presidente Sarney</Cidade>
+    <Cidade>Presidente Vargas</Cidade>
+    <Cidade>Primeira Cruz</Cidade>
+    <Cidade>Raposa</Cidade>
+    <Cidade>Riachão</Cidade>
+    <Cidade>Ribamar Fiquene</Cidade>
+    <Cidade>Rosário</Cidade>
+    <Cidade>Sambaíba</Cidade>
+    <Cidade>Santa Filomena do Maranhão</Cidade>
+    <Cidade>Santa Helena</Cidade>
+    <Cidade>Santa Inês</Cidade>
+    <Cidade>Santa Luzia</Cidade>
+    <Cidade>Santa Luzia do Paruá</Cidade>
+    <Cidade>Santa Quitéria do Maranhão</Cidade>
+    <Cidade>Santa Rita</Cidade>
+    <Cidade>Santana do Maranhão</Cidade>
+    <Cidade>Santo Amaro do Maranhão</Cidade>
+    <Cidade>Santo Antônio dos Lopes</Cidade>
+    <Cidade>São Benedito do Rio Preto</Cidade>
+    <Cidade>São Bento</Cidade>
+    <Cidade>São Bernardo</Cidade>
+    <Cidade>São Domingos do Azeitão</Cidade>
+    <Cidade>São Domingos do Maranhão</Cidade>
+    <Cidade>São Félix de Balsas</Cidade>
+    <Cidade>São Francisco do Brejão</Cidade>
+    <Cidade>São Francisco do Maranhão</Cidade>
+    <Cidade>São João Batista</Cidade>
+    <Cidade>São João do Carú</Cidade>
+    <Cidade>São João do Paraíso</Cidade>
+    <Cidade>São João do Soter</Cidade>
+    <Cidade>São João dos Patos</Cidade>
+    <Cidade>São José de Ribamar</Cidade>
+    <Cidade>São José dos Basílios</Cidade>
+    <Cidade>São Luís</Cidade>
+    <Cidade>São Luís Gonzaga do Maranhão</Cidade>
+    <Cidade>São Mateus do Maranhão</Cidade>
+    <Cidade>São Pedro da Água Branca</Cidade>
+    <Cidade>São Pedro dos Crentes</Cidade>
+    <Cidade>São Raimundo das Mangabeiras</Cidade>
+    <Cidade>São Raimundo do Doca Bezerra</Cidade>
+    <Cidade>São Roberto</Cidade>
+    <Cidade>São Vicente Ferrer</Cidade>
+    <Cidade>Satubinha</Cidade>
+    <Cidade>Senador Alexandre Costa</Cidade>
+    <Cidade>Senador La Rocque</Cidade>
+    <Cidade>Serrano do Maranhão</Cidade>
+    <Cidade>Sítio Novo</Cidade>
+    <Cidade>Sucupira do Norte</Cidade>
+    <Cidade>Sucupira do Riachão</Cidade>
+    <Cidade>Tasso Fragoso</Cidade>
+    <Cidade>Timbiras</Cidade>
+    <Cidade>Timon</Cidade>
+    <Cidade>Trizidela do Vale</Cidade>
+    <Cidade>Tufilândia</Cidade>
+    <Cidade>Tuntum</Cidade>
+    <Cidade>Turiaçu</Cidade>
+    <Cidade>Turilândia</Cidade>
+    <Cidade>Tutóia</Cidade>
+    <Cidade>Urbano Santos</Cidade>
+    <Cidade>Vargem Grande</Cidade>
+    <Cidade>Viana</Cidade>
+    <Cidade>Vila Nova dos Martírios</Cidade>
+    <Cidade>Vitória do Mearim</Cidade>
+    <Cidade>Vitorino Freire</Cidade>
+    <Cidade>Zé Doca</Cidade>
+    <Cidade>Acorizal</Cidade>
+    <Cidade>Água Boa</Cidade>
+    <Cidade>Alta Floresta</Cidade>
+    <Cidade>Alto Araguaia</Cidade>
+    <Cidade>Alto Boa Vista</Cidade>
+    <Cidade>Alto Garças</Cidade>
+    <Cidade>Alto Paraguai</Cidade>
+    <Cidade>Alto Taquari</Cidade>
+    <Cidade>Apiacás</Cidade>
+    <Cidade>Araguaiana</Cidade>
+    <Cidade>Araguainha</Cidade>
+    <Cidade>Araputanga</Cidade>
+    <Cidade>Arenápolis</Cidade>
+    <Cidade>Aripuanã</Cidade>
+    <Cidade>Barão de Melgaço</Cidade>
+    <Cidade>Barra do Bugres</Cidade>
+    <Cidade>Barra do Garças</Cidade>
+    <Cidade>Bom Jesus do Araguaia</Cidade>
+    <Cidade>Brasnorte</Cidade>
+    <Cidade>Cáceres</Cidade>
+    <Cidade>Campinápolis</Cidade>
+    <Cidade>Campo Novo do Parecis</Cidade>
+    <Cidade>Campo Verde</Cidade>
+    <Cidade>Campos de Júlio</Cidade>
+    <Cidade>Canabrava do Norte</Cidade>
+    <Cidade>Canarana</Cidade>
+    <Cidade>Carlinda</Cidade>
+    <Cidade>Castanheira</Cidade>
+    <Cidade>Chapada dos Guimarães</Cidade>
+    <Cidade>Cláudia</Cidade>
+    <Cidade>Cocalinho</Cidade>
+    <Cidade>Colíder</Cidade>
+    <Cidade>Colniza</Cidade>
+    <Cidade>Comodoro</Cidade>
+    <Cidade>Confresa</Cidade>
+    <Cidade>Conquista d`Oeste</Cidade>
+    <Cidade>Cotriguaçu</Cidade>
+    <Cidade>Cuiabá</Cidade>
+    <Cidade>Curvelândia</Cidade>
+    <Cidade>Denise</Cidade>
+    <Cidade>Diamantino</Cidade>
+    <Cidade>Dom Aquino</Cidade>
+    <Cidade>Feliz Natal</Cidade>
+    <Cidade>Figueirópolis d`Oeste</Cidade>
+    <Cidade>Gaúcha do Norte</Cidade>
+    <Cidade>General Carneiro</Cidade>
+    <Cidade>Glória d`Oeste</Cidade>
+    <Cidade>Guarantã do Norte</Cidade>
+    <Cidade>Guiratinga</Cidade>
+    <Cidade>Indiavaí</Cidade>
+    <Cidade>Ipiranga do Norte</Cidade>
+    <Cidade>Itanhangá</Cidade>
+    <Cidade>Itaúba</Cidade>
+    <Cidade>Itiquira</Cidade>
+    <Cidade>Jaciara</Cidade>
+    <Cidade>Jangada</Cidade>
+    <Cidade>Jauru</Cidade>
+    <Cidade>Juara</Cidade>
+    <Cidade>Juína</Cidade>
+    <Cidade>Juruena</Cidade>
+    <Cidade>Juscimeira</Cidade>
+    <Cidade>Lambari d`Oeste</Cidade>
+    <Cidade>Lucas do Rio Verde</Cidade>
+    <Cidade>Luciára</Cidade>
+    <Cidade>Marcelândia</Cidade>
+    <Cidade>Matupá</Cidade>
+    <Cidade>Mirassol d`Oeste</Cidade>
+    <Cidade>Nobres</Cidade>
+    <Cidade>Nortelândia</Cidade>
+    <Cidade>Nossa Senhora do Livramento</Cidade>
+    <Cidade>Nova Bandeirantes</Cidade>
+    <Cidade>Nova Brasilândia</Cidade>
+    <Cidade>Nova Canaã do Norte</Cidade>
+    <Cidade>Nova Guarita</Cidade>
+    <Cidade>Nova Lacerda</Cidade>
+    <Cidade>Nova Marilândia</Cidade>
+    <Cidade>Nova Maringá</Cidade>
+    <Cidade>Nova Monte verde</Cidade>
+    <Cidade>Nova Mutum</Cidade>
+    <Cidade>Nova Olímpia</Cidade>
+    <Cidade>Nova Santa Helena</Cidade>
+    <Cidade>Nova Ubiratã</Cidade>
+    <Cidade>Nova Xavantina</Cidade>
+    <Cidade>Novo Horizonte do Norte</Cidade>
+    <Cidade>Novo Mundo</Cidade>
+    <Cidade>Novo Santo Antônio</Cidade>
+    <Cidade>Novo São Joaquim</Cidade>
+    <Cidade>Paranaíta</Cidade>
+    <Cidade>Paranatinga</Cidade>
+    <Cidade>Pedra Preta</Cidade>
+    <Cidade>Peixoto de Azevedo</Cidade>
+    <Cidade>Planalto da Serra</Cidade>
+    <Cidade>Poconé</Cidade>
+    <Cidade>Pontal do Araguaia</Cidade>
+    <Cidade>Ponte Branca</Cidade>
+    <Cidade>Pontes e Lacerda</Cidade>
+    <Cidade>Porto Alegre do Norte</Cidade>
+    <Cidade>Porto dos Gaúchos</Cidade>
+    <Cidade>Porto Esperidião</Cidade>
+    <Cidade>Porto Estrela</Cidade>
+    <Cidade>Poxoréo</Cidade>
+    <Cidade>Primavera do Leste</Cidade>
+    <Cidade>Querência</Cidade>
+    <Cidade>Reserva do Cabaçal</Cidade>
+    <Cidade>Ribeirão Cascalheira</Cidade>
+    <Cidade>Ribeirãozinho</Cidade>
+    <Cidade>Rio Branco</Cidade>
+    <Cidade>Rondolândia</Cidade>
+    <Cidade>Rondonópolis</Cidade>
+    <Cidade>Rosário Oeste</Cidade>
+    <Cidade>Salto do Céu</Cidade>
+    <Cidade>Santa Carmem</Cidade>
+    <Cidade>Santa Cruz do Xingu</Cidade>
+    <Cidade>Santa Rita do Trivelato</Cidade>
+    <Cidade>Santa Terezinha</Cidade>
+    <Cidade>Santo Afonso</Cidade>
+    <Cidade>Santo Antônio do Leste</Cidade>
+    <Cidade>Santo Antônio do Leverger</Cidade>
+    <Cidade>São Félix do Araguaia</Cidade>
+    <Cidade>São José do Povo</Cidade>
+    <Cidade>São José do Rio Claro</Cidade>
+    <Cidade>São José do Xingu</Cidade>
+    <Cidade>São José dos Quatro Marcos</Cidade>
+    <Cidade>São Pedro da Cipa</Cidade>
+    <Cidade>Sapezal</Cidade>
+    <Cidade>Serra Nova Dourada</Cidade>
+    <Cidade>Sinop</Cidade>
+    <Cidade>Sorriso</Cidade>
+    <Cidade>Tabaporã</Cidade>
+    <Cidade>Tangará da Serra</Cidade>
+    <Cidade>Tapurah</Cidade>
+    <Cidade>Terra Nova do Norte</Cidade>
+    <Cidade>Tesouro</Cidade>
+    <Cidade>Torixoréu</Cidade>
+    <Cidade>União do Sul</Cidade>
+    <Cidade>Vale de São Domingos</Cidade>
+    <Cidade>Várzea Grande</Cidade>
+    <Cidade>Vera</Cidade>
+    <Cidade>Vila Bela da Santíssima Trindade</Cidade>
+    <Cidade>Vila Rica</Cidade>
+    <Cidade>Água Clara</Cidade>
+    <Cidade>Alcinópolis</Cidade>
+    <Cidade>Amambaí</Cidade>
+    <Cidade>Anastácio</Cidade>
+    <Cidade>Anaurilândia</Cidade>
+    <Cidade>Angélica</Cidade>
+    <Cidade>Antônio João</Cidade>
+    <Cidade>Aparecida do Taboado</Cidade>
+    <Cidade>Aquidauana</Cidade>
+    <Cidade>Aral Moreira</Cidade>
+    <Cidade>Bandeirantes</Cidade>
+    <Cidade>Bataguassu</Cidade>
+    <Cidade>Bataiporã</Cidade>
+    <Cidade>Bela Vista</Cidade>
+    <Cidade>Bodoquena</Cidade>
+    <Cidade>Bonito</Cidade>
+    <Cidade>Brasilândia</Cidade>
+    <Cidade>Caarapó</Cidade>
+    <Cidade>Camapuã</Cidade>
+    <Cidade>Campo Grande</Cidade>
+    <Cidade>Caracol</Cidade>
+    <Cidade>Cassilândia</Cidade>
+    <Cidade>Chapadão do Sul</Cidade>
+    <Cidade>Corguinho</Cidade>
+    <Cidade>Coronel Sapucaia</Cidade>
+    <Cidade>Corumbá</Cidade>
+    <Cidade>Costa Rica</Cidade>
+    <Cidade>Coxim</Cidade>
+    <Cidade>Deodápolis</Cidade>
+    <Cidade>Dois Irmãos do Buriti</Cidade>
+    <Cidade>Douradina</Cidade>
+    <Cidade>Dourados</Cidade>
+    <Cidade>Eldorado</Cidade>
+    <Cidade>Fátima do Sul</Cidade>
+    <Cidade>Figueirão</Cidade>
+    <Cidade>Glória de Dourados</Cidade>
+    <Cidade>Guia Lopes da Laguna</Cidade>
+    <Cidade>Iguatemi</Cidade>
+    <Cidade>Inocência</Cidade>
+    <Cidade>Itaporã</Cidade>
+    <Cidade>Itaquiraí</Cidade>
+    <Cidade>Ivinhema</Cidade>
+    <Cidade>Japorã</Cidade>
+    <Cidade>Jaraguari</Cidade>
+    <Cidade>Jardim</Cidade>
+    <Cidade>Jateí</Cidade>
+    <Cidade>Juti</Cidade>
+    <Cidade>Ladário</Cidade>
+    <Cidade>Laguna Carapã</Cidade>
+    <Cidade>Maracaju</Cidade>
+    <Cidade>Miranda</Cidade>
+    <Cidade>Mundo Novo</Cidade>
+    <Cidade>Naviraí</Cidade>
+    <Cidade>Nioaque</Cidade>
+    <Cidade>Nova Alvorada do Sul</Cidade>
+    <Cidade>Nova Andradina</Cidade>
+    <Cidade>Novo Horizonte do Sul</Cidade>
+    <Cidade>Paranaíba</Cidade>
+    <Cidade>Paranhos</Cidade>
+    <Cidade>Pedro Gomes</Cidade>
+    <Cidade>Ponta Porã</Cidade>
+    <Cidade>Porto Murtinho</Cidade>
+    <Cidade>Ribas do Rio Pardo</Cidade>
+    <Cidade>Rio Brilhante</Cidade>
+    <Cidade>Rio Negro</Cidade>
+    <Cidade>Rio Verde de Mato Grosso</Cidade>
+    <Cidade>Rochedo</Cidade>
+    <Cidade>Santa Rita do Pardo</Cidade>
+    <Cidade>São Gabriel do Oeste</Cidade>
+    <Cidade>Selvíria</Cidade>
+    <Cidade>Sete Quedas</Cidade>
+    <Cidade>Sidrolândia</Cidade>
+    <Cidade>Sonora</Cidade>
+    <Cidade>Tacuru</Cidade>
+    <Cidade>Taquarussu</Cidade>
+    <Cidade>Terenos</Cidade>
+    <Cidade>Três Lagoas</Cidade>
+    <Cidade>Vicentina</Cidade>
+    <Cidade>Abadia dos Dourados</Cidade>
+    <Cidade>Abaeté</Cidade>
+    <Cidade>Abre Campo</Cidade>
+    <Cidade>Acaiaca</Cidade>
+    <Cidade>Açucena</Cidade>
+    <Cidade>Água Boa</Cidade>
+    <Cidade>Água Comprida</Cidade>
+    <Cidade>Aguanil</Cidade>
+    <Cidade>Águas Formosas</Cidade>
+    <Cidade>Águas Vermelhas</Cidade>
+    <Cidade>Aimorés</Cidade>
+    <Cidade>Aiuruoca</Cidade>
+    <Cidade>Alagoa</Cidade>
+    <Cidade>Albertina</Cidade>
+    <Cidade>Além Paraíba</Cidade>
+    <Cidade>Alfenas</Cidade>
+    <Cidade>Alfredo Vasconcelos</Cidade>
+    <Cidade>Almenara</Cidade>
+    <Cidade>Alpercata</Cidade>
+    <Cidade>Alpinópolis</Cidade>
+    <Cidade>Alterosa</Cidade>
+    <Cidade>Alto Caparaó</Cidade>
+    <Cidade>Alto Jequitibá</Cidade>
+    <Cidade>Alto Rio Doce</Cidade>
+    <Cidade>Alvarenga</Cidade>
+    <Cidade>Alvinópolis</Cidade>
+    <Cidade>Alvorada de Minas</Cidade>
+    <Cidade>Amparo do Serra</Cidade>
+    <Cidade>Andradas</Cidade>
+    <Cidade>Andrelândia</Cidade>
+    <Cidade>Angelândia</Cidade>
+    <Cidade>Antônio Carlos</Cidade>
+    <Cidade>Antônio Dias</Cidade>
+    <Cidade>Antônio Prado de Minas</Cidade>
+    <Cidade>Araçaí</Cidade>
+    <Cidade>Aracitaba</Cidade>
+    <Cidade>Araçuaí</Cidade>
+    <Cidade>Araguari</Cidade>
+    <Cidade>Arantina</Cidade>
+    <Cidade>Araponga</Cidade>
+    <Cidade>Araporã</Cidade>
+    <Cidade>Arapuá</Cidade>
+    <Cidade>Araújos</Cidade>
+    <Cidade>Araxá</Cidade>
+    <Cidade>Arceburgo</Cidade>
+    <Cidade>Arcos</Cidade>
+    <Cidade>Areado</Cidade>
+    <Cidade>Argirita</Cidade>
+    <Cidade>Aricanduva</Cidade>
+    <Cidade>Arinos</Cidade>
+    <Cidade>Astolfo Dutra</Cidade>
+    <Cidade>Ataléia</Cidade>
+    <Cidade>Augusto de Lima</Cidade>
+    <Cidade>Baependi</Cidade>
+    <Cidade>Baldim</Cidade>
+    <Cidade>Bambuí</Cidade>
+    <Cidade>Bandeira</Cidade>
+    <Cidade>Bandeira do Sul</Cidade>
+    <Cidade>Barão de Cocais</Cidade>
+    <Cidade>Barão de Monte Alto</Cidade>
+    <Cidade>Barbacena</Cidade>
+    <Cidade>Barra Longa</Cidade>
+    <Cidade>Barroso</Cidade>
+    <Cidade>Bela Vista de Minas</Cidade>
+    <Cidade>Belmiro Braga</Cidade>
+    <Cidade>Belo Horizonte</Cidade>
+    <Cidade>Belo Oriente</Cidade>
+    <Cidade>Belo Vale</Cidade>
+    <Cidade>Berilo</Cidade>
+    <Cidade>Berizal</Cidade>
+    <Cidade>Bertópolis</Cidade>
+    <Cidade>Betim</Cidade>
+    <Cidade>Bias Fortes</Cidade>
+    <Cidade>Bicas</Cidade>
+    <Cidade>Biquinhas</Cidade>
+    <Cidade>Boa Esperança</Cidade>
+    <Cidade>Bocaina de Minas</Cidade>
+    <Cidade>Bocaiúva</Cidade>
+    <Cidade>Bom Despacho</Cidade>
+    <Cidade>Bom Jardim de Minas</Cidade>
+    <Cidade>Bom Jesus da Penha</Cidade>
+    <Cidade>Bom Jesus do Amparo</Cidade>
+    <Cidade>Bom Jesus do Galho</Cidade>
+    <Cidade>Bom Repouso</Cidade>
+    <Cidade>Bom Sucesso</Cidade>
+    <Cidade>Bonfim</Cidade>
+    <Cidade>Bonfinópolis de Minas</Cidade>
+    <Cidade>Bonito de Minas</Cidade>
+    <Cidade>Borda da Mata</Cidade>
+    <Cidade>Botelhos</Cidade>
+    <Cidade>Botumirim</Cidade>
+    <Cidade>Brás Pires</Cidade>
+    <Cidade>Brasilândia de Minas</Cidade>
+    <Cidade>Brasília de Minas</Cidade>
+    <Cidade>Brasópolis</Cidade>
+    <Cidade>Braúnas</Cidade>
+    <Cidade>Brumadinho</Cidade>
+    <Cidade>Bueno Brandão</Cidade>
+    <Cidade>Buenópolis</Cidade>
+    <Cidade>Bugre</Cidade>
+    <Cidade>Buritis</Cidade>
+    <Cidade>Buritizeiro</Cidade>
+    <Cidade>Cabeceira Grande</Cidade>
+    <Cidade>Cabo Verde</Cidade>
+    <Cidade>Cachoeira da Prata</Cidade>
+    <Cidade>Cachoeira de Minas</Cidade>
+    <Cidade>Cachoeira de Pajeú</Cidade>
+    <Cidade>Cachoeira Dourada</Cidade>
+    <Cidade>Caetanópolis</Cidade>
+    <Cidade>Caeté</Cidade>
+    <Cidade>Caiana</Cidade>
+    <Cidade>Cajuri</Cidade>
+    <Cidade>Caldas</Cidade>
+    <Cidade>Camacho</Cidade>
+    <Cidade>Camanducaia</Cidade>
+    <Cidade>Cambuí</Cidade>
+    <Cidade>Cambuquira</Cidade>
+    <Cidade>Campanário</Cidade>
+    <Cidade>Campanha</Cidade>
+    <Cidade>Campestre</Cidade>
+    <Cidade>Campina Verde</Cidade>
+    <Cidade>Campo Azul</Cidade>
+    <Cidade>Campo Belo</Cidade>
+    <Cidade>Campo do Meio</Cidade>
+    <Cidade>Campo Florido</Cidade>
+    <Cidade>Campos Altos</Cidade>
+    <Cidade>Campos Gerais</Cidade>
+    <Cidade>Cana Verde</Cidade>
+    <Cidade>Canaã</Cidade>
+    <Cidade>Canápolis</Cidade>
+    <Cidade>Candeias</Cidade>
+    <Cidade>Cantagalo</Cidade>
+    <Cidade>Caparaó</Cidade>
+    <Cidade>Capela Nova</Cidade>
+    <Cidade>Capelinha</Cidade>
+    <Cidade>Capetinga</Cidade>
+    <Cidade>Capim Branco</Cidade>
+    <Cidade>Capinópolis</Cidade>
+    <Cidade>Capitão Andrade</Cidade>
+    <Cidade>Capitão Enéas</Cidade>
+    <Cidade>Capitólio</Cidade>
+    <Cidade>Caputira</Cidade>
+    <Cidade>Caraí</Cidade>
+    <Cidade>Caranaíba</Cidade>
+    <Cidade>Carandaí</Cidade>
+    <Cidade>Carangola</Cidade>
+    <Cidade>Caratinga</Cidade>
+    <Cidade>Carbonita</Cidade>
+    <Cidade>Careaçu</Cidade>
+    <Cidade>Carlos Chagas</Cidade>
+    <Cidade>Carmésia</Cidade>
+    <Cidade>Carmo da Cachoeira</Cidade>
+    <Cidade>Carmo da Mata</Cidade>
+    <Cidade>Carmo de Minas</Cidade>
+    <Cidade>Carmo do Cajuru</Cidade>
+    <Cidade>Carmo do Paranaíba</Cidade>
+    <Cidade>Carmo do Rio Claro</Cidade>
+    <Cidade>Carmópolis de Minas</Cidade>
+    <Cidade>Carneirinho</Cidade>
+    <Cidade>Carrancas</Cidade>
+    <Cidade>Carvalhópolis</Cidade>
+    <Cidade>Carvalhos</Cidade>
+    <Cidade>Casa Grande</Cidade>
+    <Cidade>Cascalho Rico</Cidade>
+    <Cidade>Cássia</Cidade>
+    <Cidade>Cataguases</Cidade>
+    <Cidade>Catas Altas</Cidade>
+    <Cidade>Catas Altas da Noruega</Cidade>
+    <Cidade>Catuji</Cidade>
+    <Cidade>Catuti</Cidade>
+    <Cidade>Caxambu</Cidade>
+    <Cidade>Cedro do Abaeté</Cidade>
+    <Cidade>Central de Minas</Cidade>
+    <Cidade>Centralina</Cidade>
+    <Cidade>Chácara</Cidade>
+    <Cidade>Chalé</Cidade>
+    <Cidade>Chapada do Norte</Cidade>
+    <Cidade>Chapada Gaúcha</Cidade>
+    <Cidade>Chiador</Cidade>
+    <Cidade>Cipotânea</Cidade>
+    <Cidade>Claraval</Cidade>
+    <Cidade>Claro dos Poções</Cidade>
+    <Cidade>Cláudio</Cidade>
+    <Cidade>Coimbra</Cidade>
+    <Cidade>Coluna</Cidade>
+    <Cidade>Comendador Gomes</Cidade>
+    <Cidade>Comercinho</Cidade>
+    <Cidade>Conceição da Aparecida</Cidade>
+    <Cidade>Conceição da Barra de Minas</Cidade>
+    <Cidade>Conceição das Alagoas</Cidade>
+    <Cidade>Conceição das Pedras</Cidade>
+    <Cidade>Conceição de Ipanema</Cidade>
+    <Cidade>Conceição do Mato Dentro</Cidade>
+    <Cidade>Conceição do Pará</Cidade>
+    <Cidade>Conceição do Rio Verde</Cidade>
+    <Cidade>Conceição dos Ouros</Cidade>
+    <Cidade>Cônego Marinho</Cidade>
+    <Cidade>Confins</Cidade>
+    <Cidade>Congonhal</Cidade>
+    <Cidade>Congonhas</Cidade>
+    <Cidade>Congonhas do Norte</Cidade>
+    <Cidade>Conquista</Cidade>
+    <Cidade>Conselheiro Lafaiete</Cidade>
+    <Cidade>Conselheiro Pena</Cidade>
+    <Cidade>Consolação</Cidade>
+    <Cidade>Contagem</Cidade>
+    <Cidade>Coqueiral</Cidade>
+    <Cidade>Coração de Jesus</Cidade>
+    <Cidade>Cordisburgo</Cidade>
+    <Cidade>Cordislândia</Cidade>
+    <Cidade>Corinto</Cidade>
+    <Cidade>Coroaci</Cidade>
+    <Cidade>Coromandel</Cidade>
+    <Cidade>Coronel Fabriciano</Cidade>
+    <Cidade>Coronel Murta</Cidade>
+    <Cidade>Coronel Pacheco</Cidade>
+    <Cidade>Coronel Xavier Chaves</Cidade>
+    <Cidade>Córrego Danta</Cidade>
+    <Cidade>Córrego do Bom Jesus</Cidade>
+    <Cidade>Córrego Fundo</Cidade>
+    <Cidade>Córrego Novo</Cidade>
+    <Cidade>Couto de Magalhães de Minas</Cidade>
+    <Cidade>Crisólita</Cidade>
+    <Cidade>Cristais</Cidade>
+    <Cidade>Cristália</Cidade>
+    <Cidade>Cristiano Otoni</Cidade>
+    <Cidade>Cristina</Cidade>
+    <Cidade>Crucilândia</Cidade>
+    <Cidade>Cruzeiro da Fortaleza</Cidade>
+    <Cidade>Cruzília</Cidade>
+    <Cidade>Cuparaque</Cidade>
+    <Cidade>Curral de Dentro</Cidade>
+    <Cidade>Curvelo</Cidade>
+    <Cidade>Datas</Cidade>
+    <Cidade>Delfim Moreira</Cidade>
+    <Cidade>Delfinópolis</Cidade>
+    <Cidade>Delta</Cidade>
+    <Cidade>Descoberto</Cidade>
+    <Cidade>Desterro de Entre Rios</Cidade>
+    <Cidade>Desterro do Melo</Cidade>
+    <Cidade>Diamantina</Cidade>
+    <Cidade>Diogo de Vasconcelos</Cidade>
+    <Cidade>Dionísio</Cidade>
+    <Cidade>Divinésia</Cidade>
+    <Cidade>Divino</Cidade>
+    <Cidade>Divino das Laranjeiras</Cidade>
+    <Cidade>Divinolândia de Minas</Cidade>
+    <Cidade>Divinópolis</Cidade>
+    <Cidade>Divisa Alegre</Cidade>
+    <Cidade>Divisa Nova</Cidade>
+    <Cidade>Divisópolis</Cidade>
+    <Cidade>Dom Bosco</Cidade>
+    <Cidade>Dom Cavati</Cidade>
+    <Cidade>Dom Joaquim</Cidade>
+    <Cidade>Dom Silvério</Cidade>
+    <Cidade>Dom Viçoso</Cidade>
+    <Cidade>Dona Eusébia</Cidade>
+    <Cidade>Dores de Campos</Cidade>
+    <Cidade>Dores de Guanhães</Cidade>
+    <Cidade>Dores do Indaiá</Cidade>
+    <Cidade>Dores do Turvo</Cidade>
+    <Cidade>Doresópolis</Cidade>
+    <Cidade>Douradoquara</Cidade>
+    <Cidade>Durandé</Cidade>
+    <Cidade>Elói Mendes</Cidade>
+    <Cidade>Engenheiro Caldas</Cidade>
+    <Cidade>Engenheiro Navarro</Cidade>
+    <Cidade>Entre Folhas</Cidade>
+    <Cidade>Entre Rios de Minas</Cidade>
+    <Cidade>Ervália</Cidade>
+    <Cidade>Esmeraldas</Cidade>
+    <Cidade>Espera Feliz</Cidade>
+    <Cidade>Espinosa</Cidade>
+    <Cidade>Espírito Santo do Dourado</Cidade>
+    <Cidade>Estiva</Cidade>
+    <Cidade>Estrela Dalva</Cidade>
+    <Cidade>Estrela do Indaiá</Cidade>
+    <Cidade>Estrela do Sul</Cidade>
+    <Cidade>Eugenópolis</Cidade>
+    <Cidade>Ewbank da Câmara</Cidade>
+    <Cidade>Extrema</Cidade>
+    <Cidade>Fama</Cidade>
+    <Cidade>Faria Lemos</Cidade>
+    <Cidade>Felício dos Santos</Cidade>
+    <Cidade>Felisburgo</Cidade>
+    <Cidade>Felixlândia</Cidade>
+    <Cidade>Fernandes Tourinho</Cidade>
+    <Cidade>Ferros</Cidade>
+    <Cidade>Fervedouro</Cidade>
+    <Cidade>Florestal</Cidade>
+    <Cidade>Formiga</Cidade>
+    <Cidade>Formoso</Cidade>
+    <Cidade>Fortaleza de Minas</Cidade>
+    <Cidade>Fortuna de Minas</Cidade>
+    <Cidade>Francisco Badaró</Cidade>
+    <Cidade>Francisco Dumont</Cidade>
+    <Cidade>Francisco Sá</Cidade>
+    <Cidade>Franciscópolis</Cidade>
+    <Cidade>Frei Gaspar</Cidade>
+    <Cidade>Frei Inocêncio</Cidade>
+    <Cidade>Frei Lagonegro</Cidade>
+    <Cidade>Fronteira</Cidade>
+    <Cidade>Fronteira dos Vales</Cidade>
+    <Cidade>Fruta de Leite</Cidade>
+    <Cidade>Frutal</Cidade>
+    <Cidade>Funilândia</Cidade>
+    <Cidade>Galiléia</Cidade>
+    <Cidade>Gameleiras</Cidade>
+    <Cidade>Glaucilândia</Cidade>
+    <Cidade>Goiabeira</Cidade>
+    <Cidade>Goianá</Cidade>
+    <Cidade>Gonçalves</Cidade>
+    <Cidade>Gonzaga</Cidade>
+    <Cidade>Gouveia</Cidade>
+    <Cidade>Governador Valadares</Cidade>
+    <Cidade>Grão Mogol</Cidade>
+    <Cidade>Grupiara</Cidade>
+    <Cidade>Guanhães</Cidade>
+    <Cidade>Guapé</Cidade>
+    <Cidade>Guaraciaba</Cidade>
+    <Cidade>Guaraciama</Cidade>
+    <Cidade>Guaranésia</Cidade>
+    <Cidade>Guarani</Cidade>
+    <Cidade>Guarará</Cidade>
+    <Cidade>Guarda-Mor</Cidade>
+    <Cidade>Guaxupé</Cidade>
+    <Cidade>Guidoval</Cidade>
+    <Cidade>Guimarânia</Cidade>
+    <Cidade>Guiricema</Cidade>
+    <Cidade>Gurinhatã</Cidade>
+    <Cidade>Heliodora</Cidade>
+    <Cidade>Iapu</Cidade>
+    <Cidade>Ibertioga</Cidade>
+    <Cidade>Ibiá</Cidade>
+    <Cidade>Ibiaí</Cidade>
+    <Cidade>Ibiracatu</Cidade>
+    <Cidade>Ibiraci</Cidade>
+    <Cidade>Ibirité</Cidade>
+    <Cidade>Ibitiúra de Minas</Cidade>
+    <Cidade>Ibituruna</Cidade>
+    <Cidade>Icaraí de Minas</Cidade>
+    <Cidade>Igarapé</Cidade>
+    <Cidade>Igaratinga</Cidade>
+    <Cidade>Iguatama</Cidade>
+    <Cidade>Ijaci</Cidade>
+    <Cidade>Ilicínea</Cidade>
+    <Cidade>Imbé de Minas</Cidade>
+    <Cidade>Inconfidentes</Cidade>
+    <Cidade>Indaiabira</Cidade>
+    <Cidade>Indianópolis</Cidade>
+    <Cidade>Ingaí</Cidade>
+    <Cidade>Inhapim</Cidade>
+    <Cidade>Inhaúma</Cidade>
+    <Cidade>Inimutaba</Cidade>
+    <Cidade>Ipaba</Cidade>
+    <Cidade>Ipanema</Cidade>
+    <Cidade>Ipatinga</Cidade>
+    <Cidade>Ipiaçu</Cidade>
+    <Cidade>Ipuiúna</Cidade>
+    <Cidade>Iraí de Minas</Cidade>
+    <Cidade>Itabira</Cidade>
+    <Cidade>Itabirinha de Mantena</Cidade>
+    <Cidade>Itabirito</Cidade>
+    <Cidade>Itacambira</Cidade>
+    <Cidade>Itacarambi</Cidade>
+    <Cidade>Itaguara</Cidade>
+    <Cidade>Itaipé</Cidade>
+    <Cidade>Itajubá</Cidade>
+    <Cidade>Itamarandiba</Cidade>
+    <Cidade>Itamarati de Minas</Cidade>
+    <Cidade>Itambacuri</Cidade>
+    <Cidade>Itambé do Mato Dentro</Cidade>
+    <Cidade>Itamogi</Cidade>
+    <Cidade>Itamonte</Cidade>
+    <Cidade>Itanhandu</Cidade>
+    <Cidade>Itanhomi</Cidade>
+    <Cidade>Itaobim</Cidade>
+    <Cidade>Itapagipe</Cidade>
+    <Cidade>Itapecerica</Cidade>
+    <Cidade>Itapeva</Cidade>
+    <Cidade>Itatiaiuçu</Cidade>
+    <Cidade>Itaú de Minas</Cidade>
+    <Cidade>Itaúna</Cidade>
+    <Cidade>Itaverava</Cidade>
+    <Cidade>Itinga</Cidade>
+    <Cidade>Itueta</Cidade>
+    <Cidade>Ituiutaba</Cidade>
+    <Cidade>Itumirim</Cidade>
+    <Cidade>Iturama</Cidade>
+    <Cidade>Itutinga</Cidade>
+    <Cidade>Jaboticatubas</Cidade>
+    <Cidade>Jacinto</Cidade>
+    <Cidade>Jacuí</Cidade>
+    <Cidade>Jacutinga</Cidade>
+    <Cidade>Jaguaraçu</Cidade>
+    <Cidade>Jaíba</Cidade>
+    <Cidade>Jampruca</Cidade>
+    <Cidade>Janaúba</Cidade>
+    <Cidade>Januária</Cidade>
+    <Cidade>Japaraíba</Cidade>
+    <Cidade>Japonvar</Cidade>
+    <Cidade>Jeceaba</Cidade>
+    <Cidade>Jenipapo de Minas</Cidade>
+    <Cidade>Jequeri</Cidade>
+    <Cidade>Jequitaí</Cidade>
+    <Cidade>Jequitibá</Cidade>
+    <Cidade>Jequitinhonha</Cidade>
+    <Cidade>Jesuânia</Cidade>
+    <Cidade>Joaíma</Cidade>
+    <Cidade>Joanésia</Cidade>
+    <Cidade>João Monlevade</Cidade>
+    <Cidade>João Pinheiro</Cidade>
+    <Cidade>Joaquim Felício</Cidade>
+    <Cidade>Jordânia</Cidade>
+    <Cidade>José Gonçalves de Minas</Cidade>
+    <Cidade>José Raydan</Cidade>
+    <Cidade>Josenópolis</Cidade>
+    <Cidade>Juatuba</Cidade>
+    <Cidade>Juiz de Fora</Cidade>
+    <Cidade>Juramento</Cidade>
+    <Cidade>Juruaia</Cidade>
+    <Cidade>Juvenília</Cidade>
+    <Cidade>Ladainha</Cidade>
+    <Cidade>Lagamar</Cidade>
+    <Cidade>Lagoa da Prata</Cidade>
+    <Cidade>Lagoa dos Patos</Cidade>
+    <Cidade>Lagoa Dourada</Cidade>
+    <Cidade>Lagoa Formosa</Cidade>
+    <Cidade>Lagoa Grande</Cidade>
+    <Cidade>Lagoa Santa</Cidade>
+    <Cidade>Lajinha</Cidade>
+    <Cidade>Lambari</Cidade>
+    <Cidade>Lamim</Cidade>
+    <Cidade>Laranjal</Cidade>
+    <Cidade>Lassance</Cidade>
+    <Cidade>Lavras</Cidade>
+    <Cidade>Leandro Ferreira</Cidade>
+    <Cidade>Leme do Prado</Cidade>
+    <Cidade>Leopoldina</Cidade>
+    <Cidade>Liberdade</Cidade>
+    <Cidade>Lima Duarte</Cidade>
+    <Cidade>Limeira do Oeste</Cidade>
+    <Cidade>Lontra</Cidade>
+    <Cidade>Luisburgo</Cidade>
+    <Cidade>Luislândia</Cidade>
+    <Cidade>Luminárias</Cidade>
+    <Cidade>Luz</Cidade>
+    <Cidade>Machacalis</Cidade>
+    <Cidade>Machado</Cidade>
+    <Cidade>Madre de Deus de Minas</Cidade>
+    <Cidade>Malacacheta</Cidade>
+    <Cidade>Mamonas</Cidade>
+    <Cidade>Manga</Cidade>
+    <Cidade>Manhuaçu</Cidade>
+    <Cidade>Manhumirim</Cidade>
+    <Cidade>Mantena</Cidade>
+    <Cidade>Mar de Espanha</Cidade>
+    <Cidade>Maravilhas</Cidade>
+    <Cidade>Maria da Fé</Cidade>
+    <Cidade>Mariana</Cidade>
+    <Cidade>Marilac</Cidade>
+    <Cidade>Mário Campos</Cidade>
+    <Cidade>Maripá de Minas</Cidade>
+    <Cidade>Marliéria</Cidade>
+    <Cidade>Marmelópolis</Cidade>
+    <Cidade>Martinho Campos</Cidade>
+    <Cidade>Martins Soares</Cidade>
+    <Cidade>Mata Verde</Cidade>
+    <Cidade>Materlândia</Cidade>
+    <Cidade>Mateus Leme</Cidade>
+    <Cidade>Mathias Lobato</Cidade>
+    <Cidade>Matias Barbosa</Cidade>
+    <Cidade>Matias Cardoso</Cidade>
+    <Cidade>Matipó</Cidade>
+    <Cidade>Mato Verde</Cidade>
+    <Cidade>Matozinhos</Cidade>
+    <Cidade>Matutina</Cidade>
+    <Cidade>Medeiros</Cidade>
+    <Cidade>Medina</Cidade>
+    <Cidade>Mendes Pimentel</Cidade>
+    <Cidade>Mercês</Cidade>
+    <Cidade>Mesquita</Cidade>
+    <Cidade>Minas Novas</Cidade>
+    <Cidade>Minduri</Cidade>
+    <Cidade>Mirabela</Cidade>
+    <Cidade>Miradouro</Cidade>
+    <Cidade>Miraí</Cidade>
+    <Cidade>Miravânia</Cidade>
+    <Cidade>Moeda</Cidade>
+    <Cidade>Moema</Cidade>
+    <Cidade>Monjolos</Cidade>
+    <Cidade>Monsenhor Paulo</Cidade>
+    <Cidade>Montalvânia</Cidade>
+    <Cidade>Monte Alegre de Minas</Cidade>
+    <Cidade>Monte Azul</Cidade>
+    <Cidade>Monte Belo</Cidade>
+    <Cidade>Monte Carmelo</Cidade>
+    <Cidade>Monte Formoso</Cidade>
+    <Cidade>Monte Santo de Minas</Cidade>
+    <Cidade>Monte Sião</Cidade>
+    <Cidade>Montes Claros</Cidade>
+    <Cidade>Montezuma</Cidade>
+    <Cidade>Morada Nova de Minas</Cidade>
+    <Cidade>Morro da Garça</Cidade>
+    <Cidade>Morro do Pilar</Cidade>
+    <Cidade>Munhoz</Cidade>
+    <Cidade>Muriaé</Cidade>
+    <Cidade>Mutum</Cidade>
+    <Cidade>Muzambinho</Cidade>
+    <Cidade>Nacip Raydan</Cidade>
+    <Cidade>Nanuque</Cidade>
+    <Cidade>Naque</Cidade>
+    <Cidade>Natalândia</Cidade>
+    <Cidade>Natércia</Cidade>
+    <Cidade>Nazareno</Cidade>
+    <Cidade>Nepomuceno</Cidade>
+    <Cidade>Ninheira</Cidade>
+    <Cidade>Nova Belém</Cidade>
+    <Cidade>Nova Era</Cidade>
+    <Cidade>Nova Lima</Cidade>
+    <Cidade>Nova Módica</Cidade>
+    <Cidade>Nova Ponte</Cidade>
+    <Cidade>Nova Porteirinha</Cidade>
+    <Cidade>Nova Resende</Cidade>
+    <Cidade>Nova Serrana</Cidade>
+    <Cidade>Nova União</Cidade>
+    <Cidade>Novo Cruzeiro</Cidade>
+    <Cidade>Novo Oriente de Minas</Cidade>
+    <Cidade>Novorizonte</Cidade>
+    <Cidade>Olaria</Cidade>
+    <Cidade>Olhos-d`Água</Cidade>
+    <Cidade>Olímpio Noronha</Cidade>
+    <Cidade>Oliveira</Cidade>
+    <Cidade>Oliveira Fortes</Cidade>
+    <Cidade>Onça de Pitangui</Cidade>
+    <Cidade>Oratórios</Cidade>
+    <Cidade>Orizânia</Cidade>
+    <Cidade>Ouro Branco</Cidade>
+    <Cidade>Ouro Fino</Cidade>
+    <Cidade>Ouro Preto</Cidade>
+    <Cidade>Ouro Verde de Minas</Cidade>
+    <Cidade>Padre Carvalho</Cidade>
+    <Cidade>Padre Paraíso</Cidade>
+    <Cidade>Pai Pedro</Cidade>
+    <Cidade>Paineiras</Cidade>
+    <Cidade>Pains</Cidade>
+    <Cidade>Paiva</Cidade>
+    <Cidade>Palma</Cidade>
+    <Cidade>Palmópolis</Cidade>
+    <Cidade>Papagaios</Cidade>
+    <Cidade>Pará de Minas</Cidade>
+    <Cidade>Paracatu</Cidade>
+    <Cidade>Paraguaçu</Cidade>
+    <Cidade>Paraisópolis</Cidade>
+    <Cidade>Paraopeba</Cidade>
+    <Cidade>Passa Quatro</Cidade>
+    <Cidade>Passa Tempo</Cidade>
+    <Cidade>Passabém</Cidade>
+    <Cidade>Passa-Vinte</Cidade>
+    <Cidade>Passos</Cidade>
+    <Cidade>Patis</Cidade>
+    <Cidade>Patos de Minas</Cidade>
+    <Cidade>Patrocínio</Cidade>
+    <Cidade>Patrocínio do Muriaé</Cidade>
+    <Cidade>Paula Cândido</Cidade>
+    <Cidade>Paulistas</Cidade>
+    <Cidade>Pavão</Cidade>
+    <Cidade>Peçanha</Cidade>
+    <Cidade>Pedra Azul</Cidade>
+    <Cidade>Pedra Bonita</Cidade>
+    <Cidade>Pedra do Anta</Cidade>
+    <Cidade>Pedra do Indaiá</Cidade>
+    <Cidade>Pedra Dourada</Cidade>
+    <Cidade>Pedralva</Cidade>
+    <Cidade>Pedras de Maria da Cruz</Cidade>
+    <Cidade>Pedrinópolis</Cidade>
+    <Cidade>Pedro Leopoldo</Cidade>
+    <Cidade>Pedro Teixeira</Cidade>
+    <Cidade>Pequeri</Cidade>
+    <Cidade>Pequi</Cidade>
+    <Cidade>Perdigão</Cidade>
+    <Cidade>Perdizes</Cidade>
+    <Cidade>Perdões</Cidade>
+    <Cidade>Periquito</Cidade>
+    <Cidade>Pescador</Cidade>
+    <Cidade>Piau</Cidade>
+    <Cidade>Piedade de Caratinga</Cidade>
+    <Cidade>Piedade de Ponte Nova</Cidade>
+    <Cidade>Piedade do Rio Grande</Cidade>
+    <Cidade>Piedade dos Gerais</Cidade>
+    <Cidade>Pimenta</Cidade>
+    <Cidade>Pingo-d`Água</Cidade>
+    <Cidade>Pintópolis</Cidade>
+    <Cidade>Piracema</Cidade>
+    <Cidade>Pirajuba</Cidade>
+    <Cidade>Piranga</Cidade>
+    <Cidade>Piranguçu</Cidade>
+    <Cidade>Piranguinho</Cidade>
+    <Cidade>Pirapetinga</Cidade>
+    <Cidade>Pirapora</Cidade>
+    <Cidade>Piraúba</Cidade>
+    <Cidade>Pitangui</Cidade>
+    <Cidade>Piumhi</Cidade>
+    <Cidade>Planura</Cidade>
+    <Cidade>Poço Fundo</Cidade>
+    <Cidade>Poços de Caldas</Cidade>
+    <Cidade>Pocrane</Cidade>
+    <Cidade>Pompéu</Cidade>
+    <Cidade>Ponte Nova</Cidade>
+    <Cidade>Ponto Chique</Cidade>
+    <Cidade>Ponto dos Volantes</Cidade>
+    <Cidade>Porteirinha</Cidade>
+    <Cidade>Porto Firme</Cidade>
+    <Cidade>Poté</Cidade>
+    <Cidade>Pouso Alegre</Cidade>
+    <Cidade>Pouso Alto</Cidade>
+    <Cidade>Prados</Cidade>
+    <Cidade>Prata</Cidade>
+    <Cidade>Pratápolis</Cidade>
+    <Cidade>Pratinha</Cidade>
+    <Cidade>Presidente Bernardes</Cidade>
+    <Cidade>Presidente Juscelino</Cidade>
+    <Cidade>Presidente Kubitschek</Cidade>
+    <Cidade>Presidente Olegário</Cidade>
+    <Cidade>Prudente de Morais</Cidade>
+    <Cidade>Quartel Geral</Cidade>
+    <Cidade>Queluzito</Cidade>
+    <Cidade>Raposos</Cidade>
+    <Cidade>Raul Soares</Cidade>
+    <Cidade>Recreio</Cidade>
+    <Cidade>Reduto</Cidade>
+    <Cidade>Resende Costa</Cidade>
+    <Cidade>Resplendor</Cidade>
+    <Cidade>Ressaquinha</Cidade>
+    <Cidade>Riachinho</Cidade>
+    <Cidade>Riacho dos Machados</Cidade>
+    <Cidade>Ribeirão das Neves</Cidade>
+    <Cidade>Ribeirão Vermelho</Cidade>
+    <Cidade>Rio Acima</Cidade>
+    <Cidade>Rio Casca</Cidade>
+    <Cidade>Rio do Prado</Cidade>
+    <Cidade>Rio Doce</Cidade>
+    <Cidade>Rio Espera</Cidade>
+    <Cidade>Rio Manso</Cidade>
+    <Cidade>Rio Novo</Cidade>
+    <Cidade>Rio Paranaíba</Cidade>
+    <Cidade>Rio Pardo de Minas</Cidade>
+    <Cidade>Rio Piracicaba</Cidade>
+    <Cidade>Rio Pomba</Cidade>
+    <Cidade>Rio Preto</Cidade>
+    <Cidade>Rio Vermelho</Cidade>
+    <Cidade>Ritápolis</Cidade>
+    <Cidade>Rochedo de Minas</Cidade>
+    <Cidade>Rodeiro</Cidade>
+    <Cidade>Romaria</Cidade>
+    <Cidade>Rosário da Limeira</Cidade>
+    <Cidade>Rubelita</Cidade>
+    <Cidade>Rubim</Cidade>
+    <Cidade>Sabará</Cidade>
+    <Cidade>Sabinópolis</Cidade>
+    <Cidade>Sacramento</Cidade>
+    <Cidade>Salinas</Cidade>
+    <Cidade>Salto da Divisa</Cidade>
+    <Cidade>Santa Bárbara</Cidade>
+    <Cidade>Santa Bárbara do Leste</Cidade>
+    <Cidade>Santa Bárbara do Monte Verde</Cidade>
+    <Cidade>Santa Bárbara do Tugúrio</Cidade>
+    <Cidade>Santa Cruz de Minas</Cidade>
+    <Cidade>Santa Cruz de Salinas</Cidade>
+    <Cidade>Santa Cruz do Escalvado</Cidade>
+    <Cidade>Santa Efigênia de Minas</Cidade>
+    <Cidade>Santa Fé de Minas</Cidade>
+    <Cidade>Santa Helena de Minas</Cidade>
+    <Cidade>Santa Juliana</Cidade>
+    <Cidade>Santa Luzia</Cidade>
+    <Cidade>Santa Margarida</Cidade>
+    <Cidade>Santa Maria de Itabira</Cidade>
+    <Cidade>Santa Maria do Salto</Cidade>
+    <Cidade>Santa Maria do Suaçuí</Cidade>
+    <Cidade>Santa Rita de Caldas</Cidade>
+    <Cidade>Santa Rita de Ibitipoca</Cidade>
+    <Cidade>Santa Rita de Jacutinga</Cidade>
+    <Cidade>Santa Rita de Minas</Cidade>
+    <Cidade>Santa Rita do Itueto</Cidade>
+    <Cidade>Santa Rita do Sapucaí</Cidade>
+    <Cidade>Santa Rosa da Serra</Cidade>
+    <Cidade>Santa Vitória</Cidade>
+    <Cidade>Santana da Vargem</Cidade>
+    <Cidade>Santana de Cataguases</Cidade>
+    <Cidade>Santana de Pirapama</Cidade>
+    <Cidade>Santana do Deserto</Cidade>
+    <Cidade>Santana do Garambéu</Cidade>
+    <Cidade>Santana do Jacaré</Cidade>
+    <Cidade>Santana do Manhuaçu</Cidade>
+    <Cidade>Santana do Paraíso</Cidade>
+    <Cidade>Santana do Riacho</Cidade>
+    <Cidade>Santana dos Montes</Cidade>
+    <Cidade>Santo Antônio do Amparo</Cidade>
+    <Cidade>Santo Antônio do Aventureiro</Cidade>
+    <Cidade>Santo Antônio do Grama</Cidade>
+    <Cidade>Santo Antônio do Itambé</Cidade>
+    <Cidade>Santo Antônio do Jacinto</Cidade>
+    <Cidade>Santo Antônio do Monte</Cidade>
+    <Cidade>Santo Antônio do Retiro</Cidade>
+    <Cidade>Santo Antônio do Rio Abaixo</Cidade>
+    <Cidade>Santo Hipólito</Cidade>
+    <Cidade>Santos Dumont</Cidade>
+    <Cidade>São Bento Abade</Cidade>
+    <Cidade>São Brás do Suaçuí</Cidade>
+    <Cidade>São Domingos das Dores</Cidade>
+    <Cidade>São Domingos do Prata</Cidade>
+    <Cidade>São Félix de Minas</Cidade>
+    <Cidade>São Francisco</Cidade>
+    <Cidade>São Francisco de Paula</Cidade>
+    <Cidade>São Francisco de Sales</Cidade>
+    <Cidade>São Francisco do Glória</Cidade>
+    <Cidade>São Geraldo</Cidade>
+    <Cidade>São Geraldo da Piedade</Cidade>
+    <Cidade>São Geraldo do Baixio</Cidade>
+    <Cidade>São Gonçalo do Abaeté</Cidade>
+    <Cidade>São Gonçalo do Pará</Cidade>
+    <Cidade>São Gonçalo do Rio Abaixo</Cidade>
+    <Cidade>São Gonçalo do Rio Preto</Cidade>
+    <Cidade>São Gonçalo do Sapucaí</Cidade>
+    <Cidade>São Gotardo</Cidade>
+    <Cidade>São João Batista do Glória</Cidade>
+    <Cidade>São João da Lagoa</Cidade>
+    <Cidade>São João da Mata</Cidade>
+    <Cidade>São João da Ponte</Cidade>
+    <Cidade>São João das Missões</Cidade>
+    <Cidade>São João del Rei</Cidade>
+    <Cidade>São João do Manhuaçu</Cidade>
+    <Cidade>São João do Manteninha</Cidade>
+    <Cidade>São João do Oriente</Cidade>
+    <Cidade>São João do Pacuí</Cidade>
+    <Cidade>São João do Paraíso</Cidade>
+    <Cidade>São João Evangelista</Cidade>
+    <Cidade>São João Nepomuceno</Cidade>
+    <Cidade>São Joaquim de Bicas</Cidade>
+    <Cidade>São José da Barra</Cidade>
+    <Cidade>São José da Lapa</Cidade>
+    <Cidade>São José da Safira</Cidade>
+    <Cidade>São José da Varginha</Cidade>
+    <Cidade>São José do Alegre</Cidade>
+    <Cidade>São José do Divino</Cidade>
+    <Cidade>São José do Goiabal</Cidade>
+    <Cidade>São José do Jacuri</Cidade>
+    <Cidade>São José do Mantimento</Cidade>
+    <Cidade>São Lourenço</Cidade>
+    <Cidade>São Miguel do Anta</Cidade>
+    <Cidade>São Pedro da União</Cidade>
+    <Cidade>São Pedro do Suaçuí</Cidade>
+    <Cidade>São Pedro dos Ferros</Cidade>
+    <Cidade>São Romão</Cidade>
+    <Cidade>São Roque de Minas</Cidade>
+    <Cidade>São Sebastião da Bela Vista</Cidade>
+    <Cidade>São Sebastião da Vargem Alegre</Cidade>
+    <Cidade>São Sebastião do Anta</Cidade>
+    <Cidade>São Sebastião do Maranhão</Cidade>
+    <Cidade>São Sebastião do Oeste</Cidade>
+    <Cidade>São Sebastião do Paraíso</Cidade>
+    <Cidade>São Sebastião do Rio Preto</Cidade>
+    <Cidade>São Sebastião do Rio Verde</Cidade>
+    <Cidade>São Thomé das Letras</Cidade>
+    <Cidade>São Tiago</Cidade>
+    <Cidade>São Tomás de Aquino</Cidade>
+    <Cidade>São Vicente de Minas</Cidade>
+    <Cidade>Sapucaí-Mirim</Cidade>
+    <Cidade>Sardoá</Cidade>
+    <Cidade>Sarzedo</Cidade>
+    <Cidade>Sem-Peixe</Cidade>
+    <Cidade>Senador Amaral</Cidade>
+    <Cidade>Senador Cortes</Cidade>
+    <Cidade>Senador Firmino</Cidade>
+    <Cidade>Senador José Bento</Cidade>
+    <Cidade>Senador Modestino Gonçalves</Cidade>
+    <Cidade>Senhora de Oliveira</Cidade>
+    <Cidade>Senhora do Porto</Cidade>
+    <Cidade>Senhora dos Remédios</Cidade>
+    <Cidade>Sericita</Cidade>
+    <Cidade>Seritinga</Cidade>
+    <Cidade>Serra Azul de Minas</Cidade>
+    <Cidade>Serra da Saudade</Cidade>
+    <Cidade>Serra do Salitre</Cidade>
+    <Cidade>Serra dos Aimorés</Cidade>
+    <Cidade>Serrania</Cidade>
+    <Cidade>Serranópolis de Minas</Cidade>
+    <Cidade>Serranos</Cidade>
+    <Cidade>Serro</Cidade>
+    <Cidade>Sete Lagoas</Cidade>
+    <Cidade>Setubinha</Cidade>
+    <Cidade>Silveirânia</Cidade>
+    <Cidade>Silvianópolis</Cidade>
+    <Cidade>Simão Pereira</Cidade>
+    <Cidade>Simonésia</Cidade>
+    <Cidade>Sobrália</Cidade>
+    <Cidade>Soledade de Minas</Cidade>
+    <Cidade>Tabuleiro</Cidade>
+    <Cidade>Taiobeiras</Cidade>
+    <Cidade>Taparuba</Cidade>
+    <Cidade>Tapira</Cidade>
+    <Cidade>Tapiraí</Cidade>
+    <Cidade>Taquaraçu de Minas</Cidade>
+    <Cidade>Tarumirim</Cidade>
+    <Cidade>Teixeiras</Cidade>
+    <Cidade>Teófilo Otoni</Cidade>
+    <Cidade>Timóteo</Cidade>
+    <Cidade>Tiradentes</Cidade>
+    <Cidade>Tiros</Cidade>
+    <Cidade>Tocantins</Cidade>
+    <Cidade>Tocos do Moji</Cidade>
+    <Cidade>Toledo</Cidade>
+    <Cidade>Tombos</Cidade>
+    <Cidade>Três Corações</Cidade>
+    <Cidade>Três Marias</Cidade>
+    <Cidade>Três Pontas</Cidade>
+    <Cidade>Tumiritinga</Cidade>
+    <Cidade>Tupaciguara</Cidade>
+    <Cidade>Turmalina</Cidade>
+    <Cidade>Turvolândia</Cidade>
+    <Cidade>Ubá</Cidade>
+    <Cidade>Ubaí</Cidade>
+    <Cidade>Ubaporanga</Cidade>
+    <Cidade>Uberaba</Cidade>
+    <Cidade>Uberlândia</Cidade>
+    <Cidade>Umburatiba</Cidade>
+    <Cidade>Unaí</Cidade>
+    <Cidade>União de Minas</Cidade>
+    <Cidade>Uruana de Minas</Cidade>
+    <Cidade>Urucânia</Cidade>
+    <Cidade>Urucuia</Cidade>
+    <Cidade>Vargem Alegre</Cidade>
+    <Cidade>Vargem Bonita</Cidade>
+    <Cidade>Vargem Grande do Rio Pardo</Cidade>
+    <Cidade>Varginha</Cidade>
+    <Cidade>Varjão de Minas</Cidade>
+    <Cidade>Várzea da Palma</Cidade>
+    <Cidade>Varzelândia</Cidade>
+    <Cidade>Vazante</Cidade>
+    <Cidade>Verdelândia</Cidade>
+    <Cidade>Veredinha</Cidade>
+    <Cidade>Veríssimo</Cidade>
+    <Cidade>Vermelho Novo</Cidade>
+    <Cidade>Vespasiano</Cidade>
+    <Cidade>Viçosa</Cidade>
+    <Cidade>Vieiras</Cidade>
+    <Cidade>Virgem da Lapa</Cidade>
+    <Cidade>Virgínia</Cidade>
+    <Cidade>Virginópolis</Cidade>
+    <Cidade>Virgolândia</Cidade>
+    <Cidade>Visconde do Rio Branco</Cidade>
+    <Cidade>Volta Grande</Cidade>
+    <Cidade>Wenceslau Braz</Cidade>
+    <Cidade>Abaetetuba</Cidade>
+    <Cidade>Abel Figueiredo</Cidade>
+    <Cidade>Acará</Cidade>
+    <Cidade>Afuá</Cidade>
+    <Cidade>Água Azul do Norte</Cidade>
+    <Cidade>Alenquer</Cidade>
+    <Cidade>Almeirim</Cidade>
+    <Cidade>Altamira</Cidade>
+    <Cidade>Anajás</Cidade>
+    <Cidade>Ananindeua</Cidade>
+    <Cidade>Anapu</Cidade>
+    <Cidade>Augusto Corrêa</Cidade>
+    <Cidade>Aurora do Pará</Cidade>
+    <Cidade>Aveiro</Cidade>
+    <Cidade>Bagre</Cidade>
+    <Cidade>Baião</Cidade>
+    <Cidade>Bannach</Cidade>
+    <Cidade>Barcarena</Cidade>
+    <Cidade>Belém</Cidade>
+    <Cidade>Belterra</Cidade>
+    <Cidade>Benevides</Cidade>
+    <Cidade>Bom Jesus do Tocantins</Cidade>
+    <Cidade>Bonito</Cidade>
+    <Cidade>Bragança</Cidade>
+    <Cidade>Brasil Novo</Cidade>
+    <Cidade>Brejo Grande do Araguaia</Cidade>
+    <Cidade>Breu Branco</Cidade>
+    <Cidade>Breves</Cidade>
+    <Cidade>Bujaru</Cidade>
+    <Cidade>Cachoeira do Arari</Cidade>
+    <Cidade>Cachoeira do Piriá</Cidade>
+    <Cidade>Cametá</Cidade>
+    <Cidade>Canaã dos Carajás</Cidade>
+    <Cidade>Capanema</Cidade>
+    <Cidade>Capitão Poço</Cidade>
+    <Cidade>Castanhal</Cidade>
+    <Cidade>Chaves</Cidade>
+    <Cidade>Colares</Cidade>
+    <Cidade>Conceição do Araguaia</Cidade>
+    <Cidade>Concórdia do Pará</Cidade>
+    <Cidade>Cumaru do Norte</Cidade>
+    <Cidade>Curionópolis</Cidade>
+    <Cidade>Curralinho</Cidade>
+    <Cidade>Curuá</Cidade>
+    <Cidade>Curuçá</Cidade>
+    <Cidade>Dom Eliseu</Cidade>
+    <Cidade>Eldorado dos Carajás</Cidade>
+    <Cidade>Faro</Cidade>
+    <Cidade>Floresta do Araguaia</Cidade>
+    <Cidade>Garrafão do Norte</Cidade>
+    <Cidade>Goianésia do Pará</Cidade>
+    <Cidade>Gurupá</Cidade>
+    <Cidade>Igarapé-Açu</Cidade>
+    <Cidade>Igarapé-Miri</Cidade>
+    <Cidade>Inhangapi</Cidade>
+    <Cidade>Ipixuna do Pará</Cidade>
+    <Cidade>Irituia</Cidade>
+    <Cidade>Itaituba</Cidade>
+    <Cidade>Itupiranga</Cidade>
+    <Cidade>Jacareacanga</Cidade>
+    <Cidade>Jacundá</Cidade>
+    <Cidade>Juruti</Cidade>
+    <Cidade>Limoeiro do Ajuru</Cidade>
+    <Cidade>Mãe do Rio</Cidade>
+    <Cidade>Magalhães Barata</Cidade>
+    <Cidade>Marabá</Cidade>
+    <Cidade>Maracanã</Cidade>
+    <Cidade>Marapanim</Cidade>
+    <Cidade>Marituba</Cidade>
+    <Cidade>Medicilândia</Cidade>
+    <Cidade>Melgaço</Cidade>
+    <Cidade>Mocajuba</Cidade>
+    <Cidade>Moju</Cidade>
+    <Cidade>Monte Alegre</Cidade>
+    <Cidade>Muaná</Cidade>
+    <Cidade>Nova Esperança do Piriá</Cidade>
+    <Cidade>Nova Ipixuna</Cidade>
+    <Cidade>Nova Timboteua</Cidade>
+    <Cidade>Novo Progresso</Cidade>
+    <Cidade>Novo Repartimento</Cidade>
+    <Cidade>Óbidos</Cidade>
+    <Cidade>Oeiras do Pará</Cidade>
+    <Cidade>Oriximiná</Cidade>
+    <Cidade>Ourém</Cidade>
+    <Cidade>Ourilândia do Norte</Cidade>
+    <Cidade>Pacajá</Cidade>
+    <Cidade>Palestina do Pará</Cidade>
+    <Cidade>Paragominas</Cidade>
+    <Cidade>Parauapebas</Cidade>
+    <Cidade>Pau d`Arco</Cidade>
+    <Cidade>Peixe-Boi</Cidade>
+    <Cidade>Piçarra</Cidade>
+    <Cidade>Placas</Cidade>
+    <Cidade>Ponta de Pedras</Cidade>
+    <Cidade>Portel</Cidade>
+    <Cidade>Porto de Moz</Cidade>
+    <Cidade>Prainha</Cidade>
+    <Cidade>Primavera</Cidade>
+    <Cidade>Quatipuru</Cidade>
+    <Cidade>Redenção</Cidade>
+    <Cidade>Rio Maria</Cidade>
+    <Cidade>Rondon do Pará</Cidade>
+    <Cidade>Rurópolis</Cidade>
+    <Cidade>Salinópolis</Cidade>
+    <Cidade>Salvaterra</Cidade>
+    <Cidade>Santa Bárbara do Pará</Cidade>
+    <Cidade>Santa Cruz do Arari</Cidade>
+    <Cidade>Santa Isabel do Pará</Cidade>
+    <Cidade>Santa Luzia do Pará</Cidade>
+    <Cidade>Santa Maria das Barreiras</Cidade>
+    <Cidade>Santa Maria do Pará</Cidade>
+    <Cidade>Santana do Araguaia</Cidade>
+    <Cidade>Santarém</Cidade>
+    <Cidade>Santarém Novo</Cidade>
+    <Cidade>Santo Antônio do Tauá</Cidade>
+    <Cidade>São Caetano de Odivelas</Cidade>
+    <Cidade>São Domingos do Araguaia</Cidade>
+    <Cidade>São Domingos do Capim</Cidade>
+    <Cidade>São Félix do Xingu</Cidade>
+    <Cidade>São Francisco do Pará</Cidade>
+    <Cidade>São Geraldo do Araguaia</Cidade>
+    <Cidade>São João da Ponta</Cidade>
+    <Cidade>São João de Pirabas</Cidade>
+    <Cidade>São João do Araguaia</Cidade>
+    <Cidade>São Miguel do Guamá</Cidade>
+    <Cidade>São Sebastião da Boa Vista</Cidade>
+    <Cidade>Sapucaia</Cidade>
+    <Cidade>Senador José Porfírio</Cidade>
+    <Cidade>Soure</Cidade>
+    <Cidade>Tailândia</Cidade>
+    <Cidade>Terra Alta</Cidade>
+    <Cidade>Terra Santa</Cidade>
+    <Cidade>Tomé-Açu</Cidade>
+    <Cidade>Tracuateua</Cidade>
+    <Cidade>Trairão</Cidade>
+    <Cidade>Tucumã</Cidade>
+    <Cidade>Tucuruí</Cidade>
+    <Cidade>Ulianópolis</Cidade>
+    <Cidade>Uruará</Cidade>
+    <Cidade>Vigia</Cidade>
+    <Cidade>Viseu</Cidade>
+    <Cidade>Vitória do Xingu</Cidade>
+    <Cidade>Xinguara</Cidade>
+    <Cidade>Água Branca</Cidade>
+    <Cidade>Aguiar</Cidade>
+    <Cidade>Alagoa Grande</Cidade>
+    <Cidade>Alagoa Nova</Cidade>
+    <Cidade>Alagoinha</Cidade>
+    <Cidade>Alcantil</Cidade>
+    <Cidade>Algodão de Jandaíra</Cidade>
+    <Cidade>Alhandra</Cidade>
+    <Cidade>Amparo</Cidade>
+    <Cidade>Aparecida</Cidade>
+    <Cidade>Araçagi</Cidade>
+    <Cidade>Arara</Cidade>
+    <Cidade>Araruna</Cidade>
+    <Cidade>Areia</Cidade>
+    <Cidade>Areia de Baraúnas</Cidade>
+    <Cidade>Areial</Cidade>
+    <Cidade>Aroeiras</Cidade>
+    <Cidade>Assunção</Cidade>
+    <Cidade>Baía da Traição</Cidade>
+    <Cidade>Bananeiras</Cidade>
+    <Cidade>Baraúna</Cidade>
+    <Cidade>Barra de Santa Rosa</Cidade>
+    <Cidade>Barra de Santana</Cidade>
+    <Cidade>Barra de São Miguel</Cidade>
+    <Cidade>Bayeux</Cidade>
+    <Cidade>Belém</Cidade>
+    <Cidade>Belém do Brejo do Cruz</Cidade>
+    <Cidade>Bernardino Batista</Cidade>
+    <Cidade>Boa Ventura</Cidade>
+    <Cidade>Boa Vista</Cidade>
+    <Cidade>Bom Jesus</Cidade>
+    <Cidade>Bom Sucesso</Cidade>
+    <Cidade>Bonito de Santa Fé</Cidade>
+    <Cidade>Boqueirão</Cidade>
+    <Cidade>Borborema</Cidade>
+    <Cidade>Brejo do Cruz</Cidade>
+    <Cidade>Brejo dos Santos</Cidade>
+    <Cidade>Caaporã</Cidade>
+    <Cidade>Cabaceiras</Cidade>
+    <Cidade>Cabedelo</Cidade>
+    <Cidade>Cachoeira dos Índios</Cidade>
+    <Cidade>Cacimba de Areia</Cidade>
+    <Cidade>Cacimba de Dentro</Cidade>
+    <Cidade>Cacimbas</Cidade>
+    <Cidade>Caiçara</Cidade>
+    <Cidade>Cajazeiras</Cidade>
+    <Cidade>Cajazeirinhas</Cidade>
+    <Cidade>Caldas Brandão</Cidade>
+    <Cidade>Camalaú</Cidade>
+    <Cidade>Campina Grande</Cidade>
+    <Cidade>Campo de Santana</Cidade>
+    <Cidade>Capim</Cidade>
+    <Cidade>Caraúbas</Cidade>
+    <Cidade>Carrapateira</Cidade>
+    <Cidade>Casserengue</Cidade>
+    <Cidade>Catingueira</Cidade>
+    <Cidade>Catolé do Rocha</Cidade>
+    <Cidade>Caturité</Cidade>
+    <Cidade>Conceição</Cidade>
+    <Cidade>Condado</Cidade>
+    <Cidade>Conde</Cidade>
+    <Cidade>Congo</Cidade>
+    <Cidade>Coremas</Cidade>
+    <Cidade>Coxixola</Cidade>
+    <Cidade>Cruz do Espírito Santo</Cidade>
+    <Cidade>Cubati</Cidade>
+    <Cidade>Cuité</Cidade>
+    <Cidade>Cuité de Mamanguape</Cidade>
+    <Cidade>Cuitegi</Cidade>
+    <Cidade>Curral de Cima</Cidade>
+    <Cidade>Curral Velho</Cidade>
+    <Cidade>Damião</Cidade>
+    <Cidade>Desterro</Cidade>
+    <Cidade>Diamante</Cidade>
+    <Cidade>Dona Inês</Cidade>
+    <Cidade>Duas Estradas</Cidade>
+    <Cidade>Emas</Cidade>
+    <Cidade>Esperança</Cidade>
+    <Cidade>Fagundes</Cidade>
+    <Cidade>Frei Martinho</Cidade>
+    <Cidade>Gado Bravo</Cidade>
+    <Cidade>Guarabira</Cidade>
+    <Cidade>Gurinhém</Cidade>
+    <Cidade>Gurjão</Cidade>
+    <Cidade>Ibiara</Cidade>
+    <Cidade>Igaracy</Cidade>
+    <Cidade>Imaculada</Cidade>
+    <Cidade>Ingá</Cidade>
+    <Cidade>Itabaiana</Cidade>
+    <Cidade>Itaporanga</Cidade>
+    <Cidade>Itapororoca</Cidade>
+    <Cidade>Itatuba</Cidade>
+    <Cidade>Jacaraú</Cidade>
+    <Cidade>Jericó</Cidade>
+    <Cidade>João Pessoa</Cidade>
+    <Cidade>Juarez Távora</Cidade>
+    <Cidade>Juazeirinho</Cidade>
+    <Cidade>Junco do Seridó</Cidade>
+    <Cidade>Juripiranga</Cidade>
+    <Cidade>Juru</Cidade>
+    <Cidade>Lagoa</Cidade>
+    <Cidade>Lagoa de Dentro</Cidade>
+    <Cidade>Lagoa Seca</Cidade>
+    <Cidade>Lastro</Cidade>
+    <Cidade>Livramento</Cidade>
+    <Cidade>Logradouro</Cidade>
+    <Cidade>Lucena</Cidade>
+    <Cidade>Mãe d`Água</Cidade>
+    <Cidade>Malta</Cidade>
+    <Cidade>Mamanguape</Cidade>
+    <Cidade>Manaíra</Cidade>
+    <Cidade>Marcação</Cidade>
+    <Cidade>Mari</Cidade>
+    <Cidade>Marizópolis</Cidade>
+    <Cidade>Massaranduba</Cidade>
+    <Cidade>Mataraca</Cidade>
+    <Cidade>Matinhas</Cidade>
+    <Cidade>Mato Grosso</Cidade>
+    <Cidade>Maturéia</Cidade>
+    <Cidade>Mogeiro</Cidade>
+    <Cidade>Montadas</Cidade>
+    <Cidade>Monte Horebe</Cidade>
+    <Cidade>Monteiro</Cidade>
+    <Cidade>Mulungu</Cidade>
+    <Cidade>Natuba</Cidade>
+    <Cidade>Nazarezinho</Cidade>
+    <Cidade>Nova Floresta</Cidade>
+    <Cidade>Nova Olinda</Cidade>
+    <Cidade>Nova Palmeira</Cidade>
+    <Cidade>Olho d`Água</Cidade>
+    <Cidade>Olivedos</Cidade>
+    <Cidade>Ouro Velho</Cidade>
+    <Cidade>Parari</Cidade>
+    <Cidade>Passagem</Cidade>
+    <Cidade>Patos</Cidade>
+    <Cidade>Paulista</Cidade>
+    <Cidade>Pedra Branca</Cidade>
+    <Cidade>Pedra Lavrada</Cidade>
+    <Cidade>Pedras de Fogo</Cidade>
+    <Cidade>Pedro Régis</Cidade>
+    <Cidade>Piancó</Cidade>
+    <Cidade>Picuí</Cidade>
+    <Cidade>Pilar</Cidade>
+    <Cidade>Pilões</Cidade>
+    <Cidade>Pilõezinhos</Cidade>
+    <Cidade>Pirpirituba</Cidade>
+    <Cidade>Pitimbu</Cidade>
+    <Cidade>Pocinhos</Cidade>
+    <Cidade>Poço Dantas</Cidade>
+    <Cidade>Poço de José de Moura</Cidade>
+    <Cidade>Pombal</Cidade>
+    <Cidade>Prata</Cidade>
+    <Cidade>Princesa Isabel</Cidade>
+    <Cidade>Puxinanã</Cidade>
+    <Cidade>Queimadas</Cidade>
+    <Cidade>Quixabá</Cidade>
+    <Cidade>Remígio</Cidade>
+    <Cidade>Riachão</Cidade>
+    <Cidade>Riachão do Bacamarte</Cidade>
+    <Cidade>Riachão do Poço</Cidade>
+    <Cidade>Riacho de Santo Antônio</Cidade>
+    <Cidade>Riacho dos Cavalos</Cidade>
+    <Cidade>Rio Tinto</Cidade>
+    <Cidade>Salgadinho</Cidade>
+    <Cidade>Salgado de São Félix</Cidade>
+    <Cidade>Santa Cecília</Cidade>
+    <Cidade>Santa Cruz</Cidade>
+    <Cidade>Santa Helena</Cidade>
+    <Cidade>Santa Inês</Cidade>
+    <Cidade>Santa Luzia</Cidade>
+    <Cidade>Santa Rita</Cidade>
+    <Cidade>Santa Teresinha</Cidade>
+    <Cidade>Santana de Mangueira</Cidade>
+    <Cidade>Santana dos Garrotes</Cidade>
+    <Cidade>Santarém</Cidade>
+    <Cidade>Santo André</Cidade>
+    <Cidade>São Bentinho</Cidade>
+    <Cidade>São Bento</Cidade>
+    <Cidade>São Domingos de Pombal</Cidade>
+    <Cidade>São Domingos do Cariri</Cidade>
+    <Cidade>São Francisco</Cidade>
+    <Cidade>São João do Cariri</Cidade>
+    <Cidade>São João do Rio do Peixe</Cidade>
+    <Cidade>São João do Tigre</Cidade>
+    <Cidade>São José da Lagoa Tapada</Cidade>
+    <Cidade>São José de Caiana</Cidade>
+    <Cidade>São José de Espinharas</Cidade>
+    <Cidade>São José de Piranhas</Cidade>
+    <Cidade>São José de Princesa</Cidade>
+    <Cidade>São José do Bonfim</Cidade>
+    <Cidade>São José do Brejo do Cruz</Cidade>
+    <Cidade>São José do Sabugi</Cidade>
+    <Cidade>São José dos Cordeiros</Cidade>
+    <Cidade>São José dos Ramos</Cidade>
+    <Cidade>São Mamede</Cidade>
+    <Cidade>São Miguel de Taipu</Cidade>
+    <Cidade>São Sebastião de Lagoa de Roça</Cidade>
+    <Cidade>São Sebastião do Umbuzeiro</Cidade>
+    <Cidade>Sapé</Cidade>
+    <Cidade>Seridó</Cidade>
+    <Cidade>Serra Branca</Cidade>
+    <Cidade>Serra da Raiz</Cidade>
+    <Cidade>Serra Grande</Cidade>
+    <Cidade>Serra Redonda</Cidade>
+    <Cidade>Serraria</Cidade>
+    <Cidade>Sertãozinho</Cidade>
+    <Cidade>Sobrado</Cidade>
+    <Cidade>Solânea</Cidade>
+    <Cidade>Soledade</Cidade>
+    <Cidade>Sossêgo</Cidade>
+    <Cidade>Sousa</Cidade>
+    <Cidade>Sumé</Cidade>
+    <Cidade>Taperoá</Cidade>
+    <Cidade>Tavares</Cidade>
+    <Cidade>Teixeira</Cidade>
+    <Cidade>Tenório</Cidade>
+    <Cidade>Triunfo</Cidade>
+    <Cidade>Uiraúna</Cidade>
+    <Cidade>Umbuzeiro</Cidade>
+    <Cidade>Várzea</Cidade>
+    <Cidade>Vieirópolis</Cidade>
+    <Cidade>Vista Serrana</Cidade>
+    <Cidade>Zabelê</Cidade>
+    <Cidade>Abatiá</Cidade>
+    <Cidade>Adrianópolis</Cidade>
+    <Cidade>Agudos do Sul</Cidade>
+    <Cidade>Almirante Tamandaré</Cidade>
+    <Cidade>Altamira do Paraná</Cidade>
+    <Cidade>Alto Paraíso</Cidade>
+    <Cidade>Alto Paraná</Cidade>
+    <Cidade>Alto Piquiri</Cidade>
+    <Cidade>Altônia</Cidade>
+    <Cidade>Alvorada do Sul</Cidade>
+    <Cidade>Amaporã</Cidade>
+    <Cidade>Ampére</Cidade>
+    <Cidade>Anahy</Cidade>
+    <Cidade>Andirá</Cidade>
+    <Cidade>Ângulo</Cidade>
+    <Cidade>Antonina</Cidade>
+    <Cidade>Antônio Olinto</Cidade>
+    <Cidade>Apucarana</Cidade>
+    <Cidade>Arapongas</Cidade>
+    <Cidade>Arapoti</Cidade>
+    <Cidade>Arapuã</Cidade>
+    <Cidade>Araruna</Cidade>
+    <Cidade>Araucária</Cidade>
+    <Cidade>Ariranha do Ivaí</Cidade>
+    <Cidade>Assaí</Cidade>
+    <Cidade>Assis Chateaubriand</Cidade>
+    <Cidade>Astorga</Cidade>
+    <Cidade>Atalaia</Cidade>
+    <Cidade>Balsa Nova</Cidade>
+    <Cidade>Bandeirantes</Cidade>
+    <Cidade>Barbosa Ferraz</Cidade>
+    <Cidade>Barra do Jacaré</Cidade>
+    <Cidade>Barracão</Cidade>
+    <Cidade>Bela Vista da Caroba</Cidade>
+    <Cidade>Bela Vista do Paraíso</Cidade>
+    <Cidade>Bituruna</Cidade>
+    <Cidade>Boa Esperança</Cidade>
+    <Cidade>Boa Esperança do Iguaçu</Cidade>
+    <Cidade>Boa Ventura de São Roque</Cidade>
+    <Cidade>Boa Vista da Aparecida</Cidade>
+    <Cidade>Bocaiúva do Sul</Cidade>
+    <Cidade>Bom Jesus do Sul</Cidade>
+    <Cidade>Bom Sucesso</Cidade>
+    <Cidade>Bom Sucesso do Sul</Cidade>
+    <Cidade>Borrazópolis</Cidade>
+    <Cidade>Braganey</Cidade>
+    <Cidade>Brasilândia do Sul</Cidade>
+    <Cidade>Cafeara</Cidade>
+    <Cidade>Cafelândia</Cidade>
+    <Cidade>Cafezal do Sul</Cidade>
+    <Cidade>Califórnia</Cidade>
+    <Cidade>Cambará</Cidade>
+    <Cidade>Cambé</Cidade>
+    <Cidade>Cambira</Cidade>
+    <Cidade>Campina da Lagoa</Cidade>
+    <Cidade>Campina do Simão</Cidade>
+    <Cidade>Campina Grande do Sul</Cidade>
+    <Cidade>Campo Bonito</Cidade>
+    <Cidade>Campo do Tenente</Cidade>
+    <Cidade>Campo Largo</Cidade>
+    <Cidade>Campo Magro</Cidade>
+    <Cidade>Campo Mourão</Cidade>
+    <Cidade>Cândido de Abreu</Cidade>
+    <Cidade>Candói</Cidade>
+    <Cidade>Cantagalo</Cidade>
+    <Cidade>Capanema</Cidade>
+    <Cidade>Capitão Leônidas Marques</Cidade>
+    <Cidade>Carambeí</Cidade>
+    <Cidade>Carlópolis</Cidade>
+    <Cidade>Cascavel</Cidade>
+    <Cidade>Castro</Cidade>
+    <Cidade>Catanduvas</Cidade>
+    <Cidade>Centenário do Sul</Cidade>
+    <Cidade>Cerro Azul</Cidade>
+    <Cidade>Céu Azul</Cidade>
+    <Cidade>Chopinzinho</Cidade>
+    <Cidade>Cianorte</Cidade>
+    <Cidade>Cidade Gaúcha</Cidade>
+    <Cidade>Clevelândia</Cidade>
+    <Cidade>Colombo</Cidade>
+    <Cidade>Colorado</Cidade>
+    <Cidade>Congonhinhas</Cidade>
+    <Cidade>Conselheiro Mairinck</Cidade>
+    <Cidade>Contenda</Cidade>
+    <Cidade>Corbélia</Cidade>
+    <Cidade>Cornélio Procópio</Cidade>
+    <Cidade>Coronel Domingos Soares</Cidade>
+    <Cidade>Coronel Vivida</Cidade>
+    <Cidade>Corumbataí do Sul</Cidade>
+    <Cidade>Cruz Machado</Cidade>
+    <Cidade>Cruzeiro do Iguaçu</Cidade>
+    <Cidade>Cruzeiro do Oeste</Cidade>
+    <Cidade>Cruzeiro do Sul</Cidade>
+    <Cidade>Cruzmaltina</Cidade>
+    <Cidade>Curitiba</Cidade>
+    <Cidade>Curiúva</Cidade>
+    <Cidade>Diamante d`Oeste</Cidade>
+    <Cidade>Diamante do Norte</Cidade>
+    <Cidade>Diamante do Sul</Cidade>
+    <Cidade>Dois Vizinhos</Cidade>
+    <Cidade>Douradina</Cidade>
+    <Cidade>Doutor Camargo</Cidade>
+    <Cidade>Doutor Ulysses</Cidade>
+    <Cidade>Enéas Marques</Cidade>
+    <Cidade>Engenheiro Beltrão</Cidade>
+    <Cidade>Entre Rios do Oeste</Cidade>
+    <Cidade>Esperança Nova</Cidade>
+    <Cidade>Espigão Alto do Iguaçu</Cidade>
+    <Cidade>Farol</Cidade>
+    <Cidade>Faxinal</Cidade>
+    <Cidade>Fazenda Rio Grande</Cidade>
+    <Cidade>Fênix</Cidade>
+    <Cidade>Fernandes Pinheiro</Cidade>
+    <Cidade>Figueira</Cidade>
+    <Cidade>Flor da Serra do Sul</Cidade>
+    <Cidade>Floraí</Cidade>
+    <Cidade>Floresta</Cidade>
+    <Cidade>Florestópolis</Cidade>
+    <Cidade>Flórida</Cidade>
+    <Cidade>Formosa do Oeste</Cidade>
+    <Cidade>Foz do Iguaçu</Cidade>
+    <Cidade>Foz do Jordão</Cidade>
+    <Cidade>Francisco Alves</Cidade>
+    <Cidade>Francisco Beltrão</Cidade>
+    <Cidade>General Carneiro</Cidade>
+    <Cidade>Godoy Moreira</Cidade>
+    <Cidade>Goioerê</Cidade>
+    <Cidade>Goioxim</Cidade>
+    <Cidade>Grandes Rios</Cidade>
+    <Cidade>Guaíra</Cidade>
+    <Cidade>Guairaçá</Cidade>
+    <Cidade>Guamiranga</Cidade>
+    <Cidade>Guapirama</Cidade>
+    <Cidade>Guaporema</Cidade>
+    <Cidade>Guaraci</Cidade>
+    <Cidade>Guaraniaçu</Cidade>
+    <Cidade>Guarapuava</Cidade>
+    <Cidade>Guaraqueçaba</Cidade>
+    <Cidade>Guaratuba</Cidade>
+    <Cidade>Honório Serpa</Cidade>
+    <Cidade>Ibaiti</Cidade>
+    <Cidade>Ibema</Cidade>
+    <Cidade>Ibiporã</Cidade>
+    <Cidade>Icaraíma</Cidade>
+    <Cidade>Iguaraçu</Cidade>
+    <Cidade>Iguatu</Cidade>
+    <Cidade>Imbaú</Cidade>
+    <Cidade>Imbituva</Cidade>
+    <Cidade>Inácio Martins</Cidade>
+    <Cidade>Inajá</Cidade>
+    <Cidade>Indianópolis</Cidade>
+    <Cidade>Ipiranga</Cidade>
+    <Cidade>Iporã</Cidade>
+    <Cidade>Iracema do Oeste</Cidade>
+    <Cidade>Irati</Cidade>
+    <Cidade>Iretama</Cidade>
+    <Cidade>Itaguajé</Cidade>
+    <Cidade>Itaipulândia</Cidade>
+    <Cidade>Itambaracá</Cidade>
+    <Cidade>Itambé</Cidade>
+    <Cidade>Itapejara d`Oeste</Cidade>
+    <Cidade>Itaperuçu</Cidade>
+    <Cidade>Itaúna do Sul</Cidade>
+    <Cidade>Ivaí</Cidade>
+    <Cidade>Ivaiporã</Cidade>
+    <Cidade>Ivaté</Cidade>
+    <Cidade>Ivatuba</Cidade>
+    <Cidade>Jaboti</Cidade>
+    <Cidade>Jacarezinho</Cidade>
+    <Cidade>Jaguapitã</Cidade>
+    <Cidade>Jaguariaíva</Cidade>
+    <Cidade>Jandaia do Sul</Cidade>
+    <Cidade>Janiópolis</Cidade>
+    <Cidade>Japira</Cidade>
+    <Cidade>Japurá</Cidade>
+    <Cidade>Jardim Alegre</Cidade>
+    <Cidade>Abreu e Lima</Cidade>
+    <Cidade>Afogados da Ingazeira</Cidade>
+    <Cidade>Afrânio</Cidade>
+    <Cidade>Agrestina</Cidade>
+    <Cidade>Água Preta</Cidade>
+    <Cidade>Águas Belas</Cidade>
+    <Cidade>Alagoinha</Cidade>
+    <Cidade>Aliança</Cidade>
+    <Cidade>Altinho</Cidade>
+    <Cidade>Amaraji</Cidade>
+    <Cidade>Angelim</Cidade>
+    <Cidade>Araçoiaba</Cidade>
+    <Cidade>Araripina</Cidade>
+    <Cidade>Arcoverde</Cidade>
+    <Cidade>Barra de Guabiraba</Cidade>
+    <Cidade>Barreiros</Cidade>
+    <Cidade>Belém de Maria</Cidade>
+    <Cidade>Belém de São Francisco</Cidade>
+    <Cidade>Belo Jardim</Cidade>
+    <Cidade>Betânia</Cidade>
+    <Cidade>Bezerros</Cidade>
+    <Cidade>Bodocó</Cidade>
+    <Cidade>Bom Conselho</Cidade>
+    <Cidade>Bom Jardim</Cidade>
+    <Cidade>Bonito</Cidade>
+    <Cidade>Brejão</Cidade>
+    <Cidade>Brejinho</Cidade>
+    <Cidade>Brejo da Madre de Deus</Cidade>
+    <Cidade>Buenos Aires</Cidade>
+    <Cidade>Buíque</Cidade>
+    <Cidade>Cabo de Santo Agostinho</Cidade>
+    <Cidade>Cabrobó</Cidade>
+    <Cidade>Cachoeirinha</Cidade>
+    <Cidade>Caetés</Cidade>
+    <Cidade>Calçado</Cidade>
+    <Cidade>Calumbi</Cidade>
+    <Cidade>Camaragibe</Cidade>
+    <Cidade>Camocim de São Félix</Cidade>
+    <Cidade>Camutanga</Cidade>
+    <Cidade>Canhotinho</Cidade>
+    <Cidade>Capoeiras</Cidade>
+    <Cidade>Carnaíba</Cidade>
+    <Cidade>Carnaubeira da Penha</Cidade>
+    <Cidade>Carpina</Cidade>
+    <Cidade>Caruaru</Cidade>
+    <Cidade>Casinhas</Cidade>
+    <Cidade>Catende</Cidade>
+    <Cidade>Cedro</Cidade>
+    <Cidade>Chã de Alegria</Cidade>
+    <Cidade>Chã Grande</Cidade>
+    <Cidade>Condado</Cidade>
+    <Cidade>Correntes</Cidade>
+    <Cidade>Cortês</Cidade>
+    <Cidade>Cumaru</Cidade>
+    <Cidade>Cupira</Cidade>
+    <Cidade>Custódia</Cidade>
+    <Cidade>Dormentes</Cidade>
+    <Cidade>Escada</Cidade>
+    <Cidade>Exu</Cidade>
+    <Cidade>Feira Nova</Cidade>
+    <Cidade>Fernando de Noronha</Cidade>
+    <Cidade>Ferreiros</Cidade>
+    <Cidade>Flores</Cidade>
+    <Cidade>Floresta</Cidade>
+    <Cidade>Frei Miguelinho</Cidade>
+    <Cidade>Gameleira</Cidade>
+    <Cidade>Garanhuns</Cidade>
+    <Cidade>Glória do Goitá</Cidade>
+    <Cidade>Goiana</Cidade>
+    <Cidade>Granito</Cidade>
+    <Cidade>Gravatá</Cidade>
+    <Cidade>Iati</Cidade>
+    <Cidade>Ibimirim</Cidade>
+    <Cidade>Ibirajuba</Cidade>
+    <Cidade>Igarassu</Cidade>
+    <Cidade>Iguaraci</Cidade>
+    <Cidade>Ilha de Itamaracá</Cidade>
+    <Cidade>Inajá</Cidade>
+    <Cidade>Ingazeira</Cidade>
+    <Cidade>Ipojuca</Cidade>
+    <Cidade>Ipubi</Cidade>
+    <Cidade>Itacuruba</Cidade>
+    <Cidade>Itaíba</Cidade>
+    <Cidade>Itambé</Cidade>
+    <Cidade>Itapetim</Cidade>
+    <Cidade>Itapissuma</Cidade>
+    <Cidade>Itaquitinga</Cidade>
+    <Cidade>Jaboatão dos Guararapes</Cidade>
+    <Cidade>Jaqueira</Cidade>
+    <Cidade>Jataúba</Cidade>
+    <Cidade>Jatobá</Cidade>
+    <Cidade>João Alfredo</Cidade>
+    <Cidade>Joaquim Nabuco</Cidade>
+    <Cidade>Jucati</Cidade>
+    <Cidade>Jupi</Cidade>
+    <Cidade>Jurema</Cidade>
+    <Cidade>Lagoa do Carro</Cidade>
+    <Cidade>Lagoa do Itaenga</Cidade>
+    <Cidade>Lagoa do Ouro</Cidade>
+    <Cidade>Lagoa dos Gatos</Cidade>
+    <Cidade>Lagoa Grande</Cidade>
+    <Cidade>Lajedo</Cidade>
+    <Cidade>Limoeiro</Cidade>
+    <Cidade>Macaparana</Cidade>
+    <Cidade>Machados</Cidade>
+    <Cidade>Manari</Cidade>
+    <Cidade>Maraial</Cidade>
+    <Cidade>Mirandiba</Cidade>
+    <Cidade>Moreilândia</Cidade>
+    <Cidade>Moreno</Cidade>
+    <Cidade>Nazaré da Mata</Cidade>
+    <Cidade>Olinda</Cidade>
+    <Cidade>Orobó</Cidade>
+    <Cidade>Orocó</Cidade>
+    <Cidade>Ouricuri</Cidade>
+    <Cidade>Palmares</Cidade>
+    <Cidade>Palmeirina</Cidade>
+    <Cidade>Panelas</Cidade>
+    <Cidade>Paranatama</Cidade>
+    <Cidade>Parnamirim</Cidade>
+    <Cidade>Passira</Cidade>
+    <Cidade>Paudalho</Cidade>
+    <Cidade>Paulista</Cidade>
+    <Cidade>Pedra</Cidade>
+    <Cidade>Pesqueira</Cidade>
+    <Cidade>Petrolândia</Cidade>
+    <Cidade>Petrolina</Cidade>
+    <Cidade>Poção</Cidade>
+    <Cidade>Pombos</Cidade>
+    <Cidade>Primavera</Cidade>
+    <Cidade>Quipapá</Cidade>
+    <Cidade>Quixaba</Cidade>
+    <Cidade>Recife</Cidade>
+    <Cidade>Riacho das Almas</Cidade>
+    <Cidade>Ribeirão</Cidade>
+    <Cidade>Rio Formoso</Cidade>
+    <Cidade>Sairé</Cidade>
+    <Cidade>Salgadinho</Cidade>
+    <Cidade>Salgueiro</Cidade>
+    <Cidade>Saloá</Cidade>
+    <Cidade>Sanharó</Cidade>
+    <Cidade>Santa Cruz</Cidade>
+    <Cidade>Santa Cruz da Baixa Verde</Cidade>
+    <Cidade>Santa Cruz do Capibaribe</Cidade>
+    <Cidade>Santa Filomena</Cidade>
+    <Cidade>Santa Maria da Boa Vista</Cidade>
+    <Cidade>Santa Maria do Cambucá</Cidade>
+    <Cidade>Santa Terezinha</Cidade>
+    <Cidade>São Benedito do Sul</Cidade>
+    <Cidade>São Bento do Una</Cidade>
+    <Cidade>São Caitano</Cidade>
+    <Cidade>São João</Cidade>
+    <Cidade>São Joaquim do Monte</Cidade>
+    <Cidade>São José da Coroa Grande</Cidade>
+    <Cidade>São José do Belmonte</Cidade>
+    <Cidade>São José do Egito</Cidade>
+    <Cidade>São Lourenço da Mata</Cidade>
+    <Cidade>São Vicente Ferrer</Cidade>
+    <Cidade>Serra Talhada</Cidade>
+    <Cidade>Serrita</Cidade>
+    <Cidade>Sertânia</Cidade>
+    <Cidade>Sirinhaém</Cidade>
+    <Cidade>Solidão</Cidade>
+    <Cidade>Surubim</Cidade>
+    <Cidade>Tabira</Cidade>
+    <Cidade>Tacaimbó</Cidade>
+    <Cidade>Tacaratu</Cidade>
+    <Cidade>Tamandaré</Cidade>
+    <Cidade>Taquaritinga do Norte</Cidade>
+    <Cidade>Terezinha</Cidade>
+    <Cidade>Terra Nova</Cidade>
+    <Cidade>Timbaúba</Cidade>
+    <Cidade>Toritama</Cidade>
+    <Cidade>Tracunhaém</Cidade>
+    <Cidade>Trindade</Cidade>
+    <Cidade>Triunfo</Cidade>
+    <Cidade>Tupanatinga</Cidade>
+    <Cidade>Tuparetama</Cidade>
+    <Cidade>Venturosa</Cidade>
+    <Cidade>Verdejante</Cidade>
+    <Cidade>Vertente do Lério</Cidade>
+    <Cidade>Vertentes</Cidade>
+    <Cidade>Vicência</Cidade>
+    <Cidade>Vitória de Santo Antão</Cidade>
+    <Cidade>Xexéu</Cidade>
+    <Cidade>Acauã</Cidade>
+    <Cidade>Agricolândia</Cidade>
+    <Cidade>Água Branca</Cidade>
+    <Cidade>Alagoinha do Piauí</Cidade>
+    <Cidade>Alegrete do Piauí</Cidade>
+    <Cidade>Alto Longá</Cidade>
+    <Cidade>Altos</Cidade>
+    <Cidade>Alvorada do Gurguéia</Cidade>
+    <Cidade>Amarante</Cidade>
+    <Cidade>Angical do Piauí</Cidade>
+    <Cidade>Anísio de Abreu</Cidade>
+    <Cidade>Antônio Almeida</Cidade>
+    <Cidade>Aroazes</Cidade>
+    <Cidade>Aroeiras do Itaim</Cidade>
+    <Cidade>Arraial</Cidade>
+    <Cidade>Assunção do Piauí</Cidade>
+    <Cidade>Avelino Lopes</Cidade>
+    <Cidade>Baixa Grande do Ribeiro</Cidade>
+    <Cidade>Barra d`Alcântara</Cidade>
+    <Cidade>Barras</Cidade>
+    <Cidade>Barreiras do Piauí</Cidade>
+    <Cidade>Barro Duro</Cidade>
+    <Cidade>Batalha</Cidade>
+    <Cidade>Bela Vista do Piauí</Cidade>
+    <Cidade>Belém do Piauí</Cidade>
+    <Cidade>Beneditinos</Cidade>
+    <Cidade>Bertolínia</Cidade>
+    <Cidade>Betânia do Piauí</Cidade>
+    <Cidade>Boa Hora</Cidade>
+    <Cidade>Bocaina</Cidade>
+    <Cidade>Bom Jesus</Cidade>
+    <Cidade>Bom Princípio do Piauí</Cidade>
+    <Cidade>Bonfim do Piauí</Cidade>
+    <Cidade>Boqueirão do Piauí</Cidade>
+    <Cidade>Brasileira</Cidade>
+    <Cidade>Brejo do Piauí</Cidade>
+    <Cidade>Buriti dos Lopes</Cidade>
+    <Cidade>Buriti dos Montes</Cidade>
+    <Cidade>Cabeceiras do Piauí</Cidade>
+    <Cidade>Cajazeiras do Piauí</Cidade>
+    <Cidade>Cajueiro da Praia</Cidade>
+    <Cidade>Caldeirão Grande do Piauí</Cidade>
+    <Cidade>Campinas do Piauí</Cidade>
+    <Cidade>Campo Alegre do Fidalgo</Cidade>
+    <Cidade>Campo Grande do Piauí</Cidade>
+    <Cidade>Campo Largo do Piauí</Cidade>
+    <Cidade>Campo Maior</Cidade>
+    <Cidade>Canavieira</Cidade>
+    <Cidade>Canto do Buriti</Cidade>
+    <Cidade>Capitão de Campos</Cidade>
+    <Cidade>Capitão Gervásio Oliveira</Cidade>
+    <Cidade>Caracol</Cidade>
+    <Cidade>Caraúbas do Piauí</Cidade>
+    <Cidade>Caridade do Piauí</Cidade>
+    <Cidade>Castelo do Piauí</Cidade>
+    <Cidade>Caxingó</Cidade>
+    <Cidade>Cocal</Cidade>
+    <Cidade>Cocal de Telha</Cidade>
+    <Cidade>Cocal dos Alves</Cidade>
+    <Cidade>Coivaras</Cidade>
+    <Cidade>Colônia do Gurguéia</Cidade>
+    <Cidade>Colônia do Piauí</Cidade>
+    <Cidade>Conceição do Canindé</Cidade>
+    <Cidade>Coronel José Dias</Cidade>
+    <Cidade>Corrente</Cidade>
+    <Cidade>Cristalândia do Piauí</Cidade>
+    <Cidade>Cristino Castro</Cidade>
+    <Cidade>Curimatá</Cidade>
+    <Cidade>Currais</Cidade>
+    <Cidade>Curral Novo do Piauí</Cidade>
+    <Cidade>Curralinhos</Cidade>
+    <Cidade>Demerval Lobão</Cidade>
+    <Cidade>Dirceu Arcoverde</Cidade>
+    <Cidade>Dom Expedito Lopes</Cidade>
+    <Cidade>Dom Inocêncio</Cidade>
+    <Cidade>Domingos Mourão</Cidade>
+    <Cidade>Elesbão Veloso</Cidade>
+    <Cidade>Eliseu Martins</Cidade>
+    <Cidade>Esperantina</Cidade>
+    <Cidade>Fartura do Piauí</Cidade>
+    <Cidade>Flores do Piauí</Cidade>
+    <Cidade>Floresta do Piauí</Cidade>
+    <Cidade>Floriano</Cidade>
+    <Cidade>Francinópolis</Cidade>
+    <Cidade>Francisco Ayres</Cidade>
+    <Cidade>Francisco Macedo</Cidade>
+    <Cidade>Francisco Santos</Cidade>
+    <Cidade>Fronteiras</Cidade>
+    <Cidade>Geminiano</Cidade>
+    <Cidade>Gilbués</Cidade>
+    <Cidade>Guadalupe</Cidade>
+    <Cidade>Guaribas</Cidade>
+    <Cidade>Hugo Napoleão</Cidade>
+    <Cidade>Ilha Grande</Cidade>
+    <Cidade>Inhuma</Cidade>
+    <Cidade>Ipiranga do Piauí</Cidade>
+    <Cidade>Isaías Coelho</Cidade>
+    <Cidade>Itainópolis</Cidade>
+    <Cidade>Itaueira</Cidade>
+    <Cidade>Jacobina do Piauí</Cidade>
+    <Cidade>Jaicós</Cidade>
+    <Cidade>Jardim do Mulato</Cidade>
+    <Cidade>Jatobá do Piauí</Cidade>
+    <Cidade>Jerumenha</Cidade>
+    <Cidade>João Costa</Cidade>
+    <Cidade>Joaquim Pires</Cidade>
+    <Cidade>Joca Marques</Cidade>
+    <Cidade>José de Freitas</Cidade>
+    <Cidade>Juazeiro do Piauí</Cidade>
+    <Cidade>Júlio Borges</Cidade>
+    <Cidade>Jurema</Cidade>
+    <Cidade>Lagoa Alegre</Cidade>
+    <Cidade>Lagoa de São Francisco</Cidade>
+    <Cidade>Lagoa do Barro do Piauí</Cidade>
+    <Cidade>Lagoa do Piauí</Cidade>
+    <Cidade>Lagoa do Sítio</Cidade>
+    <Cidade>Lagoinha do Piauí</Cidade>
+    <Cidade>Landri Sales</Cidade>
+    <Cidade>Luís Correia</Cidade>
+    <Cidade>Luzilândia</Cidade>
+    <Cidade>Madeiro</Cidade>
+    <Cidade>Manoel Emídio</Cidade>
+    <Cidade>Marcolândia</Cidade>
+    <Cidade>Marcos Parente</Cidade>
+    <Cidade>Massapê do Piauí</Cidade>
+    <Cidade>Matias Olímpio</Cidade>
+    <Cidade>Miguel Alves</Cidade>
+    <Cidade>Miguel Leão</Cidade>
+    <Cidade>Milton Brandão</Cidade>
+    <Cidade>Monsenhor Gil</Cidade>
+    <Cidade>Monsenhor Hipólito</Cidade>
+    <Cidade>Monte Alegre do Piauí</Cidade>
+    <Cidade>Morro Cabeça no Tempo</Cidade>
+    <Cidade>Morro do Chapéu do Piauí</Cidade>
+    <Cidade>Murici dos Portelas</Cidade>
+    <Cidade>Nazaré do Piauí</Cidade>
+    <Cidade>Nossa Senhora de Nazaré</Cidade>
+    <Cidade>Nossa Senhora dos Remédios</Cidade>
+    <Cidade>Nova Santa Rita</Cidade>
+    <Cidade>Novo Oriente do Piauí</Cidade>
+    <Cidade>Novo Santo Antônio</Cidade>
+    <Cidade>Oeiras</Cidade>
+    <Cidade>Olho d`Água do Piauí</Cidade>
+    <Cidade>Padre Marcos</Cidade>
+    <Cidade>Paes Landim</Cidade>
+    <Cidade>Pajeú do Piauí</Cidade>
+    <Cidade>Palmeira do Piauí</Cidade>
+    <Cidade>Palmeirais</Cidade>
+    <Cidade>Paquetá</Cidade>
+    <Cidade>Parnaguá</Cidade>
+    <Cidade>Parnaíba</Cidade>
+    <Cidade>Passagem Franca do Piauí</Cidade>
+    <Cidade>Patos do Piauí</Cidade>
+    <Cidade>Pau d`Arco do Piauí</Cidade>
+    <Cidade>Paulistana</Cidade>
+    <Cidade>Pavussu</Cidade>
+    <Cidade>Pedro II</Cidade>
+    <Cidade>Pedro Laurentino</Cidade>
+    <Cidade>Picos</Cidade>
+    <Cidade>Pimenteiras</Cidade>
+    <Cidade>Pio IX</Cidade>
+    <Cidade>Piracuruca</Cidade>
+    <Cidade>Piripiri</Cidade>
+    <Cidade>Porto</Cidade>
+    <Cidade>Porto Alegre do Piauí</Cidade>
+    <Cidade>Prata do Piauí</Cidade>
+    <Cidade>Queimada Nova</Cidade>
+    <Cidade>Redenção do Gurguéia</Cidade>
+    <Cidade>Regeneração</Cidade>
+    <Cidade>Riacho Frio</Cidade>
+    <Cidade>Ribeira do Piauí</Cidade>
+    <Cidade>Ribeiro Gonçalves</Cidade>
+    <Cidade>Rio Grande do Piauí</Cidade>
+    <Cidade>Santa Cruz do Piauí</Cidade>
+    <Cidade>Santa Cruz dos Milagres</Cidade>
+    <Cidade>Santa Filomena</Cidade>
+    <Cidade>Santa Luz</Cidade>
+    <Cidade>Santa Rosa do Piauí</Cidade>
+    <Cidade>Santana do Piauí</Cidade>
+    <Cidade>Santo Antônio de Lisboa</Cidade>
+    <Cidade>Santo Antônio dos Milagres</Cidade>
+    <Cidade>Santo Inácio do Piauí</Cidade>
+    <Cidade>São Braz do Piauí</Cidade>
+    <Cidade>São Félix do Piauí</Cidade>
+    <Cidade>São Francisco de Assis do Piauí</Cidade>
+    <Cidade>São Francisco do Piauí</Cidade>
+    <Cidade>São Gonçalo do Gurguéia</Cidade>
+    <Cidade>São Gonçalo do Piauí</Cidade>
+    <Cidade>São João da Canabrava</Cidade>
+    <Cidade>São João da Fronteira</Cidade>
+    <Cidade>São João da Serra</Cidade>
+    <Cidade>São João da Varjota</Cidade>
+    <Cidade>São João do Arraial</Cidade>
+    <Cidade>São João do Piauí</Cidade>
+    <Cidade>São José do Divino</Cidade>
+    <Cidade>São José do Peixe</Cidade>
+    <Cidade>São José do Piauí</Cidade>
+    <Cidade>São Julião</Cidade>
+    <Cidade>São Lourenço do Piauí</Cidade>
+    <Cidade>São Luis do Piauí</Cidade>
+    <Cidade>São Miguel da Baixa Grande</Cidade>
+    <Cidade>São Miguel do Fidalgo</Cidade>
+    <Cidade>São Miguel do Tapuio</Cidade>
+    <Cidade>São Pedro do Piauí</Cidade>
+    <Cidade>São Raimundo Nonato</Cidade>
+    <Cidade>Sebastião Barros</Cidade>
+    <Cidade>Sebastião Leal</Cidade>
+    <Cidade>Sigefredo Pacheco</Cidade>
+    <Cidade>Simões</Cidade>
+    <Cidade>Simplício Mendes</Cidade>
+    <Cidade>Socorro do Piauí</Cidade>
+    <Cidade>Sussuapara</Cidade>
+    <Cidade>Tamboril do Piauí</Cidade>
+    <Cidade>Tanque do Piauí</Cidade>
+    <Cidade>Teresina</Cidade>
+    <Cidade>União</Cidade>
+    <Cidade>Uruçuí</Cidade>
+    <Cidade>Valença do Piauí</Cidade>
+    <Cidade>Várzea Branca</Cidade>
+    <Cidade>Várzea Grande</Cidade>
+    <Cidade>Vera Mendes</Cidade>
+    <Cidade>Vila Nova do Piauí</Cidade>
+    <Cidade>Wall Ferraz</Cidade>
+    <Cidade>Angra dos Reis</Cidade>
+    <Cidade>Aperibé</Cidade>
+    <Cidade>Araruama</Cidade>
+    <Cidade>Areal</Cidade>
+    <Cidade>Armação dos Búzios</Cidade>
+    <Cidade>Arraial do Cabo</Cidade>
+    <Cidade>Barra do Piraí</Cidade>
+    <Cidade>Barra Mansa</Cidade>
+    <Cidade>Belford Roxo</Cidade>
+    <Cidade>Bom Jardim</Cidade>
+    <Cidade>Bom Jesus do Itabapoana</Cidade>
+    <Cidade>Cabo Frio</Cidade>
+    <Cidade>Cachoeiras de Macacu</Cidade>
+    <Cidade>Cambuci</Cidade>
+    <Cidade>Campos dos Goytacazes</Cidade>
+    <Cidade>Cantagalo</Cidade>
+    <Cidade>Carapebus</Cidade>
+    <Cidade>Cardoso Moreira</Cidade>
+    <Cidade>Carmo</Cidade>
+    <Cidade>Casimiro de Abreu</Cidade>
+    <Cidade>Comendador Levy Gasparian</Cidade>
+    <Cidade>Conceição de Macabu</Cidade>
+    <Cidade>Cordeiro</Cidade>
+    <Cidade>Duas Barras</Cidade>
+    <Cidade>Duque de Caxias</Cidade>
+    <Cidade>Engenheiro Paulo de Frontin</Cidade>
+    <Cidade>Guapimirim</Cidade>
+    <Cidade>Iguaba Grande</Cidade>
+    <Cidade>Itaboraí</Cidade>
+    <Cidade>Itaguaí</Cidade>
+    <Cidade>Italva</Cidade>
+    <Cidade>Itaocara</Cidade>
+    <Cidade>Itaperuna</Cidade>
+    <Cidade>Itatiaia</Cidade>
+    <Cidade>Japeri</Cidade>
+    <Cidade>Laje do Muriaé</Cidade>
+    <Cidade>Macaé</Cidade>
+    <Cidade>Macuco</Cidade>
+    <Cidade>Magé</Cidade>
+    <Cidade>Mangaratiba</Cidade>
+    <Cidade>Maricá</Cidade>
+    <Cidade>Mendes</Cidade>
+    <Cidade>Mesquita</Cidade>
+    <Cidade>Miguel Pereira</Cidade>
+    <Cidade>Miracema</Cidade>
+    <Cidade>Natividade</Cidade>
+    <Cidade>Nilópolis</Cidade>
+    <Cidade>Niterói</Cidade>
+    <Cidade>Nova Friburgo</Cidade>
+    <Cidade>Nova Iguaçu</Cidade>
+    <Cidade>Paracambi</Cidade>
+    <Cidade>Paraíba do Sul</Cidade>
+    <Cidade>Parati</Cidade>
+    <Cidade>Paty do Alferes</Cidade>
+    <Cidade>Petrópolis</Cidade>
+    <Cidade>Pinheiral</Cidade>
+    <Cidade>Piraí</Cidade>
+    <Cidade>Porciúncula</Cidade>
+    <Cidade>Porto Real</Cidade>
+    <Cidade>Quatis</Cidade>
+    <Cidade>Queimados</Cidade>
+    <Cidade>Quissamã</Cidade>
+    <Cidade>Resende</Cidade>
+    <Cidade>Rio Bonito</Cidade>
+    <Cidade>Rio Claro</Cidade>
+    <Cidade>Rio das Flores</Cidade>
+    <Cidade>Rio das Ostras</Cidade>
+    <Cidade>Rio de Janeiro</Cidade>
+    <Cidade>Santa Maria Madalena</Cidade>
+    <Cidade>Santo Antônio de Pádua</Cidade>
+    <Cidade>São Fidélis</Cidade>
+    <Cidade>São Francisco de Itabapoana</Cidade>
+    <Cidade>São Gonçalo</Cidade>
+    <Cidade>São João da Barra</Cidade>
+    <Cidade>São João de Meriti</Cidade>
+    <Cidade>São José de Ubá</Cidade>
+    <Cidade>São José do Vale do Rio Preto</Cidade>
+    <Cidade>São Pedro da Aldeia</Cidade>
+    <Cidade>São Sebastião do Alto</Cidade>
+    <Cidade>Sapucaia</Cidade>
+    <Cidade>Saquarema</Cidade>
+    <Cidade>Seropédica</Cidade>
+    <Cidade>Silva Jardim</Cidade>
+    <Cidade>Sumidouro</Cidade>
+    <Cidade>Tanguá</Cidade>
+    <Cidade>Teresópolis</Cidade>
+    <Cidade>Trajano de Morais</Cidade>
+    <Cidade>Três Rios</Cidade>
+    <Cidade>Valença</Cidade>
+    <Cidade>Varre-Sai</Cidade>
+    <Cidade>Vassouras</Cidade>
+    <Cidade>Volta Redonda</Cidade>
+    <Cidade>Acari</Cidade>
+    <Cidade>Açu</Cidade>
+    <Cidade>Afonso Bezerra</Cidade>
+    <Cidade>Água Nova</Cidade>
+    <Cidade>Alexandria</Cidade>
+    <Cidade>Almino Afonso</Cidade>
+    <Cidade>Alto do Rodrigues</Cidade>
+    <Cidade>Angicos</Cidade>
+    <Cidade>Antônio Martins</Cidade>
+    <Cidade>Apodi</Cidade>
+    <Cidade>Areia Branca</Cidade>
+    <Cidade>Arês</Cidade>
+    <Cidade>Augusto Severo</Cidade>
+    <Cidade>Baía Formosa</Cidade>
+    <Cidade>Baraúna</Cidade>
+    <Cidade>Barcelona</Cidade>
+    <Cidade>Bento Fernandes</Cidade>
+    <Cidade>Bodó</Cidade>
+    <Cidade>Bom Jesus</Cidade>
+    <Cidade>Brejinho</Cidade>
+    <Cidade>Caiçara do Norte</Cidade>
+    <Cidade>Caiçara do Rio do Vento</Cidade>
+    <Cidade>Caicó</Cidade>
+    <Cidade>Campo Redondo</Cidade>
+    <Cidade>Canguaretama</Cidade>
+    <Cidade>Caraúbas</Cidade>
+    <Cidade>Carnaúba dos Dantas</Cidade>
+    <Cidade>Carnaubais</Cidade>
+    <Cidade>Ceará-Mirim</Cidade>
+    <Cidade>Cerro Corá</Cidade>
+    <Cidade>Coronel Ezequiel</Cidade>
+    <Cidade>Coronel João Pessoa</Cidade>
+    <Cidade>Cruzeta</Cidade>
+    <Cidade>Currais Novos</Cidade>
+    <Cidade>Doutor Severiano</Cidade>
+    <Cidade>Encanto</Cidade>
+    <Cidade>Equador</Cidade>
+    <Cidade>Espírito Santo</Cidade>
+    <Cidade>Extremoz</Cidade>
+    <Cidade>Felipe Guerra</Cidade>
+    <Cidade>Fernando Pedroza</Cidade>
+    <Cidade>Florânia</Cidade>
+    <Cidade>Francisco Dantas</Cidade>
+    <Cidade>Frutuoso Gomes</Cidade>
+    <Cidade>Galinhos</Cidade>
+    <Cidade>Goianinha</Cidade>
+    <Cidade>Governador Dix-Sept Rosado</Cidade>
+    <Cidade>Grossos</Cidade>
+    <Cidade>Guamaré</Cidade>
+    <Cidade>Ielmo Marinho</Cidade>
+    <Cidade>Ipanguaçu</Cidade>
+    <Cidade>Ipueira</Cidade>
+    <Cidade>Itajá</Cidade>
+    <Cidade>Itaú</Cidade>
+    <Cidade>Jaçanã</Cidade>
+    <Cidade>Jandaíra</Cidade>
+    <Cidade>Janduís</Cidade>
+    <Cidade>Januário Cicco</Cidade>
+    <Cidade>Japi</Cidade>
+    <Cidade>Jardim de Angicos</Cidade>
+    <Cidade>Jardim de Piranhas</Cidade>
+    <Cidade>Jardim do Seridó</Cidade>
+    <Cidade>João Câmara</Cidade>
+    <Cidade>João Dias</Cidade>
+    <Cidade>José da Penha</Cidade>
+    <Cidade>Jucurutu</Cidade>
+    <Cidade>Jundiá</Cidade>
+    <Cidade>Lagoa d`Anta</Cidade>
+    <Cidade>Lagoa de Pedras</Cidade>
+    <Cidade>Lagoa de Velhos</Cidade>
+    <Cidade>Lagoa Nova</Cidade>
+    <Cidade>Lagoa Salgada</Cidade>
+    <Cidade>Lajes</Cidade>
+    <Cidade>Lajes Pintadas</Cidade>
+    <Cidade>Lucrécia</Cidade>
+    <Cidade>Luís Gomes</Cidade>
+    <Cidade>Macaíba</Cidade>
+    <Cidade>Macau</Cidade>
+    <Cidade>Major Sales</Cidade>
+    <Cidade>Marcelino Vieira</Cidade>
+    <Cidade>Martins</Cidade>
+    <Cidade>Maxaranguape</Cidade>
+    <Cidade>Messias Targino</Cidade>
+    <Cidade>Montanhas</Cidade>
+    <Cidade>Monte Alegre</Cidade>
+    <Cidade>Monte das Gameleiras</Cidade>
+    <Cidade>Mossoró</Cidade>
+    <Cidade>Natal</Cidade>
+    <Cidade>Nísia Floresta</Cidade>
+    <Cidade>Nova Cruz</Cidade>
+    <Cidade>Olho-d`Água do Borges</Cidade>
+    <Cidade>Ouro Branco</Cidade>
+    <Cidade>Paraná</Cidade>
+    <Cidade>Paraú</Cidade>
+    <Cidade>Parazinho</Cidade>
+    <Cidade>Parelhas</Cidade>
+    <Cidade>Parnamirim</Cidade>
+    <Cidade>Passa e Fica</Cidade>
+    <Cidade>Passagem</Cidade>
+    <Cidade>Patu</Cidade>
+    <Cidade>Pau dos Ferros</Cidade>
+    <Cidade>Pedra Grande</Cidade>
+    <Cidade>Pedra Preta</Cidade>
+    <Cidade>Pedro Avelino</Cidade>
+    <Cidade>Pedro Velho</Cidade>
+    <Cidade>Pendências</Cidade>
+    <Cidade>Pilões</Cidade>
+    <Cidade>Poço Branco</Cidade>
+    <Cidade>Portalegre</Cidade>
+    <Cidade>Porto do Mangue</Cidade>
+    <Cidade>Presidente Juscelino</Cidade>
+    <Cidade>Pureza</Cidade>
+    <Cidade>Rafael Fernandes</Cidade>
+    <Cidade>Rafael Godeiro</Cidade>
+    <Cidade>Riacho da Cruz</Cidade>
+    <Cidade>Riacho de Santana</Cidade>
+    <Cidade>Riachuelo</Cidade>
+    <Cidade>Rio do Fogo</Cidade>
+    <Cidade>Rodolfo Fernandes</Cidade>
+    <Cidade>Ruy Barbosa</Cidade>
+    <Cidade>Santa Cruz</Cidade>
+    <Cidade>Santa Maria</Cidade>
+    <Cidade>Santana do Matos</Cidade>
+    <Cidade>Santana do Seridó</Cidade>
+    <Cidade>Santo Antônio</Cidade>
+    <Cidade>São Bento do Norte</Cidade>
+    <Cidade>São Bento do Trairí</Cidade>
+    <Cidade>São Fernando</Cidade>
+    <Cidade>São Francisco do Oeste</Cidade>
+    <Cidade>São Gonçalo do Amarante</Cidade>
+    <Cidade>São João do Sabugi</Cidade>
+    <Cidade>São José de Mipibu</Cidade>
+    <Cidade>São José do Campestre</Cidade>
+    <Cidade>São José do Seridó</Cidade>
+    <Cidade>São Miguel</Cidade>
+    <Cidade>São Miguel do Gostoso</Cidade>
+    <Cidade>São Paulo do Potengi</Cidade>
+    <Cidade>São Pedro</Cidade>
+    <Cidade>São Rafael</Cidade>
+    <Cidade>São Tomé</Cidade>
+    <Cidade>São Vicente</Cidade>
+    <Cidade>Senador Elói de Souza</Cidade>
+    <Cidade>Senador Georgino Avelino</Cidade>
+    <Cidade>Serra de São Bento</Cidade>
+    <Cidade>Serra do Mel</Cidade>
+    <Cidade>Serra Negra do Norte</Cidade>
+    <Cidade>Serrinha</Cidade>
+    <Cidade>Serrinha dos Pintos</Cidade>
+    <Cidade>Severiano Melo</Cidade>
+    <Cidade>Sítio Novo</Cidade>
+    <Cidade>Taboleiro Grande</Cidade>
+    <Cidade>Taipu</Cidade>
+    <Cidade>Tangará</Cidade>
+    <Cidade>Tenente Ananias</Cidade>
+    <Cidade>Tenente Laurentino Cruz</Cidade>
+    <Cidade>Tibau</Cidade>
+    <Cidade>Tibau do Sul</Cidade>
+    <Cidade>Timbaúba dos Batistas</Cidade>
+    <Cidade>Touros</Cidade>
+    <Cidade>Triunfo Potiguar</Cidade>
+    <Cidade>Umarizal</Cidade>
+    <Cidade>Upanema</Cidade>
+    <Cidade>Várzea</Cidade>
+    <Cidade>Venha-Ver</Cidade>
+    <Cidade>Vera Cruz</Cidade>
+    <Cidade>Viçosa</Cidade>
+    <Cidade>Vila Flor</Cidade>
+    <Cidade>Aceguá</Cidade>
+    <Cidade>Água Santa</Cidade>
+    <Cidade>Agudo</Cidade>
+    <Cidade>Ajuricaba</Cidade>
+    <Cidade>Alecrim</Cidade>
+    <Cidade>Alegrete</Cidade>
+    <Cidade>Alegria</Cidade>
+    <Cidade>Almirante Tamandaré do Sul</Cidade>
+    <Cidade>Alpestre</Cidade>
+    <Cidade>Alto Alegre</Cidade>
+    <Cidade>Alto Feliz</Cidade>
+    <Cidade>Alvorada</Cidade>
+    <Cidade>Amaral Ferrador</Cidade>
+    <Cidade>Ametista do Sul</Cidade>
+    <Cidade>André da Rocha</Cidade>
+    <Cidade>Anta Gorda</Cidade>
+    <Cidade>Antônio Prado</Cidade>
+    <Cidade>Arambaré</Cidade>
+    <Cidade>Araricá</Cidade>
+    <Cidade>Aratiba</Cidade>
+    <Cidade>Arroio do Meio</Cidade>
+    <Cidade>Arroio do Padre</Cidade>
+    <Cidade>Arroio do Sal</Cidade>
+    <Cidade>Arroio do Tigre</Cidade>
+    <Cidade>Arroio dos Ratos</Cidade>
+    <Cidade>Arroio Grande</Cidade>
+    <Cidade>Arvorezinha</Cidade>
+    <Cidade>Augusto Pestana</Cidade>
+    <Cidade>Áurea</Cidade>
+    <Cidade>Bagé</Cidade>
+    <Cidade>Balneário Pinhal</Cidade>
+    <Cidade>Barão</Cidade>
+    <Cidade>Barão de Cotegipe</Cidade>
+    <Cidade>Barão do Triunfo</Cidade>
+    <Cidade>Barra do Guarita</Cidade>
+    <Cidade>Barra do Quaraí</Cidade>
+    <Cidade>Barra do Ribeiro</Cidade>
+    <Cidade>Barra do Rio Azul</Cidade>
+    <Cidade>Barra Funda</Cidade>
+    <Cidade>Barracão</Cidade>
+    <Cidade>Barros Cassal</Cidade>
+    <Cidade>Benjamin Constant do Sul</Cidade>
+    <Cidade>Bento Gonçalves</Cidade>
+    <Cidade>Boa Vista das Missões</Cidade>
+    <Cidade>Boa Vista do Buricá</Cidade>
+    <Cidade>Boa Vista do Cadeado</Cidade>
+    <Cidade>Boa Vista do Incra</Cidade>
+    <Cidade>Boa Vista do Sul</Cidade>
+    <Cidade>Bom Jesus</Cidade>
+    <Cidade>Bom Princípio</Cidade>
+    <Cidade>Bom Progresso</Cidade>
+    <Cidade>Bom Retiro do Sul</Cidade>
+    <Cidade>Boqueirão do Leão</Cidade>
+    <Cidade>Bossoroca</Cidade>
+    <Cidade>Bozano</Cidade>
+    <Cidade>Braga</Cidade>
+    <Cidade>Brochier</Cidade>
+    <Cidade>Butiá</Cidade>
+    <Cidade>Caçapava do Sul</Cidade>
+    <Cidade>Cacequi</Cidade>
+    <Cidade>Cachoeira do Sul</Cidade>
+    <Cidade>Cachoeirinha</Cidade>
+    <Cidade>Cacique Doble</Cidade>
+    <Cidade>Caibaté</Cidade>
+    <Cidade>Caiçara</Cidade>
+    <Cidade>Camaquã</Cidade>
+    <Cidade>Camargo</Cidade>
+    <Cidade>Cambará do Sul</Cidade>
+    <Cidade>Campestre da Serra</Cidade>
+    <Cidade>Campina das Missões</Cidade>
+    <Cidade>Campinas do Sul</Cidade>
+    <Cidade>Campo Bom</Cidade>
+    <Cidade>Campo Novo</Cidade>
+    <Cidade>Campos Borges</Cidade>
+    <Cidade>Candelária</Cidade>
+    <Cidade>Cândido Godói</Cidade>
+    <Cidade>Candiota</Cidade>
+    <Cidade>Canela</Cidade>
+    <Cidade>Canguçu</Cidade>
+    <Cidade>Canoas</Cidade>
+    <Cidade>Canudos do Vale</Cidade>
+    <Cidade>Capão Bonito do Sul</Cidade>
+    <Cidade>Capão da Canoa</Cidade>
+    <Cidade>Capão do Cipó</Cidade>
+    <Cidade>Capão do Leão</Cidade>
+    <Cidade>Capela de Santana</Cidade>
+    <Cidade>Capitão</Cidade>
+    <Cidade>Capivari do Sul</Cidade>
+    <Cidade>Caraá</Cidade>
+    <Cidade>Carazinho</Cidade>
+    <Cidade>Carlos Barbosa</Cidade>
+    <Cidade>Carlos Gomes</Cidade>
+    <Cidade>Casca</Cidade>
+    <Cidade>Caseiros</Cidade>
+    <Cidade>Catuípe</Cidade>
+    <Cidade>Caxias do Sul</Cidade>
+    <Cidade>Centenário</Cidade>
+    <Cidade>Cerrito</Cidade>
+    <Cidade>Cerro Branco</Cidade>
+    <Cidade>Cerro Grande</Cidade>
+    <Cidade>Cerro Grande do Sul</Cidade>
+    <Cidade>Cerro Largo</Cidade>
+    <Cidade>Chapada</Cidade>
+    <Cidade>Charqueadas</Cidade>
+    <Cidade>Charrua</Cidade>
+    <Cidade>Chiapeta</Cidade>
+    <Cidade>Chuí</Cidade>
+    <Cidade>Chuvisca</Cidade>
+    <Cidade>Cidreira</Cidade>
+    <Cidade>Ciríaco</Cidade>
+    <Cidade>Colinas</Cidade>
+    <Cidade>Colorado</Cidade>
+    <Cidade>Condor</Cidade>
+    <Cidade>Constantina</Cidade>
+    <Cidade>Coqueiro Baixo</Cidade>
+    <Cidade>Coqueiros do Sul</Cidade>
+    <Cidade>Coronel Barros</Cidade>
+    <Cidade>Coronel Bicaco</Cidade>
+    <Cidade>Coronel Pilar</Cidade>
+    <Cidade>Cotiporã</Cidade>
+    <Cidade>Coxilha</Cidade>
+    <Cidade>Crissiumal</Cidade>
+    <Cidade>Cristal</Cidade>
+    <Cidade>Cristal do Sul</Cidade>
+    <Cidade>Cruz Alta</Cidade>
+    <Cidade>Cruzaltense</Cidade>
+    <Cidade>Cruzeiro do Sul</Cidade>
+    <Cidade>David Canabarro</Cidade>
+    <Cidade>Derrubadas</Cidade>
+    <Cidade>Dezesseis de Novembro</Cidade>
+    <Cidade>Dilermando de Aguiar</Cidade>
+    <Cidade>Dois Irmãos</Cidade>
+    <Cidade>Dois Irmãos das Missões</Cidade>
+    <Cidade>Dois Lajeados</Cidade>
+    <Cidade>Dom Feliciano</Cidade>
+    <Cidade>Dom Pedrito</Cidade>
+    <Cidade>Dom Pedro de Alcântara</Cidade>
+    <Cidade>Dona Francisca</Cidade>
+    <Cidade>Doutor Maurício Cardoso</Cidade>
+    <Cidade>Doutor Ricardo</Cidade>
+    <Cidade>Eldorado do Sul</Cidade>
+    <Cidade>Encantado</Cidade>
+    <Cidade>Encruzilhada do Sul</Cidade>
+    <Cidade>Engenho Velho</Cidade>
+    <Cidade>Entre Rios do Sul</Cidade>
+    <Cidade>Entre-Ijuís</Cidade>
+    <Cidade>Erebango</Cidade>
+    <Cidade>Erechim</Cidade>
+    <Cidade>Ernestina</Cidade>
+    <Cidade>Erval Grande</Cidade>
+    <Cidade>Erval Seco</Cidade>
+    <Cidade>Esmeralda</Cidade>
+    <Cidade>Esperança do Sul</Cidade>
+    <Cidade>Espumoso</Cidade>
+    <Cidade>Estação</Cidade>
+    <Cidade>Estância Velha</Cidade>
+    <Cidade>Esteio</Cidade>
+    <Cidade>Estrela</Cidade>
+    <Cidade>Estrela Velha</Cidade>
+    <Cidade>Eugênio de Castro</Cidade>
+    <Cidade>Fagundes Varela</Cidade>
+    <Cidade>Farroupilha</Cidade>
+    <Cidade>Faxinal do Soturno</Cidade>
+    <Cidade>Faxinalzinho</Cidade>
+    <Cidade>Fazenda Vilanova</Cidade>
+    <Cidade>Feliz</Cidade>
+    <Cidade>Flores da Cunha</Cidade>
+    <Cidade>Floriano Peixoto</Cidade>
+    <Cidade>Fontoura Xavier</Cidade>
+    <Cidade>Formigueiro</Cidade>
+    <Cidade>Forquetinha</Cidade>
+    <Cidade>Fortaleza dos Valos</Cidade>
+    <Cidade>Frederico Westphalen</Cidade>
+    <Cidade>Garibaldi</Cidade>
+    <Cidade>Garruchos</Cidade>
+    <Cidade>Gaurama</Cidade>
+    <Cidade>General Câmara</Cidade>
+    <Cidade>Gentil</Cidade>
+    <Cidade>Getúlio Vargas</Cidade>
+    <Cidade>Giruá</Cidade>
+    <Cidade>Glorinha</Cidade>
+    <Cidade>Gramado</Cidade>
+    <Cidade>Gramado dos Loureiros</Cidade>
+    <Cidade>Gramado Xavier</Cidade>
+    <Cidade>Gravataí</Cidade>
+    <Cidade>Guabiju</Cidade>
+    <Cidade>Guaíba</Cidade>
+    <Cidade>Guaporé</Cidade>
+    <Cidade>Guarani das Missões</Cidade>
+    <Cidade>Harmonia</Cidade>
+    <Cidade>Herval</Cidade>
+    <Cidade>Herveiras</Cidade>
+    <Cidade>Horizontina</Cidade>
+    <Cidade>Hulha Negra</Cidade>
+    <Cidade>Humaitá</Cidade>
+    <Cidade>Ibarama</Cidade>
+    <Cidade>Ibiaçá</Cidade>
+    <Cidade>Ibiraiaras</Cidade>
+    <Cidade>Ibirapuitã</Cidade>
+    <Cidade>Ibirubá</Cidade>
+    <Cidade>Igrejinha</Cidade>
+    <Cidade>Ijuí</Cidade>
+    <Cidade>Ilópolis</Cidade>
+    <Cidade>Imbé</Cidade>
+    <Cidade>Imigrante</Cidade>
+    <Cidade>Independência</Cidade>
+    <Cidade>Inhacorá</Cidade>
+    <Cidade>Ipê</Cidade>
+    <Cidade>Ipiranga do Sul</Cidade>
+    <Cidade>Iraí</Cidade>
+    <Cidade>Itaara</Cidade>
+    <Cidade>Itacurubi</Cidade>
+    <Cidade>Itapuca</Cidade>
+    <Cidade>Itaqui</Cidade>
+    <Cidade>Itati</Cidade>
+    <Cidade>Itatiba do Sul</Cidade>
+    <Cidade>Ivorá</Cidade>
+    <Cidade>Ivoti</Cidade>
+    <Cidade>Jaboticaba</Cidade>
+    <Cidade>Jacuizinho</Cidade>
+    <Cidade>Jacutinga</Cidade>
+    <Cidade>Jaguarão</Cidade>
+    <Cidade>Jaguari</Cidade>
+    <Cidade>Jaquirana</Cidade>
+    <Cidade>Jari</Cidade>
+    <Cidade>Jóia</Cidade>
+    <Cidade>Júlio de Castilhos</Cidade>
+    <Cidade>Lagoa Bonita do Sul</Cidade>
+    <Cidade>Lagoa dos Três Cantos</Cidade>
+    <Cidade>Lagoa Vermelha</Cidade>
+    <Cidade>Lagoão</Cidade>
+    <Cidade>Lajeado</Cidade>
+    <Cidade>Lajeado do Bugre</Cidade>
+    <Cidade>Lavras do Sul</Cidade>
+    <Cidade>Liberato Salzano</Cidade>
+    <Cidade>Lindolfo Collor</Cidade>
+    <Cidade>Linha Nova</Cidade>
+    <Cidade>Maçambara</Cidade>
+    <Cidade>Machadinho</Cidade>
+    <Cidade>Mampituba</Cidade>
+    <Cidade>Manoel Viana</Cidade>
+    <Cidade>Maquiné</Cidade>
+    <Cidade>Maratá</Cidade>
+    <Cidade>Marau</Cidade>
+    <Cidade>Marcelino Ramos</Cidade>
+    <Cidade>Mariana Pimentel</Cidade>
+    <Cidade>Mariano Moro</Cidade>
+    <Cidade>Marques de Souza</Cidade>
+    <Cidade>Mata</Cidade>
+    <Cidade>Mato Castelhano</Cidade>
+    <Cidade>Mato Leitão</Cidade>
+    <Cidade>Mato Queimado</Cidade>
+    <Cidade>Maximiliano de Almeida</Cidade>
+    <Cidade>Minas do Leão</Cidade>
+    <Cidade>Miraguaí</Cidade>
+    <Cidade>Montauri</Cidade>
+    <Cidade>Monte Alegre dos Campos</Cidade>
+    <Cidade>Monte Belo do Sul</Cidade>
+    <Cidade>Montenegro</Cidade>
+    <Cidade>Mormaço</Cidade>
+    <Cidade>Morrinhos do Sul</Cidade>
+    <Cidade>Morro Redondo</Cidade>
+    <Cidade>Morro Reuter</Cidade>
+    <Cidade>Mostardas</Cidade>
+    <Cidade>Muçum</Cidade>
+    <Cidade>Muitos Capões</Cidade>
+    <Cidade>Muliterno</Cidade>
+    <Cidade>Não-Me-Toque</Cidade>
+    <Cidade>Nicolau Vergueiro</Cidade>
+    <Cidade>Nonoai</Cidade>
+    <Cidade>Nova Alvorada</Cidade>
+    <Cidade>Nova Araçá</Cidade>
+    <Cidade>Nova Bassano</Cidade>
+    <Cidade>Nova Boa Vista</Cidade>
+    <Cidade>Nova Bréscia</Cidade>
+    <Cidade>Nova Candelária</Cidade>
+    <Cidade>Nova Esperança do Sul</Cidade>
+    <Cidade>Nova Hartz</Cidade>
+    <Cidade>Nova Pádua</Cidade>
+    <Cidade>Nova Palma</Cidade>
+    <Cidade>Nova Petrópolis</Cidade>
+    <Cidade>Nova Prata</Cidade>
+    <Cidade>Nova Ramada</Cidade>
+    <Cidade>Nova Roma do Sul</Cidade>
+    <Cidade>Nova Santa Rita</Cidade>
+    <Cidade>Novo Barreiro</Cidade>
+    <Cidade>Novo Cabrais</Cidade>
+    <Cidade>Novo Hamburgo</Cidade>
+    <Cidade>Novo Machado</Cidade>
+    <Cidade>Novo Tiradentes</Cidade>
+    <Cidade>Novo Xingu</Cidade>
+    <Cidade>Osório</Cidade>
+    <Cidade>Paim Filho</Cidade>
+    <Cidade>Palmares do Sul</Cidade>
+    <Cidade>Palmeira das Missões</Cidade>
+    <Cidade>Palmitinho</Cidade>
+    <Cidade>Panambi</Cidade>
+    <Cidade>Pantano Grande</Cidade>
+    <Cidade>Paraí</Cidade>
+    <Cidade>Paraíso do Sul</Cidade>
+    <Cidade>Pareci Novo</Cidade>
+    <Cidade>Parobé</Cidade>
+    <Cidade>Passa Sete</Cidade>
+    <Cidade>Passo do Sobrado</Cidade>
+    <Cidade>Passo Fundo</Cidade>
+    <Cidade>Paulo Bento</Cidade>
+    <Cidade>Paverama</Cidade>
+    <Cidade>Pedras Altas</Cidade>
+    <Cidade>Pedro Osório</Cidade>
+    <Cidade>Pejuçara</Cidade>
+    <Cidade>Pelotas</Cidade>
+    <Cidade>Picada Café</Cidade>
+    <Cidade>Pinhal</Cidade>
+    <Cidade>Pinhal da Serra</Cidade>
+    <Cidade>Pinhal Grande</Cidade>
+    <Cidade>Pinheirinho do Vale</Cidade>
+    <Cidade>Pinheiro Machado</Cidade>
+    <Cidade>Pirapó</Cidade>
+    <Cidade>Piratini</Cidade>
+    <Cidade>Planalto</Cidade>
+    <Cidade>Poço das Antas</Cidade>
+    <Cidade>Pontão</Cidade>
+    <Cidade>Ponte Preta</Cidade>
+    <Cidade>Portão</Cidade>
+    <Cidade>Porto Alegre</Cidade>
+    <Cidade>Porto Lucena</Cidade>
+    <Cidade>Porto Mauá</Cidade>
+    <Cidade>Porto Vera Cruz</Cidade>
+    <Cidade>Porto Xavier</Cidade>
+    <Cidade>Pouso Novo</Cidade>
+    <Cidade>Presidente Lucena</Cidade>
+    <Cidade>Progresso</Cidade>
+    <Cidade>Protásio Alves</Cidade>
+    <Cidade>Putinga</Cidade>
+    <Cidade>Quaraí</Cidade>
+    <Cidade>Quatro Irmãos</Cidade>
+    <Cidade>Quevedos</Cidade>
+    <Cidade>Quinze de Novembro</Cidade>
+    <Cidade>Redentora</Cidade>
+    <Cidade>Relvado</Cidade>
+    <Cidade>Restinga Seca</Cidade>
+    <Cidade>Rio dos Índios</Cidade>
+    <Cidade>Rio Grande</Cidade>
+    <Cidade>Rio Pardo</Cidade>
+    <Cidade>Riozinho</Cidade>
+    <Cidade>Roca Sales</Cidade>
+    <Cidade>Rodeio Bonito</Cidade>
+    <Cidade>Rolador</Cidade>
+    <Cidade>Rolante</Cidade>
+    <Cidade>Ronda Alta</Cidade>
+    <Cidade>Rondinha</Cidade>
+    <Cidade>Roque Gonzales</Cidade>
+    <Cidade>Rosário do Sul</Cidade>
+    <Cidade>Sagrada Família</Cidade>
+    <Cidade>Saldanha Marinho</Cidade>
+    <Cidade>Salto do Jacuí</Cidade>
+    <Cidade>Salvador das Missões</Cidade>
+    <Cidade>Salvador do Sul</Cidade>
+    <Cidade>Sananduva</Cidade>
+    <Cidade>Santa Bárbara do Sul</Cidade>
+    <Cidade>Santa Cecília do Sul</Cidade>
+    <Cidade>Santa Clara do Sul</Cidade>
+    <Cidade>Santa Cruz do Sul</Cidade>
+    <Cidade>Santa Margarida do Sul</Cidade>
+    <Cidade>Santa Maria</Cidade>
+    <Cidade>Santa Maria do Herval</Cidade>
+    <Cidade>Santa Rosa</Cidade>
+    <Cidade>Santa Tereza</Cidade>
+    <Cidade>Santa Vitória do Palmar</Cidade>
+    <Cidade>Santana da Boa Vista</Cidade>
+    <Cidade>Santana do Livramento</Cidade>
+    <Cidade>Santiago</Cidade>
+    <Cidade>Santo Ângelo</Cidade>
+    <Cidade>Santo Antônio da Patrulha</Cidade>
+    <Cidade>Santo Antônio das Missões</Cidade>
+    <Cidade>Santo Antônio do Palma</Cidade>
+    <Cidade>Santo Antônio do Planalto</Cidade>
+    <Cidade>Santo Augusto</Cidade>
+    <Cidade>Santo Cristo</Cidade>
+    <Cidade>Santo Expedito do Sul</Cidade>
+    <Cidade>São Borja</Cidade>
+    <Cidade>São Domingos do Sul</Cidade>
+    <Cidade>São Francisco de Assis</Cidade>
+    <Cidade>São Francisco de Paula</Cidade>
+    <Cidade>São Gabriel</Cidade>
+    <Cidade>São Jerônimo</Cidade>
+    <Cidade>São João da Urtiga</Cidade>
+    <Cidade>São João do Polêsine</Cidade>
+    <Cidade>São Jorge</Cidade>
+    <Cidade>São José das Missões</Cidade>
+    <Cidade>São José do Herval</Cidade>
+    <Cidade>São José do Hortêncio</Cidade>
+    <Cidade>São José do Inhacorá</Cidade>
+    <Cidade>São José do Norte</Cidade>
+    <Cidade>São José do Ouro</Cidade>
+    <Cidade>São José do Sul</Cidade>
+    <Cidade>São José dos Ausentes</Cidade>
+    <Cidade>São Leopoldo</Cidade>
+    <Cidade>São Lourenço do Sul</Cidade>
+    <Cidade>São Luiz Gonzaga</Cidade>
+    <Cidade>São Marcos</Cidade>
+    <Cidade>São Martinho</Cidade>
+    <Cidade>São Martinho da Serra</Cidade>
+    <Cidade>São Miguel das Missões</Cidade>
+    <Cidade>São Nicolau</Cidade>
+    <Cidade>São Paulo das Missões</Cidade>
+    <Cidade>São Pedro da Serra</Cidade>
+    <Cidade>São Pedro das Missões</Cidade>
+    <Cidade>São Pedro do Butiá</Cidade>
+    <Cidade>São Pedro do Sul</Cidade>
+    <Cidade>São Sebastião do Caí</Cidade>
+    <Cidade>São Sepé</Cidade>
+    <Cidade>São Valentim</Cidade>
+    <Cidade>São Valentim do Sul</Cidade>
+    <Cidade>São Valério do Sul</Cidade>
+    <Cidade>São Vendelino</Cidade>
+    <Cidade>São Vicente do Sul</Cidade>
+    <Cidade>Sapiranga</Cidade>
+    <Cidade>Sapucaia do Sul</Cidade>
+    <Cidade>Sarandi</Cidade>
+    <Cidade>Seberi</Cidade>
+    <Cidade>Sede Nova</Cidade>
+    <Cidade>Segredo</Cidade>
+    <Cidade>Selbach</Cidade>
+    <Cidade>Senador Salgado Filho</Cidade>
+    <Cidade>Sentinela do Sul</Cidade>
+    <Cidade>Serafina Corrêa</Cidade>
+    <Cidade>Sério</Cidade>
+    <Cidade>Sertão</Cidade>
+    <Cidade>Sertão Santana</Cidade>
+    <Cidade>Sete de Setembro</Cidade>
+    <Cidade>Severiano de Almeida</Cidade>
+    <Cidade>Silveira Martins</Cidade>
+    <Cidade>Sinimbu</Cidade>
+    <Cidade>Sobradinho</Cidade>
+    <Cidade>Soledade</Cidade>
+    <Cidade>Tabaí</Cidade>
+    <Cidade>Tapejara</Cidade>
+    <Cidade>Tapera</Cidade>
+    <Cidade>Tapes</Cidade>
+    <Cidade>Taquara</Cidade>
+    <Cidade>Taquari</Cidade>
+    <Cidade>Taquaruçu do Sul</Cidade>
+    <Cidade>Tavares</Cidade>
+    <Cidade>Tenente Portela</Cidade>
+    <Cidade>Terra de Areia</Cidade>
+    <Cidade>Teutônia</Cidade>
+    <Cidade>Tio Hugo</Cidade>
+    <Cidade>Tiradentes do Sul</Cidade>
+    <Cidade>Toropi</Cidade>
+    <Cidade>Torres</Cidade>
+    <Cidade>Tramandaí</Cidade>
+    <Cidade>Travesseiro</Cidade>
+    <Cidade>Três Arroios</Cidade>
+    <Cidade>Três Cachoeiras</Cidade>
+    <Cidade>Três Coroas</Cidade>
+    <Cidade>Três de Maio</Cidade>
+    <Cidade>Três Forquilhas</Cidade>
+    <Cidade>Três Palmeiras</Cidade>
+    <Cidade>Três Passos</Cidade>
+    <Cidade>Trindade do Sul</Cidade>
+    <Cidade>Triunfo</Cidade>
+    <Cidade>Tucunduva</Cidade>
+    <Cidade>Tunas</Cidade>
+    <Cidade>Tupanci do Sul</Cidade>
+    <Cidade>Tupanciretã</Cidade>
+    <Cidade>Tupandi</Cidade>
+    <Cidade>Tuparendi</Cidade>
+    <Cidade>Turuçu</Cidade>
+    <Cidade>Ubiretama</Cidade>
+    <Cidade>União da Serra</Cidade>
+    <Cidade>Unistalda</Cidade>
+    <Cidade>Uruguaiana</Cidade>
+    <Cidade>Vacaria</Cidade>
+    <Cidade>Vale do Sol</Cidade>
+    <Cidade>Vale Real</Cidade>
+    <Cidade>Vale Verde</Cidade>
+    <Cidade>Vanini</Cidade>
+    <Cidade>Venâncio Aires</Cidade>
+    <Cidade>Vera Cruz</Cidade>
+    <Cidade>Veranópolis</Cidade>
+    <Cidade>Vespasiano Correa</Cidade>
+    <Cidade>Viadutos</Cidade>
+    <Cidade>Viamão</Cidade>
+    <Cidade>Vicente Dutra</Cidade>
+    <Cidade>Victor Graeff</Cidade>
+    <Cidade>Vila Flores</Cidade>
+    <Cidade>Vila Lângaro</Cidade>
+    <Cidade>Vila Maria</Cidade>
+    <Cidade>Vila Nova do Sul</Cidade>
+    <Cidade>Vista Alegre</Cidade>
+    <Cidade>Vista Alegre do Prata</Cidade>
+    <Cidade>Vista Gaúcha</Cidade>
+    <Cidade>Vitória das Missões</Cidade>
+    <Cidade>Westfália</Cidade>
+    <Cidade>Xangri-lá</Cidade>
+    <Cidade>Alta Floresta d`Oeste</Cidade>
+    <Cidade>Alto Alegre dos Parecis</Cidade>
+    <Cidade>Alto Paraíso</Cidade>
+    <Cidade>Alvorada d`Oeste</Cidade>
+    <Cidade>Ariquemes</Cidade>
+    <Cidade>Buritis</Cidade>
+    <Cidade>Cabixi</Cidade>
+    <Cidade>Cacaulândia</Cidade>
+    <Cidade>Cacoal</Cidade>
+    <Cidade>Campo Novo de Rondônia</Cidade>
+    <Cidade>Candeias do Jamari</Cidade>
+    <Cidade>Castanheiras</Cidade>
+    <Cidade>Cerejeiras</Cidade>
+    <Cidade>Chupinguaia</Cidade>
+    <Cidade>Colorado do Oeste</Cidade>
+    <Cidade>Corumbiara</Cidade>
+    <Cidade>Costa Marques</Cidade>
+    <Cidade>Cujubim</Cidade>
+    <Cidade>Espigão d`Oeste</Cidade>
+    <Cidade>Governador Jorge Teixeira</Cidade>
+    <Cidade>Guajará-Mirim</Cidade>
+    <Cidade>Itapuã do Oeste</Cidade>
+    <Cidade>Jaru</Cidade>
+    <Cidade>Ji-Paraná</Cidade>
+    <Cidade>Machadinho d`Oeste</Cidade>
+    <Cidade>Ministro Andreazza</Cidade>
+    <Cidade>Mirante da Serra</Cidade>
+    <Cidade>Monte Negro</Cidade>
+    <Cidade>Nova Brasilândia d`Oeste</Cidade>
+    <Cidade>Nova Mamoré</Cidade>
+    <Cidade>Nova União</Cidade>
+    <Cidade>Novo Horizonte do Oeste</Cidade>
+    <Cidade>Ouro Preto do Oeste</Cidade>
+    <Cidade>Parecis</Cidade>
+    <Cidade>Pimenta Bueno</Cidade>
+    <Cidade>Pimenteiras do Oeste</Cidade>
+    <Cidade>Porto Velho</Cidade>
+    <Cidade>Presidente Médici</Cidade>
+    <Cidade>Primavera de Rondônia</Cidade>
+    <Cidade>Rio Crespo</Cidade>
+    <Cidade>Rolim de Moura</Cidade>
+    <Cidade>Santa Luzia d`Oeste</Cidade>
+    <Cidade>São Felipe d`Oeste</Cidade>
+    <Cidade>São Francisco do Guaporé</Cidade>
+    <Cidade>São Miguel do Guaporé</Cidade>
+    <Cidade>Seringueiras</Cidade>
+    <Cidade>Teixeirópolis</Cidade>
+    <Cidade>Theobroma</Cidade>
+    <Cidade>Urupá</Cidade>
+    <Cidade>Vale do Anari</Cidade>
+    <Cidade>Vale do Paraíso</Cidade>
+    <Cidade>Vilhena</Cidade>
+    <Cidade>Alto Alegre</Cidade>
+    <Cidade>Amajari</Cidade>
+    <Cidade>Boa Vista</Cidade>
+    <Cidade>Bonfim</Cidade>
+    <Cidade>Cantá</Cidade>
+    <Cidade>Caracaraí</Cidade>
+    <Cidade>Caroebe</Cidade>
+    <Cidade>Iracema</Cidade>
+    <Cidade>Mucajaí</Cidade>
+    <Cidade>Normandia</Cidade>
+    <Cidade>Pacaraima</Cidade>
+    <Cidade>Rorainópolis</Cidade>
+    <Cidade>São João da Baliza</Cidade>
+    <Cidade>São Luiz</Cidade>
+    <Cidade>Uiramutã</Cidade>
+    <Cidade>Abdon Batista</Cidade>
+    <Cidade>Abelardo Luz</Cidade>
+    <Cidade>Agrolândia</Cidade>
+    <Cidade>Agronômica</Cidade>
+    <Cidade>Água Doce</Cidade>
+    <Cidade>Águas de Chapecó</Cidade>
+    <Cidade>Águas Frias</Cidade>
+    <Cidade>Águas Mornas</Cidade>
+    <Cidade>Alfredo Wagner</Cidade>
+    <Cidade>Alto Bela Vista</Cidade>
+    <Cidade>Anchieta</Cidade>
+    <Cidade>Angelina</Cidade>
+    <Cidade>Anita Garibaldi</Cidade>
+    <Cidade>Anitápolis</Cidade>
+    <Cidade>Antônio Carlos</Cidade>
+    <Cidade>Apiúna</Cidade>
+    <Cidade>Arabutã</Cidade>
+    <Cidade>Araquari</Cidade>
+    <Cidade>Araranguá</Cidade>
+    <Cidade>Armazém</Cidade>
+    <Cidade>Arroio Trinta</Cidade>
+    <Cidade>Arvoredo</Cidade>
+    <Cidade>Ascurra</Cidade>
+    <Cidade>Atalanta</Cidade>
+    <Cidade>Aurora</Cidade>
+    <Cidade>Balneário Arroio do Silva</Cidade>
+    <Cidade>Balneário Barra do Sul</Cidade>
+    <Cidade>Balneário Camboriú</Cidade>
+    <Cidade>Balneário Gaivota</Cidade>
+    <Cidade>Bandeirante</Cidade>
+    <Cidade>Barra Bonita</Cidade>
+    <Cidade>Barra Velha</Cidade>
+    <Cidade>Bela Vista do Toldo</Cidade>
+    <Cidade>Belmonte</Cidade>
+    <Cidade>Benedito Novo</Cidade>
+    <Cidade>Biguaçu</Cidade>
+    <Cidade>Blumenau</Cidade>
+    <Cidade>Bocaina do Sul</Cidade>
+    <Cidade>Bom Jardim da Serra</Cidade>
+    <Cidade>Bom Jesus</Cidade>
+    <Cidade>Bom Jesus do Oeste</Cidade>
+    <Cidade>Bom Retiro</Cidade>
+    <Cidade>Bombinhas</Cidade>
+    <Cidade>Botuverá</Cidade>
+    <Cidade>Braço do Norte</Cidade>
+    <Cidade>Braço do Trombudo</Cidade>
+    <Cidade>Brunópolis</Cidade>
+    <Cidade>Brusque</Cidade>
+    <Cidade>Caçador</Cidade>
+    <Cidade>Caibi</Cidade>
+    <Cidade>Calmon</Cidade>
+    <Cidade>Camboriú</Cidade>
+    <Cidade>Campo Alegre</Cidade>
+    <Cidade>Campo Belo do Sul</Cidade>
+    <Cidade>Campo Erê</Cidade>
+    <Cidade>Campos Novos</Cidade>
+    <Cidade>Canelinha</Cidade>
+    <Cidade>Canoinhas</Cidade>
+    <Cidade>Capão Alto</Cidade>
+    <Cidade>Capinzal</Cidade>
+    <Cidade>Capivari de Baixo</Cidade>
+    <Cidade>Catanduvas</Cidade>
+    <Cidade>Caxambu do Sul</Cidade>
+    <Cidade>Celso Ramos</Cidade>
+    <Cidade>Cerro Negro</Cidade>
+    <Cidade>Chapadão do Lageado</Cidade>
+    <Cidade>Chapecó</Cidade>
+    <Cidade>Cocal do Sul</Cidade>
+    <Cidade>Concórdia</Cidade>
+    <Cidade>Cordilheira Alta</Cidade>
+    <Cidade>Coronel Freitas</Cidade>
+    <Cidade>Coronel Martins</Cidade>
+    <Cidade>Correia Pinto</Cidade>
+    <Cidade>Corupá</Cidade>
+    <Cidade>Criciúma</Cidade>
+    <Cidade>Cunha Porã</Cidade>
+    <Cidade>Cunhataí</Cidade>
+    <Cidade>Curitibanos</Cidade>
+    <Cidade>Descanso</Cidade>
+    <Cidade>Dionísio Cerqueira</Cidade>
+    <Cidade>Dona Emma</Cidade>
+    <Cidade>Doutor Pedrinho</Cidade>
+    <Cidade>Entre Rios</Cidade>
+    <Cidade>Ermo</Cidade>
+    <Cidade>Erval Velho</Cidade>
+    <Cidade>Faxinal dos Guedes</Cidade>
+    <Cidade>Flor do Sertão</Cidade>
+    <Cidade>Florianópolis</Cidade>
+    <Cidade>Formosa do Sul</Cidade>
+    <Cidade>Forquilhinha</Cidade>
+    <Cidade>Fraiburgo</Cidade>
+    <Cidade>Frei Rogério</Cidade>
+    <Cidade>Galvão</Cidade>
+    <Cidade>Garopaba</Cidade>
+    <Cidade>Garuva</Cidade>
+    <Cidade>Gaspar</Cidade>
+    <Cidade>Governador Celso Ramos</Cidade>
+    <Cidade>Grão Pará</Cidade>
+    <Cidade>Gravatal</Cidade>
+    <Cidade>Guabiruba</Cidade>
+    <Cidade>Guaraciaba</Cidade>
+    <Cidade>Guaramirim</Cidade>
+    <Cidade>Guarujá do Sul</Cidade>
+    <Cidade>Guatambú</Cidade>
+    <Cidade>Herval d`Oeste</Cidade>
+    <Cidade>Ibiam</Cidade>
+    <Cidade>Ibicaré</Cidade>
+    <Cidade>Ibirama</Cidade>
+    <Cidade>Içara</Cidade>
+    <Cidade>Ilhota</Cidade>
+    <Cidade>Imaruí</Cidade>
+    <Cidade>Imbituba</Cidade>
+    <Cidade>Imbuia</Cidade>
+    <Cidade>Indaial</Cidade>
+    <Cidade>Iomerê</Cidade>
+    <Cidade>Ipira</Cidade>
+    <Cidade>Iporã do Oeste</Cidade>
+    <Cidade>Ipuaçu</Cidade>
+    <Cidade>Ipumirim</Cidade>
+    <Cidade>Iraceminha</Cidade>
+    <Cidade>Irani</Cidade>
+    <Cidade>Irati</Cidade>
+    <Cidade>Irineópolis</Cidade>
+    <Cidade>Itá</Cidade>
+    <Cidade>Itaiópolis</Cidade>
+    <Cidade>Itajaí</Cidade>
+    <Cidade>Itapema</Cidade>
+    <Cidade>Itapiranga</Cidade>
+    <Cidade>Itapoá</Cidade>
+    <Cidade>Ituporanga</Cidade>
+    <Cidade>Jaborá</Cidade>
+    <Cidade>Jacinto Machado</Cidade>
+    <Cidade>Jaguaruna</Cidade>
+    <Cidade>Jaraguá do Sul</Cidade>
+    <Cidade>Jardinópolis</Cidade>
+    <Cidade>Joaçaba</Cidade>
+    <Cidade>Joinville</Cidade>
+    <Cidade>José Boiteux</Cidade>
+    <Cidade>Jupiá</Cidade>
+    <Cidade>Lacerdópolis</Cidade>
+    <Cidade>Lages</Cidade>
+    <Cidade>Laguna</Cidade>
+    <Cidade>Lajeado Grande</Cidade>
+    <Cidade>Laurentino</Cidade>
+    <Cidade>Lauro Muller</Cidade>
+    <Cidade>Lebon Régis</Cidade>
+    <Cidade>Leoberto Leal</Cidade>
+    <Cidade>Lindóia do Sul</Cidade>
+    <Cidade>Lontras</Cidade>
+    <Cidade>Luiz Alves</Cidade>
+    <Cidade>Luzerna</Cidade>
+    <Cidade>Macieira</Cidade>
+    <Cidade>Mafra</Cidade>
+    <Cidade>Major Gercino</Cidade>
+    <Cidade>Major Vieira</Cidade>
+    <Cidade>Maracajá</Cidade>
+    <Cidade>Maravilha</Cidade>
+    <Cidade>Marema</Cidade>
+    <Cidade>Massaranduba</Cidade>
+    <Cidade>Matos Costa</Cidade>
+    <Cidade>Meleiro</Cidade>
+    <Cidade>Mirim Doce</Cidade>
+    <Cidade>Modelo</Cidade>
+    <Cidade>Mondaí</Cidade>
+    <Cidade>Monte Carlo</Cidade>
+    <Cidade>Monte Castelo</Cidade>
+    <Cidade>Morro da Fumaça</Cidade>
+    <Cidade>Morro Grande</Cidade>
+    <Cidade>Navegantes</Cidade>
+    <Cidade>Nova Erechim</Cidade>
+    <Cidade>Nova Itaberaba</Cidade>
+    <Cidade>Nova Trento</Cidade>
+    <Cidade>Nova Veneza</Cidade>
+    <Cidade>Novo Horizonte</Cidade>
+    <Cidade>Orleans</Cidade>
+    <Cidade>Otacílio Costa</Cidade>
+    <Cidade>Ouro</Cidade>
+    <Cidade>Ouro Verde</Cidade>
+    <Cidade>Paial</Cidade>
+    <Cidade>Painel</Cidade>
+    <Cidade>Palhoça</Cidade>
+    <Cidade>Palma Sola</Cidade>
+    <Cidade>Palmeira</Cidade>
+    <Cidade>Palmitos</Cidade>
+    <Cidade>Papanduva</Cidade>
+    <Cidade>Paraíso</Cidade>
+    <Cidade>Passo de Torres</Cidade>
+    <Cidade>Passos Maia</Cidade>
+    <Cidade>Paulo Lopes</Cidade>
+    <Cidade>Pedras Grandes</Cidade>
+    <Cidade>Penha</Cidade>
+    <Cidade>Peritiba</Cidade>
+    <Cidade>Petrolândia</Cidade>
+    <Cidade>Piçarras</Cidade>
+    <Cidade>Pinhalzinho</Cidade>
+    <Cidade>Pinheiro Preto</Cidade>
+    <Cidade>Piratuba</Cidade>
+    <Cidade>Planalto Alegre</Cidade>
+    <Cidade>Pomerode</Cidade>
+    <Cidade>Ponte Alta</Cidade>
+    <Cidade>Ponte Alta do Norte</Cidade>
+    <Cidade>Ponte Serrada</Cidade>
+    <Cidade>Porto Belo</Cidade>
+    <Cidade>Porto União</Cidade>
+    <Cidade>Pouso Redondo</Cidade>
+    <Cidade>Praia Grande</Cidade>
+    <Cidade>Presidente Castelo Branco</Cidade>
+    <Cidade>Presidente Getúlio</Cidade>
+    <Cidade>Presidente Nereu</Cidade>
+    <Cidade>Princesa</Cidade>
+    <Cidade>Quilombo</Cidade>
+    <Cidade>Rancho Queimado</Cidade>
+    <Cidade>Rio das Antas</Cidade>
+    <Cidade>Rio do Campo</Cidade>
+    <Cidade>Rio do Oeste</Cidade>
+    <Cidade>Rio do Sul</Cidade>
+    <Cidade>Rio dos Cedros</Cidade>
+    <Cidade>Rio Fortuna</Cidade>
+    <Cidade>Rio Negrinho</Cidade>
+    <Cidade>Rio Rufino</Cidade>
+    <Cidade>Riqueza</Cidade>
+    <Cidade>Rodeio</Cidade>
+    <Cidade>Romelândia</Cidade>
+    <Cidade>Salete</Cidade>
+    <Cidade>Saltinho</Cidade>
+    <Cidade>Salto Veloso</Cidade>
+    <Cidade>Sangão</Cidade>
+    <Cidade>Santa Cecília</Cidade>
+    <Cidade>Santa Helena</Cidade>
+    <Cidade>Santa Rosa de Lima</Cidade>
+    <Cidade>Santa Rosa do Sul</Cidade>
+    <Cidade>Santa Terezinha</Cidade>
+    <Cidade>Santa Terezinha do Progresso</Cidade>
+    <Cidade>Santiago do Sul</Cidade>
+    <Cidade>Santo Amaro da Imperatriz</Cidade>
+    <Cidade>São Bento do Sul</Cidade>
+    <Cidade>São Bernardino</Cidade>
+    <Cidade>São Bonifácio</Cidade>
+    <Cidade>São Carlos</Cidade>
+    <Cidade>São Cristovão do Sul</Cidade>
+    <Cidade>São Domingos</Cidade>
+    <Cidade>São Francisco do Sul</Cidade>
+    <Cidade>São João Batista</Cidade>
+    <Cidade>São João do Itaperiú</Cidade>
+    <Cidade>São João do Oeste</Cidade>
+    <Cidade>São João do Sul</Cidade>
+    <Cidade>São Joaquim</Cidade>
+    <Cidade>São José</Cidade>
+    <Cidade>São José do Cedro</Cidade>
+    <Cidade>São José do Cerrito</Cidade>
+    <Cidade>São Lourenço do Oeste</Cidade>
+    <Cidade>São Ludgero</Cidade>
+    <Cidade>São Martinho</Cidade>
+    <Cidade>São Miguel da Boa Vista</Cidade>
+    <Cidade>São Miguel do Oeste</Cidade>
+    <Cidade>São Pedro de Alcântara</Cidade>
+    <Cidade>Saudades</Cidade>
+    <Cidade>Schroeder</Cidade>
+    <Cidade>Seara</Cidade>
+    <Cidade>Serra Alta</Cidade>
+    <Cidade>Siderópolis</Cidade>
+    <Cidade>Sombrio</Cidade>
+    <Cidade>Sul Brasil</Cidade>
+    <Cidade>Taió</Cidade>
+    <Cidade>Tangará</Cidade>
+    <Cidade>Tigrinhos</Cidade>
+    <Cidade>Tijucas</Cidade>
+    <Cidade>Timbé do Sul</Cidade>
+    <Cidade>Timbó</Cidade>
+    <Cidade>Timbó Grande</Cidade>
+    <Cidade>Três Barras</Cidade>
+    <Cidade>Treviso</Cidade>
+    <Cidade>Treze de Maio</Cidade>
+    <Cidade>Treze Tílias</Cidade>
+    <Cidade>Trombudo Central</Cidade>
+    <Cidade>Tubarão</Cidade>
+    <Cidade>Tunápolis</Cidade>
+    <Cidade>Turvo</Cidade>
+    <Cidade>União do Oeste</Cidade>
+    <Cidade>Urubici</Cidade>
+    <Cidade>Urupema</Cidade>
+    <Cidade>Urussanga</Cidade>
+    <Cidade>Vargeão</Cidade>
+    <Cidade>Vargem</Cidade>
+    <Cidade>Vargem Bonita</Cidade>
+    <Cidade>Vidal Ramos</Cidade>
+    <Cidade>Videira</Cidade>
+    <Cidade>Vitor Meireles</Cidade>
+    <Cidade>Witmarsum</Cidade>
+    <Cidade>Xanxerê</Cidade>
+    <Cidade>Xavantina</Cidade>
+    <Cidade>Xaxim</Cidade>
+    <Cidade>Zortéa</Cidade>
+    <Cidade>Adamantina</Cidade>
+    <Cidade>Adolfo</Cidade>
+    <Cidade>Aguaí</Cidade>
+    <Cidade>Águas da Prata</Cidade>
+    <Cidade>Águas de Lindóia</Cidade>
+    <Cidade>Águas de Santa Bárbara</Cidade>
+    <Cidade>Águas de São Pedro</Cidade>
+    <Cidade>Agudos</Cidade>
+    <Cidade>Alambari</Cidade>
+    <Cidade>Alfredo Marcondes</Cidade>
+    <Cidade>Altair</Cidade>
+    <Cidade>Altinópolis</Cidade>
+    <Cidade>Alto Alegre</Cidade>
+    <Cidade>Alumínio</Cidade>
+    <Cidade>Álvares Florence</Cidade>
+    <Cidade>Álvares Machado</Cidade>
+    <Cidade>Álvaro de Carvalho</Cidade>
+    <Cidade>Alvinlândia</Cidade>
+    <Cidade>Americana</Cidade>
+    <Cidade>Américo Brasiliense</Cidade>
+    <Cidade>Américo de Campos</Cidade>
+    <Cidade>Amparo</Cidade>
+    <Cidade>Analândia</Cidade>
+    <Cidade>Andradina</Cidade>
+    <Cidade>Angatuba</Cidade>
+    <Cidade>Anhembi</Cidade>
+    <Cidade>Anhumas</Cidade>
+    <Cidade>Aparecida</Cidade>
+    <Cidade>Aparecida d`Oeste</Cidade>
+    <Cidade>Apiaí</Cidade>
+    <Cidade>Araçariguama</Cidade>
+    <Cidade>Araçatuba</Cidade>
+    <Cidade>Araçoiaba da Serra</Cidade>
+    <Cidade>Aramina</Cidade>
+    <Cidade>Arandu</Cidade>
+    <Cidade>Arapeí</Cidade>
+    <Cidade>Araraquara</Cidade>
+    <Cidade>Araras</Cidade>
+    <Cidade>Arco-Íris</Cidade>
+    <Cidade>Arealva</Cidade>
+    <Cidade>Areias</Cidade>
+    <Cidade>Areiópolis</Cidade>
+    <Cidade>Ariranha</Cidade>
+    <Cidade>Artur Nogueira</Cidade>
+    <Cidade>Arujá</Cidade>
+    <Cidade>Aspásia</Cidade>
+    <Cidade>Assis</Cidade>
+    <Cidade>Atibaia</Cidade>
+    <Cidade>Auriflama</Cidade>
+    <Cidade>Avaí</Cidade>
+    <Cidade>Avanhandava</Cidade>
+    <Cidade>Avaré</Cidade>
+    <Cidade>Bady Bassitt</Cidade>
+    <Cidade>Balbinos</Cidade>
+    <Cidade>Bálsamo</Cidade>
+    <Cidade>Bananal</Cidade>
+    <Cidade>Barão de Antonina</Cidade>
+    <Cidade>Barbosa</Cidade>
+    <Cidade>Bariri</Cidade>
+    <Cidade>Barra Bonita</Cidade>
+    <Cidade>Barra do Chapéu</Cidade>
+    <Cidade>Barra do Turvo</Cidade>
+    <Cidade>Barretos</Cidade>
+    <Cidade>Barrinha</Cidade>
+    <Cidade>Barueri</Cidade>
+    <Cidade>Bastos</Cidade>
+    <Cidade>Batatais</Cidade>
+    <Cidade>Bauru</Cidade>
+    <Cidade>Bebedouro</Cidade>
+    <Cidade>Bento de Abreu</Cidade>
+    <Cidade>Bernardino de Campos</Cidade>
+    <Cidade>Bertioga</Cidade>
+    <Cidade>Bilac</Cidade>
+    <Cidade>Birigui</Cidade>
+    <Cidade>Biritiba-Mirim</Cidade>
+    <Cidade>Boa Esperança do Sul</Cidade>
+    <Cidade>Bocaina</Cidade>
+    <Cidade>Bofete</Cidade>
+    <Cidade>Boituva</Cidade>
+    <Cidade>Bom Jesus dos Perdões</Cidade>
+    <Cidade>Bom Sucesso de Itararé</Cidade>
+    <Cidade>Borá</Cidade>
+    <Cidade>Boracéia</Cidade>
+    <Cidade>Borborema</Cidade>
+    <Cidade>Borebi</Cidade>
+    <Cidade>Botucatu</Cidade>
+    <Cidade>Bragança Paulista</Cidade>
+    <Cidade>Braúna</Cidade>
+    <Cidade>Brejo Alegre</Cidade>
+    <Cidade>Brodowski</Cidade>
+    <Cidade>Brotas</Cidade>
+    <Cidade>Buri</Cidade>
+    <Cidade>Buritama</Cidade>
+    <Cidade>Buritizal</Cidade>
+    <Cidade>Cabrália Paulista</Cidade>
+    <Cidade>Cabreúva</Cidade>
+    <Cidade>Caçapava</Cidade>
+    <Cidade>Cachoeira Paulista</Cidade>
+    <Cidade>Caconde</Cidade>
+    <Cidade>Cafelândia</Cidade>
+    <Cidade>Caiabu</Cidade>
+    <Cidade>Caieiras</Cidade>
+    <Cidade>Caiuá</Cidade>
+    <Cidade>Cajamar</Cidade>
+    <Cidade>Cajati</Cidade>
+    <Cidade>Cajobi</Cidade>
+    <Cidade>Cajuru</Cidade>
+    <Cidade>Campina do Monte Alegre</Cidade>
+    <Cidade>Campinas</Cidade>
+    <Cidade>Campo Limpo Paulista</Cidade>
+    <Cidade>Campos do Jordão</Cidade>
+    <Cidade>Campos Novos Paulista</Cidade>
+    <Cidade>Cananéia</Cidade>
+    <Cidade>Canas</Cidade>
+    <Cidade>Cândido Mota</Cidade>
+    <Cidade>Cândido Rodrigues</Cidade>
+    <Cidade>Canitar</Cidade>
+    <Cidade>Capão Bonito</Cidade>
+    <Cidade>Capela do Alto</Cidade>
+    <Cidade>Capivari</Cidade>
+    <Cidade>Caraguatatuba</Cidade>
+    <Cidade>Carapicuíba</Cidade>
+    <Cidade>Cardoso</Cidade>
+    <Cidade>Casa Branca</Cidade>
+    <Cidade>Cássia dos Coqueiros</Cidade>
+    <Cidade>Castilho</Cidade>
+    <Cidade>Catanduva</Cidade>
+    <Cidade>Catiguá</Cidade>
+    <Cidade>Cedral</Cidade>
+    <Cidade>Cerqueira César</Cidade>
+    <Cidade>Cerquilho</Cidade>
+    <Cidade>Cesário Lange</Cidade>
+    <Cidade>Charqueada</Cidade>
+    <Cidade>Chavantes</Cidade>
+    <Cidade>Clementina</Cidade>
+    <Cidade>Colina</Cidade>
+    <Cidade>Colômbia</Cidade>
+    <Cidade>Conchal</Cidade>
+    <Cidade>Conchas</Cidade>
+    <Cidade>Cordeirópolis</Cidade>
+    <Cidade>Coroados</Cidade>
+    <Cidade>Coronel Macedo</Cidade>
+    <Cidade>Corumbataí</Cidade>
+    <Cidade>Cosmópolis</Cidade>
+    <Cidade>Cosmorama</Cidade>
+    <Cidade>Cotia</Cidade>
+    <Cidade>Cravinhos</Cidade>
+    <Cidade>Cristais Paulista</Cidade>
+    <Cidade>Cruzália</Cidade>
+    <Cidade>Cruzeiro</Cidade>
+    <Cidade>Cubatão</Cidade>
+    <Cidade>Cunha</Cidade>
+    <Cidade>Descalvado</Cidade>
+    <Cidade>Diadema</Cidade>
+    <Cidade>Dirce Reis</Cidade>
+    <Cidade>Divinolândia</Cidade>
+    <Cidade>Dobrada</Cidade>
+    <Cidade>Dois Córregos</Cidade>
+    <Cidade>Dolcinópolis</Cidade>
+    <Cidade>Dourado</Cidade>
+    <Cidade>Dracena</Cidade>
+    <Cidade>Duartina</Cidade>
+    <Cidade>Dumont</Cidade>
+    <Cidade>Echaporã</Cidade>
+    <Cidade>Eldorado</Cidade>
+    <Cidade>Elias Fausto</Cidade>
+    <Cidade>Elisiário</Cidade>
+    <Cidade>Embaúba</Cidade>
+    <Cidade>Embu</Cidade>
+    <Cidade>Embu-Guaçu</Cidade>
+    <Cidade>Emilianópolis</Cidade>
+    <Cidade>Engenheiro Coelho</Cidade>
+    <Cidade>Espírito Santo do Pinhal</Cidade>
+    <Cidade>Espírito Santo do Turvo</Cidade>
+    <Cidade>Estiva Gerbi</Cidade>
+    <Cidade>Estrela d`Oeste</Cidade>
+    <Cidade>Estrela do Norte</Cidade>
+    <Cidade>Euclides da Cunha Paulista</Cidade>
+    <Cidade>Fartura</Cidade>
+    <Cidade>Fernando Prestes</Cidade>
+    <Cidade>Fernandópolis</Cidade>
+    <Cidade>Fernão</Cidade>
+    <Cidade>Ferraz de Vasconcelos</Cidade>
+    <Cidade>Flora Rica</Cidade>
+    <Cidade>Floreal</Cidade>
+    <Cidade>Flórida Paulista</Cidade>
+    <Cidade>Florínia</Cidade>
+    <Cidade>Franca</Cidade>
+    <Cidade>Francisco Morato</Cidade>
+    <Cidade>Franco da Rocha</Cidade>
+    <Cidade>Gabriel Monteiro</Cidade>
+    <Cidade>Gália</Cidade>
+    <Cidade>Garça</Cidade>
+    <Cidade>Gastão Vidigal</Cidade>
+    <Cidade>Gavião Peixoto</Cidade>
+    <Cidade>General Salgado</Cidade>
+    <Cidade>Getulina</Cidade>
+    <Cidade>Glicério</Cidade>
+    <Cidade>Guaiçara</Cidade>
+    <Cidade>Guaimbê</Cidade>
+    <Cidade>Guaíra</Cidade>
+    <Cidade>Guapiaçu</Cidade>
+    <Cidade>Guapiara</Cidade>
+    <Cidade>Guará</Cidade>
+    <Cidade>Guaraçaí</Cidade>
+    <Cidade>Guaraci</Cidade>
+    <Cidade>Guarani d`Oeste</Cidade>
+    <Cidade>Guarantã</Cidade>
+    <Cidade>Guararapes</Cidade>
+    <Cidade>Guararema</Cidade>
+    <Cidade>Guaratinguetá</Cidade>
+    <Cidade>Guareí</Cidade>
+    <Cidade>Guariba</Cidade>
+    <Cidade>Guarujá</Cidade>
+    <Cidade>Guarulhos</Cidade>
+    <Cidade>Guatapará</Cidade>
+    <Cidade>Guzolândia</Cidade>
+    <Cidade>Herculândia</Cidade>
+    <Cidade>Holambra</Cidade>
+    <Cidade>Hortolândia</Cidade>
+    <Cidade>Iacanga</Cidade>
+    <Cidade>Iacri</Cidade>
+    <Cidade>Iaras</Cidade>
+    <Cidade>Ibaté</Cidade>
+    <Cidade>Ibirá</Cidade>
+    <Cidade>Ibirarema</Cidade>
+    <Cidade>Ibitinga</Cidade>
+    <Cidade>Ibiúna</Cidade>
+    <Cidade>Icém</Cidade>
+    <Cidade>Iepê</Cidade>
+    <Cidade>Igaraçu do Tietê</Cidade>
+    <Cidade>Igarapava</Cidade>
+    <Cidade>Igaratá</Cidade>
+    <Cidade>Iguape</Cidade>
+    <Cidade>Ilha Comprida</Cidade>
+    <Cidade>Ilha Solteira</Cidade>
+    <Cidade>Ilhabela</Cidade>
+    <Cidade>Indaiatuba</Cidade>
+    <Cidade>Indiana</Cidade>
+    <Cidade>Indiaporã</Cidade>
+    <Cidade>Inúbia Paulista</Cidade>
+    <Cidade>Ipaussu</Cidade>
+    <Cidade>Iperó</Cidade>
+    <Cidade>Ipeúna</Cidade>
+    <Cidade>Ipiguá</Cidade>
+    <Cidade>Iporanga</Cidade>
+    <Cidade>Ipuã</Cidade>
+    <Cidade>Iracemápolis</Cidade>
+    <Cidade>Irapuã</Cidade>
+    <Cidade>Irapuru</Cidade>
+    <Cidade>Itaberá</Cidade>
+    <Cidade>Itaí</Cidade>
+    <Cidade>Itajobi</Cidade>
+    <Cidade>Itaju</Cidade>
+    <Cidade>Itanhaém</Cidade>
+    <Cidade>Itaóca</Cidade>
+    <Cidade>Itapecerica da Serra</Cidade>
+    <Cidade>Itapetininga</Cidade>
+    <Cidade>Itapeva</Cidade>
+    <Cidade>Itapevi</Cidade>
+    <Cidade>Itapira</Cidade>
+    <Cidade>Itapirapuã Paulista</Cidade>
+    <Cidade>Itápolis</Cidade>
+    <Cidade>Itaporanga</Cidade>
+    <Cidade>Itapuí</Cidade>
+    <Cidade>Itapura</Cidade>
+    <Cidade>Itaquaquecetuba</Cidade>
+    <Cidade>Itararé</Cidade>
+    <Cidade>Itariri</Cidade>
+    <Cidade>Itatiba</Cidade>
+    <Cidade>Itatinga</Cidade>
+    <Cidade>Itirapina</Cidade>
+    <Cidade>Itirapuã</Cidade>
+    <Cidade>Itobi</Cidade>
+    <Cidade>Itu</Cidade>
+    <Cidade>Itupeva</Cidade>
+    <Cidade>Ituverava</Cidade>
+    <Cidade>Jaborandi</Cidade>
+    <Cidade>Jaboticabal</Cidade>
+    <Cidade>Jacareí</Cidade>
+    <Cidade>Jaci</Cidade>
+    <Cidade>Jacupiranga</Cidade>
+    <Cidade>Jaguariúna</Cidade>
+    <Cidade>Jales</Cidade>
+    <Cidade>Jambeiro</Cidade>
+    <Cidade>Jandira</Cidade>
+    <Cidade>Jardinópolis</Cidade>
+    <Cidade>Jarinu</Cidade>
+    <Cidade>Jaú</Cidade>
+    <Cidade>Jeriquara</Cidade>
+    <Cidade>Joanópolis</Cidade>
+    <Cidade>João Ramalho</Cidade>
+    <Cidade>José Bonifácio</Cidade>
+    <Cidade>Júlio Mesquita</Cidade>
+    <Cidade>Jumirim</Cidade>
+    <Cidade>Jundiaí</Cidade>
+    <Cidade>Junqueirópolis</Cidade>
+    <Cidade>Juquiá</Cidade>
+    <Cidade>Juquitiba</Cidade>
+    <Cidade>Lagoinha</Cidade>
+    <Cidade>Laranjal Paulista</Cidade>
+    <Cidade>Lavínia</Cidade>
+    <Cidade>Lavrinhas</Cidade>
+    <Cidade>Leme</Cidade>
+    <Cidade>Lençóis Paulista</Cidade>
+    <Cidade>Limeira</Cidade>
+    <Cidade>Lindóia</Cidade>
+    <Cidade>Lins</Cidade>
+    <Cidade>Lorena</Cidade>
+    <Cidade>Lourdes</Cidade>
+    <Cidade>Louveira</Cidade>
+    <Cidade>Lucélia</Cidade>
+    <Cidade>Lucianópolis</Cidade>
+    <Cidade>Luís Antônio</Cidade>
+    <Cidade>Luiziânia</Cidade>
+    <Cidade>Lupércio</Cidade>
+    <Cidade>Lutécia</Cidade>
+    <Cidade>Macatuba</Cidade>
+    <Cidade>Macaubal</Cidade>
+    <Cidade>Macedônia</Cidade>
+    <Cidade>Magda</Cidade>
+    <Cidade>Mairinque</Cidade>
+    <Cidade>Mairiporã</Cidade>
+    <Cidade>Manduri</Cidade>
+    <Cidade>Marabá Paulista</Cidade>
+    <Cidade>Maracaí</Cidade>
+    <Cidade>Marapoama</Cidade>
+    <Cidade>Mariápolis</Cidade>
+    <Cidade>Marília</Cidade>
+    <Cidade>Marinópolis</Cidade>
+    <Cidade>Martinópolis</Cidade>
+    <Cidade>Matão</Cidade>
+    <Cidade>Mauá</Cidade>
+    <Cidade>Mendonça</Cidade>
+    <Cidade>Meridiano</Cidade>
+    <Cidade>Mesópolis</Cidade>
+    <Cidade>Miguelópolis</Cidade>
+    <Cidade>Mineiros do Tietê</Cidade>
+    <Cidade>Mira Estrela</Cidade>
+    <Cidade>Miracatu</Cidade>
+    <Cidade>Mirandópolis</Cidade>
+    <Cidade>Mirante do Paranapanema</Cidade>
+    <Cidade>Mirassol</Cidade>
+    <Cidade>Mirassolândia</Cidade>
+    <Cidade>Mococa</Cidade>
+    <Cidade>Mogi das Cruzes</Cidade>
+    <Cidade>Mogi Guaçu</Cidade>
+    <Cidade>Moji Mirim</Cidade>
+    <Cidade>Mombuca</Cidade>
+    <Cidade>Monções</Cidade>
+    <Cidade>Mongaguá</Cidade>
+    <Cidade>Monte Alegre do Sul</Cidade>
+    <Cidade>Monte Alto</Cidade>
+    <Cidade>Monte Aprazível</Cidade>
+    <Cidade>Monte Azul Paulista</Cidade>
+    <Cidade>Monte Castelo</Cidade>
+    <Cidade>Monte Mor</Cidade>
+    <Cidade>Monteiro Lobato</Cidade>
+    <Cidade>Morro Agudo</Cidade>
+    <Cidade>Morungaba</Cidade>
+    <Cidade>Motuca</Cidade>
+    <Cidade>Murutinga do Sul</Cidade>
+    <Cidade>Nantes</Cidade>
+    <Cidade>Narandiba</Cidade>
+    <Cidade>Natividade da Serra</Cidade>
+    <Cidade>Nazaré Paulista</Cidade>
+    <Cidade>Neves Paulista</Cidade>
+    <Cidade>Nhandeara</Cidade>
+    <Cidade>Nipoã</Cidade>
+    <Cidade>Nova Aliança</Cidade>
+    <Cidade>Nova Campina</Cidade>
+    <Cidade>Nova Canaã Paulista</Cidade>
+    <Cidade>Nova Castilho</Cidade>
+    <Cidade>Nova Europa</Cidade>
+    <Cidade>Nova Granada</Cidade>
+    <Cidade>Nova Guataporanga</Cidade>
+    <Cidade>Nova Independência</Cidade>
+    <Cidade>Nova Luzitânia</Cidade>
+    <Cidade>Nova Odessa</Cidade>
+    <Cidade>Novais</Cidade>
+    <Cidade>Novo Horizonte</Cidade>
+    <Cidade>Nuporanga</Cidade>
+    <Cidade>Ocauçu</Cidade>
+    <Cidade>Óleo</Cidade>
+    <Cidade>Olímpia</Cidade>
+    <Cidade>Onda Verde</Cidade>
+    <Cidade>Oriente</Cidade>
+    <Cidade>Orindiúva</Cidade>
+    <Cidade>Orlândia</Cidade>
+    <Cidade>Osasco</Cidade>
+    <Cidade>Oscar Bressane</Cidade>
+    <Cidade>Osvaldo Cruz</Cidade>
+    <Cidade>Ourinhos</Cidade>
+    <Cidade>Ouro Verde</Cidade>
+    <Cidade>Ouroeste</Cidade>
+    <Cidade>Pacaembu</Cidade>
+    <Cidade>Palestina</Cidade>
+    <Cidade>Palmares Paulista</Cidade>
+    <Cidade>Palmeira d`Oeste</Cidade>
+    <Cidade>Palmital</Cidade>
+    <Cidade>Panorama</Cidade>
+    <Cidade>Paraguaçu Paulista</Cidade>
+    <Cidade>Paraibuna</Cidade>
+    <Cidade>Paraíso</Cidade>
+    <Cidade>Paranapanema</Cidade>
+    <Cidade>Paranapuã</Cidade>
+    <Cidade>Parapuã</Cidade>
+    <Cidade>Pardinho</Cidade>
+    <Cidade>Pariquera-Açu</Cidade>
+    <Cidade>Parisi</Cidade>
+    <Cidade>Patrocínio Paulista</Cidade>
+    <Cidade>Paulicéia</Cidade>
+    <Cidade>Paulínia</Cidade>
+    <Cidade>Paulistânia</Cidade>
+    <Cidade>Paulo de Faria</Cidade>
+    <Cidade>Pederneiras</Cidade>
+    <Cidade>Pedra Bela</Cidade>
+    <Cidade>Pedranópolis</Cidade>
+    <Cidade>Pedregulho</Cidade>
+    <Cidade>Pedreira</Cidade>
+    <Cidade>Pedrinhas Paulista</Cidade>
+    <Cidade>Pedro de Toledo</Cidade>
+    <Cidade>Penápolis</Cidade>
+    <Cidade>Pereira Barreto</Cidade>
+    <Cidade>Pereiras</Cidade>
+    <Cidade>Peruíbe</Cidade>
+    <Cidade>Piacatu</Cidade>
+    <Cidade>Piedade</Cidade>
+    <Cidade>Pilar do Sul</Cidade>
+    <Cidade>Pindamonhangaba</Cidade>
+    <Cidade>Pindorama</Cidade>
+    <Cidade>Pinhalzinho</Cidade>
+    <Cidade>Piquerobi</Cidade>
+    <Cidade>Piquete</Cidade>
+    <Cidade>Piracaia</Cidade>
+    <Cidade>Piracicaba</Cidade>
+    <Cidade>Piraju</Cidade>
+    <Cidade>Pirajuí</Cidade>
+    <Cidade>Pirangi</Cidade>
+    <Cidade>Pirapora do Bom Jesus</Cidade>
+    <Cidade>Pirapozinho</Cidade>
+    <Cidade>Pirassununga</Cidade>
+    <Cidade>Piratininga</Cidade>
+    <Cidade>Pitangueiras</Cidade>
+    <Cidade>Planalto</Cidade>
+    <Cidade>Platina</Cidade>
+    <Cidade>Poá</Cidade>
+    <Cidade>Poloni</Cidade>
+    <Cidade>Pompéia</Cidade>
+    <Cidade>Pongaí</Cidade>
+    <Cidade>Pontal</Cidade>
+    <Cidade>Pontalinda</Cidade>
+    <Cidade>Pontes Gestal</Cidade>
+    <Cidade>Populina</Cidade>
+    <Cidade>Porangaba</Cidade>
+    <Cidade>Porto Feliz</Cidade>
+    <Cidade>Porto Ferreira</Cidade>
+    <Cidade>Potim</Cidade>
+    <Cidade>Potirendaba</Cidade>
+    <Cidade>Pracinha</Cidade>
+    <Cidade>Pradópolis</Cidade>
+    <Cidade>Praia Grande</Cidade>
+    <Cidade>Pratânia</Cidade>
+    <Cidade>Presidente Alves</Cidade>
+    <Cidade>Presidente Bernardes</Cidade>
+    <Cidade>Presidente Epitácio</Cidade>
+    <Cidade>Presidente Prudente</Cidade>
+    <Cidade>Presidente Venceslau</Cidade>
+    <Cidade>Promissão</Cidade>
+    <Cidade>Quadra</Cidade>
+    <Cidade>Quatá</Cidade>
+    <Cidade>Queiroz</Cidade>
+    <Cidade>Queluz</Cidade>
+    <Cidade>Quintana</Cidade>
+    <Cidade>Rafard</Cidade>
+    <Cidade>Rancharia</Cidade>
+    <Cidade>Redenção da Serra</Cidade>
+    <Cidade>Regente Feijó</Cidade>
+    <Cidade>Reginópolis</Cidade>
+    <Cidade>Registro</Cidade>
+    <Cidade>Restinga</Cidade>
+    <Cidade>Ribeira</Cidade>
+    <Cidade>Ribeirão Bonito</Cidade>
+    <Cidade>Ribeirão Branco</Cidade>
+    <Cidade>Ribeirão Corrente</Cidade>
+    <Cidade>Ribeirão do Sul</Cidade>
+    <Cidade>Ribeirão dos Índios</Cidade>
+    <Cidade>Ribeirão Grande</Cidade>
+    <Cidade>Ribeirão Pires</Cidade>
+    <Cidade>Ribeirão Preto</Cidade>
+    <Cidade>Rifaina</Cidade>
+    <Cidade>Rincão</Cidade>
+    <Cidade>Rinópolis</Cidade>
+    <Cidade>Rio Claro</Cidade>
+    <Cidade>Rio das Pedras</Cidade>
+    <Cidade>Rio Grande da Serra</Cidade>
+    <Cidade>Riolândia</Cidade>
+    <Cidade>Riversul</Cidade>
+    <Cidade>Rosana</Cidade>
+    <Cidade>Roseira</Cidade>
+    <Cidade>Rubiácea</Cidade>
+    <Cidade>Rubinéia</Cidade>
+    <Cidade>Sabino</Cidade>
+    <Cidade>Sagres</Cidade>
+    <Cidade>Sales</Cidade>
+    <Cidade>Sales Oliveira</Cidade>
+    <Cidade>Salesópolis</Cidade>
+    <Cidade>Salmourão</Cidade>
+    <Cidade>Saltinho</Cidade>
+    <Cidade>Salto</Cidade>
+    <Cidade>Salto de Pirapora</Cidade>
+    <Cidade>Salto Grande</Cidade>
+    <Cidade>Sandovalina</Cidade>
+    <Cidade>Santa Adélia</Cidade>
+    <Cidade>Santa Albertina</Cidade>
+    <Cidade>Santa Bárbara d`Oeste</Cidade>
+    <Cidade>Santa Branca</Cidade>
+    <Cidade>Santa Clara d`Oeste</Cidade>
+    <Cidade>Santa Cruz da Conceição</Cidade>
+    <Cidade>Santa Cruz da Esperança</Cidade>
+    <Cidade>Santa Cruz das Palmeiras</Cidade>
+    <Cidade>Santa Cruz do Rio Pardo</Cidade>
+    <Cidade>Santa Ernestina</Cidade>
+    <Cidade>Santa Fé do Sul</Cidade>
+    <Cidade>Santa Gertrudes</Cidade>
+    <Cidade>Santa Isabel</Cidade>
+    <Cidade>Santa Lúcia</Cidade>
+    <Cidade>Santa Maria da Serra</Cidade>
+    <Cidade>Santa Mercedes</Cidade>
+    <Cidade>Santa Rita d`Oeste</Cidade>
+    <Cidade>Santa Rita do Passa Quatro</Cidade>
+    <Cidade>Santa Rosa de Viterbo</Cidade>
+    <Cidade>Santa Salete</Cidade>
+    <Cidade>Santana da Ponte Pensa</Cidade>
+    <Cidade>Santana de Parnaíba</Cidade>
+    <Cidade>Santo Anastácio</Cidade>
+    <Cidade>Santo André</Cidade>
+    <Cidade>Santo Antônio da Alegria</Cidade>
+    <Cidade>Santo Antônio de Posse</Cidade>
+    <Cidade>Santo Antônio do Aracanguá</Cidade>
+    <Cidade>Santo Antônio do Jardim</Cidade>
+    <Cidade>Santo Antônio do Pinhal</Cidade>
+    <Cidade>Santo Expedito</Cidade>
+    <Cidade>Santópolis do Aguapeí</Cidade>
+    <Cidade>Santos</Cidade>
+    <Cidade>São Bento do Sapucaí</Cidade>
+    <Cidade>São Bernardo do Campo</Cidade>
+    <Cidade>São Caetano do Sul</Cidade>
+    <Cidade>São Carlos</Cidade>
+    <Cidade>São Francisco</Cidade>
+    <Cidade>São João da Boa Vista</Cidade>
+    <Cidade>São João das Duas Pontes</Cidade>
+    <Cidade>São João de Iracema</Cidade>
+    <Cidade>São João do Pau d`Alho</Cidade>
+    <Cidade>São Joaquim da Barra</Cidade>
+    <Cidade>São José da Bela Vista</Cidade>
+    <Cidade>São José do Barreiro</Cidade>
+    <Cidade>São José do Rio Pardo</Cidade>
+    <Cidade>São José do Rio Preto</Cidade>
+    <Cidade>São José dos Campos</Cidade>
+    <Cidade>São Lourenço da Serra</Cidade>
+    <Cidade>São Luís do Paraitinga</Cidade>
+    <Cidade>São Manuel</Cidade>
+    <Cidade>São Miguel Arcanjo</Cidade>
+    <Cidade>São Paulo</Cidade>
+    <Cidade>São Pedro</Cidade>
+    <Cidade>São Pedro do Turvo</Cidade>
+    <Cidade>São Roque</Cidade>
+    <Cidade>São Sebastião</Cidade>
+    <Cidade>São Sebastião da Grama</Cidade>
+    <Cidade>São Simão</Cidade>
+    <Cidade>São Vicente</Cidade>
+    <Cidade>Sarapuí</Cidade>
+    <Cidade>Sarutaiá</Cidade>
+    <Cidade>Sebastianópolis do Sul</Cidade>
+    <Cidade>Serra Azul</Cidade>
+    <Cidade>Serra Negra</Cidade>
+    <Cidade>Serrana</Cidade>
+    <Cidade>Sertãozinho</Cidade>
+    <Cidade>Sete Barras</Cidade>
+    <Cidade>Severínia</Cidade>
+    <Cidade>Silveiras</Cidade>
+    <Cidade>Socorro</Cidade>
+    <Cidade>Sorocaba</Cidade>
+    <Cidade>Sud Mennucci</Cidade>
+    <Cidade>Sumaré</Cidade>
+    <Cidade>Suzanápolis</Cidade>
+    <Cidade>Suzano</Cidade>
+    <Cidade>Tabapuã</Cidade>
+    <Cidade>Tabatinga</Cidade>
+    <Cidade>Taboão da Serra</Cidade>
+    <Cidade>Taciba</Cidade>
+    <Cidade>Taguaí</Cidade>
+    <Cidade>Taiaçu</Cidade>
+    <Cidade>Taiúva</Cidade>
+    <Cidade>Tambaú</Cidade>
+    <Cidade>Tanabi</Cidade>
+    <Cidade>Tapiraí</Cidade>
+    <Cidade>Tapiratiba</Cidade>
+    <Cidade>Taquaral</Cidade>
+    <Cidade>Taquaritinga</Cidade>
+    <Cidade>Taquarituba</Cidade>
+    <Cidade>Taquarivaí</Cidade>
+    <Cidade>Tarabai</Cidade>
+    <Cidade>Tarumã</Cidade>
+    <Cidade>Tatuí</Cidade>
+    <Cidade>Taubaté</Cidade>
+    <Cidade>Tejupá</Cidade>
+    <Cidade>Teodoro Sampaio</Cidade>
+    <Cidade>Terra Roxa</Cidade>
+    <Cidade>Tietê</Cidade>
+    <Cidade>Timburi</Cidade>
+    <Cidade>Torre de Pedra</Cidade>
+    <Cidade>Torrinha</Cidade>
+    <Cidade>Trabiju</Cidade>
+    <Cidade>Tremembé</Cidade>
+    <Cidade>Três Fronteiras</Cidade>
+    <Cidade>Tuiuti</Cidade>
+    <Cidade>Tupã</Cidade>
+    <Cidade>Tupi Paulista</Cidade>
+    <Cidade>Turiúba</Cidade>
+    <Cidade>Turmalina</Cidade>
+    <Cidade>Ubarana</Cidade>
+    <Cidade>Ubatuba</Cidade>
+    <Cidade>Ubirajara</Cidade>
+    <Cidade>Uchoa</Cidade>
+    <Cidade>União Paulista</Cidade>
+    <Cidade>Urânia</Cidade>
+    <Cidade>Uru</Cidade>
+    <Cidade>Urupês</Cidade>
+    <Cidade>Valentim Gentil</Cidade>
+    <Cidade>Valinhos</Cidade>
+    <Cidade>Valparaíso</Cidade>
+    <Cidade>Vargem</Cidade>
+    <Cidade>Vargem Grande do Sul</Cidade>
+    <Cidade>Vargem Grande Paulista</Cidade>
+    <Cidade>Várzea Paulista</Cidade>
+    <Cidade>Vera Cruz</Cidade>
+    <Cidade>Vinhedo</Cidade>
+    <Cidade>Viradouro</Cidade>
+    <Cidade>Vista Alegre do Alto</Cidade>
+    <Cidade>Vitória Brasil</Cidade>
+    <Cidade>Votorantim</Cidade>
+    <Cidade>Votuporanga</Cidade>
+    <Cidade>Zacarias</Cidade>
+    <Cidade>Amparo de São Francisco</Cidade>
+    <Cidade>Aquidabã</Cidade>
+    <Cidade>Aracaju</Cidade>
+    <Cidade>Arauá</Cidade>
+    <Cidade>Areia Branca</Cidade>
+    <Cidade>Barra dos Coqueiros</Cidade>
+    <Cidade>Boquim</Cidade>
+    <Cidade>Brejo Grande</Cidade>
+    <Cidade>Campo do Brito</Cidade>
+    <Cidade>Canhoba</Cidade>
+    <Cidade>Canindé de São Francisco</Cidade>
+    <Cidade>Capela</Cidade>
+    <Cidade>Carira</Cidade>
+    <Cidade>Carmópolis</Cidade>
+    <Cidade>Cedro de São João</Cidade>
+    <Cidade>Cristinápolis</Cidade>
+    <Cidade>Cumbe</Cidade>
+    <Cidade>Divina Pastora</Cidade>
+    <Cidade>Estância</Cidade>
+    <Cidade>Feira Nova</Cidade>
+    <Cidade>Frei Paulo</Cidade>
+    <Cidade>Gararu</Cidade>
+    <Cidade>General Maynard</Cidade>
+    <Cidade>Gracho Cardoso</Cidade>
+    <Cidade>Ilha das Flores</Cidade>
+    <Cidade>Indiaroba</Cidade>
+    <Cidade>Itabaiana</Cidade>
+    <Cidade>Itabaianinha</Cidade>
+    <Cidade>Itabi</Cidade>
+    <Cidade>Itaporanga d`Ajuda</Cidade>
+    <Cidade>Japaratuba</Cidade>
+    <Cidade>Japoatã</Cidade>
+    <Cidade>Lagarto</Cidade>
+    <Cidade>Laranjeiras</Cidade>
+    <Cidade>Macambira</Cidade>
+    <Cidade>Malhada dos Bois</Cidade>
+    <Cidade>Malhador</Cidade>
+    <Cidade>Maruim</Cidade>
+    <Cidade>Moita Bonita</Cidade>
+    <Cidade>Monte Alegre de Sergipe</Cidade>
+    <Cidade>Muribeca</Cidade>
+    <Cidade>Neópolis</Cidade>
+    <Cidade>Nossa Senhora Aparecida</Cidade>
+    <Cidade>Nossa Senhora da Glória</Cidade>
+    <Cidade>Nossa Senhora das Dores</Cidade>
+    <Cidade>Nossa Senhora de Lourdes</Cidade>
+    <Cidade>Nossa Senhora do Socorro</Cidade>
+    <Cidade>Pacatuba</Cidade>
+    <Cidade>Pedra Mole</Cidade>
+    <Cidade>Pedrinhas</Cidade>
+    <Cidade>Pinhão</Cidade>
+    <Cidade>Pirambu</Cidade>
+    <Cidade>Poço Redondo</Cidade>
+    <Cidade>Poço Verde</Cidade>
+    <Cidade>Porto da Folha</Cidade>
+    <Cidade>Propriá</Cidade>
+    <Cidade>Riachão do Dantas</Cidade>
+    <Cidade>Riachuelo</Cidade>
+    <Cidade>Ribeirópolis</Cidade>
+    <Cidade>Rosário do Catete</Cidade>
+    <Cidade>Salgado</Cidade>
+    <Cidade>Santa Luzia do Itanhy</Cidade>
+    <Cidade>Santa Rosa de Lima</Cidade>
+    <Cidade>Santana do São Francisco</Cidade>
+    <Cidade>Santo Amaro das Brotas</Cidade>
+    <Cidade>São Cristóvão</Cidade>
+    <Cidade>São Domingos</Cidade>
+    <Cidade>São Francisco</Cidade>
+    <Cidade>São Miguel do Aleixo</Cidade>
+    <Cidade>Simão Dias</Cidade>
+    <Cidade>Siriri</Cidade>
+    <Cidade>Telha</Cidade>
+    <Cidade>Tobias Barreto</Cidade>
+    <Cidade>Tomar do Geru</Cidade>
+    <Cidade>Umbaúba</Cidade>
+    <Cidade>Abreulândia</Cidade>
+    <Cidade>Aguiarnópolis</Cidade>
+    <Cidade>Aliança do Tocantins</Cidade>
+    <Cidade>Almas</Cidade>
+    <Cidade>Alvorada</Cidade>
+    <Cidade>Ananás</Cidade>
+    <Cidade>Angico</Cidade>
+    <Cidade>Aparecida do Rio Negro</Cidade>
+    <Cidade>Aragominas</Cidade>
+    <Cidade>Araguacema</Cidade>
+    <Cidade>Araguaçu</Cidade>
+    <Cidade>Araguaína</Cidade>
+    <Cidade>Araguanã</Cidade>
+    <Cidade>Araguatins</Cidade>
+    <Cidade>Arapoema</Cidade>
+    <Cidade>Arraias</Cidade>
+    <Cidade>Augustinópolis</Cidade>
+    <Cidade>Aurora do Tocantins</Cidade>
+    <Cidade>Axixá do Tocantins</Cidade>
+    <Cidade>Babaçulândia</Cidade>
+    <Cidade>Bandeirantes do Tocantins</Cidade>
+    <Cidade>Barra do Ouro</Cidade>
+    <Cidade>Barrolândia</Cidade>
+    <Cidade>Bernardo Sayão</Cidade>
+    <Cidade>Bom Jesus do Tocantins</Cidade>
+    <Cidade>Brasilândia do Tocantins</Cidade>
+    <Cidade>Brejinho de Nazaré</Cidade>
+    <Cidade>Buriti do Tocantins</Cidade>
+    <Cidade>Cachoeirinha</Cidade>
+    <Cidade>Campos Lindos</Cidade>
+    <Cidade>Cariri do Tocantins</Cidade>
+    <Cidade>Carmolândia</Cidade>
+    <Cidade>Carrasco Bonito</Cidade>
+    <Cidade>Caseara</Cidade>
+    <Cidade>Centenário</Cidade>
+    <Cidade>Chapada da Natividade</Cidade>
+    <Cidade>Chapada de Areia</Cidade>
+    <Cidade>Colinas do Tocantins</Cidade>
+    <Cidade>Colméia</Cidade>
+    <Cidade>Combinado</Cidade>
+    <Cidade>Conceição do Tocantins</Cidade>
+    <Cidade>Couto de Magalhães</Cidade>
+    <Cidade>Cristalândia</Cidade>
+    <Cidade>Crixás do Tocantins</Cidade>
+    <Cidade>Darcinópolis</Cidade>
+    <Cidade>Dianópolis</Cidade>
+    <Cidade>Divinópolis do Tocantins</Cidade>
+    <Cidade>Dois Irmãos do Tocantins</Cidade>
+    <Cidade>Dueré</Cidade>
+    <Cidade>Esperantina</Cidade>
+    <Cidade>Fátima</Cidade>
+    <Cidade>Figueirópolis</Cidade>
+    <Cidade>Filadélfia</Cidade>
+    <Cidade>Formoso do Araguaia</Cidade>
+    <Cidade>Fortaleza do Tabocão</Cidade>
+    <Cidade>Goianorte</Cidade>
+    <Cidade>Goiatins</Cidade>
+    <Cidade>Guaraí</Cidade>
+    <Cidade>Gurupi</Cidade>
+    <Cidade>Ipueiras</Cidade>
+    <Cidade>Itacajá</Cidade>
+    <Cidade>Itaguatins</Cidade>
+    <Cidade>Itapiratins</Cidade>
+    <Cidade>Itaporã do Tocantins</Cidade>
+    <Cidade>Jaú do Tocantins</Cidade>
+    <Cidade>Juarina</Cidade>
+    <Cidade>Lagoa da Confusão</Cidade>
+    <Cidade>Lagoa do Tocantins</Cidade>
+    <Cidade>Lajeado</Cidade>
+    <Cidade>Lavandeira</Cidade>
+    <Cidade>Lizarda</Cidade>
+    <Cidade>Luzinópolis</Cidade>
+    <Cidade>Marianópolis do Tocantins</Cidade>
+    <Cidade>Mateiros</Cidade>
+    <Cidade>Maurilândia do Tocantins</Cidade>
+    <Cidade>Miracema do Tocantins</Cidade>
+    <Cidade>Miranorte</Cidade>
+    <Cidade>Monte do Carmo</Cidade>
+    <Cidade>Monte Santo do Tocantins</Cidade>
+    <Cidade>Muricilândia</Cidade>
+    <Cidade>Natividade</Cidade>
+    <Cidade>Nazaré</Cidade>
+    <Cidade>Nova Olinda</Cidade>
+    <Cidade>Nova Rosalândia</Cidade>
+    <Cidade>Novo Acordo</Cidade>
+    <Cidade>Novo Alegre</Cidade>
+    <Cidade>Novo Jardim</Cidade>
+    <Cidade>Oliveira de Fátima</Cidade>
+    <Cidade>Palmas</Cidade>
+    <Cidade>Palmeirante</Cidade>
+    <Cidade>Palmeiras do Tocantins</Cidade>
+    <Cidade>Palmeirópolis</Cidade>
+    <Cidade>Paraíso do Tocantins</Cidade>
+    <Cidade>Paranã</Cidade>
+    <Cidade>Pau d`Arco</Cidade>
+    <Cidade>Pedro Afonso</Cidade>
+    <Cidade>Peixe</Cidade>
+    <Cidade>Pequizeiro</Cidade>
+    <Cidade>Pindorama do Tocantins</Cidade>
+    <Cidade>Piraquê</Cidade>
+    <Cidade>Pium</Cidade>
+    <Cidade>Ponte Alta do Bom Jesus</Cidade>
+    <Cidade>Ponte Alta do Tocantins</Cidade>
+    <Cidade>Porto Alegre do Tocantins</Cidade>
+    <Cidade>Porto Nacional</Cidade>
+    <Cidade>Praia Norte</Cidade>
+    <Cidade>Presidente Kennedy</Cidade>
+    <Cidade>Pugmil</Cidade>
+    <Cidade>Recursolândia</Cidade>
+    <Cidade>Riachinho</Cidade>
+    <Cidade>Rio da Conceição</Cidade>
+    <Cidade>Rio dos Bois</Cidade>
+    <Cidade>Rio Sono</Cidade>
+    <Cidade>Sampaio</Cidade>
+    <Cidade>Sandolândia</Cidade>
+    <Cidade>Santa Fé do Araguaia</Cidade>
+    <Cidade>Santa Maria do Tocantins</Cidade>
+    <Cidade>Santa Rita do Tocantins</Cidade>
+    <Cidade>Santa Rosa do Tocantins</Cidade>
+    <Cidade>Santa Tereza do Tocantins</Cidade>
+    <Cidade>Santa Terezinha do Tocantins</Cidade>
+    <Cidade>São Bento do Tocantins</Cidade>
+    <Cidade>São Félix do Tocantins</Cidade>
+    <Cidade>São Miguel do Tocantins</Cidade>
+    <Cidade>São Salvador do Tocantins</Cidade>
+    <Cidade>São Sebastião do Tocantins</Cidade>
+    <Cidade>São Valério da Natividade</Cidade>
+    <Cidade>Silvanópolis</Cidade>
+    <Cidade>Sítio Novo do Tocantins</Cidade>
+    <Cidade>Sucupira</Cidade>
+    <Cidade>Taguatinga</Cidade>
+    <Cidade>Taipas do Tocantins</Cidade>
+    <Cidade>Talismã</Cidade>
+    <Cidade>Tocantínia</Cidade>
+    <Cidade>Tocantinópolis</Cidade>
+    <Cidade>Tupirama</Cidade>
+    <Cidade>Tupiratins</Cidade>
+    <Cidade>Wanderlândia</Cidade>
+    <Cidade>Xambioá</Cidade>
+  </Cidades>
+</RelatorioCidades>
