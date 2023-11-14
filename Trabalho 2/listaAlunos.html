@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Alunos</title>
+</head>
+
+<body>
+    <h1>Lista de Alunos e Notas</h1>
+    <div id="listaAlunos"></div>
+
+    <script>
+
+        let alunosCache = JSON.parse(localStorage.getItem('alunos')) || [];
+
+
+        let listaAlunos = document.getElementById('listaAlunos');
+
+
+        let tableHTML = '<table>';
+        tableHTML += '<tr><th>Nome do Aluno | </th><th>Nota 1 | </th><th>Nota 2 | </th><th>Nota 3 | </th><th>Média de Exercícios | </th><th>Média Final</th></tr>';
+
+        alunosCache.forEach((aluno) => {
+            tableHTML += `<tr>
+    <td>${aluno.nome}</td>
+    <td>${aluno.nota1}</td>
+    <td>${aluno.nota2}</td>
+    <td>${aluno.nota3}</td>
+    <td>${aluno.mediaExercicios}</td>
+    <td>${aluno.mediaFinal}</td>
+  </tr>`;
+        });
+
+        tableHTML += '</table>';
+
+
+        listaAlunos.innerHTML = tableHTML;
+
+    </script>
+</body>
+
+</html>
